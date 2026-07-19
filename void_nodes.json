@@ -1,858 +1,1514 @@
 [
- {
-  "x": 13627,
-  "y": 82,
-  "z": -4367,
-  "profession": "farming",
-  "resource": "Voidgloom",
-  "level": 105
- },
- {
-  "x": 13663,
-  "y": 126,
-  "z": -3953,
-  "profession": "farming",
-  "resource": "Voidgloom",
-  "level": 105
- },
- {
-  "x": 13666,
-  "y": 161,
-  "z": -3973,
-  "profession": "farming",
-  "resource": "Voidgloom",
-  "level": 105
- },
- {
-  "x": 13680,
-  "y": 183,
-  "z": -3969,
-  "profession": "farming",
-  "resource": "Voidgloom",
-  "level": 105
- },
- {
-  "x": 13696,
-  "y": 129,
-  "z": -3968,
-  "profession": "farming",
-  "resource": "Voidgloom",
-  "level": 105
- },
- {
-  "x": 13703,
-  "y": 146,
-  "z": -4002,
-  "profession": "farming",
-  "resource": "Voidgloom",
-  "level": 105
- },
- {
-  "x": 13711,
-  "y": 164,
-  "z": -3931,
-  "profession": "farming",
-  "resource": "Voidgloom",
-  "level": 105
- },
- {
-  "x": 13725,
-  "y": 108,
-  "z": -4190,
-  "profession": "farming",
-  "resource": "Voidgloom",
-  "level": 105
- },
- {
-  "x": 13726,
-  "y": 90,
-  "z": -4185,
-  "profession": "farming",
-  "resource": "Voidgloom",
-  "level": 105
- },
- {
-  "x": 13744,
-  "y": 161,
-  "z": -3860,
-  "profession": "farming",
-  "resource": "Voidgloom",
-  "level": 105
- },
- {
-  "x": 13756,
-  "y": 163,
-  "z": -3807,
-  "profession": "farming",
-  "resource": "Voidgloom",
-  "level": 105
- },
- {
-  "x": 13762,
-  "y": 140,
-  "z": -3859,
-  "profession": "farming",
-  "resource": "Voidgloom",
-  "level": 105
- },
- {
-  "x": 13824,
-  "y": 131,
-  "z": -3777,
-  "profession": "farming",
-  "resource": "Voidgloom",
-  "level": 105
- },
- {
-  "x": 13837,
-  "y": 113,
-  "z": -4131,
-  "profession": "farming",
-  "resource": "Voidgloom",
-  "level": 105
- },
- {
-  "x": 13861,
-  "y": 114,
-  "z": -4128,
-  "profession": "farming",
-  "resource": "Voidgloom",
-  "level": 105
- },
- {
-  "x": 13893,
-  "y": 114,
-  "z": -4210,
-  "profession": "farming",
-  "resource": "Voidgloom",
-  "level": 105
- },
- {
-  "x": 13938,
-  "y": 127,
-  "z": -3769,
-  "profession": "farming",
-  "resource": "Voidgloom",
-  "level": 105
- },
- {
-  "x": 13960,
-  "y": 120,
-  "z": -4233,
-  "profession": "farming",
-  "resource": "Voidgloom",
-  "level": 105
- },
- {
-  "x": 13960,
-  "y": 120,
-  "z": -4177,
-  "profession": "farming",
-  "resource": "Voidgloom",
-  "level": 105
- },
- {
-  "x": 13978,
-  "y": 120,
-  "z": -4245,
-  "profession": "farming",
-  "resource": "Voidgloom",
-  "level": 105
- },
- {
-  "x": 13993,
-  "y": 125,
-  "z": -3994,
-  "profession": "farming",
-  "resource": "Voidgloom",
-  "level": 105
- },
- {
-  "x": 14030,
-  "y": 131,
-  "z": -4102,
-  "profession": "farming",
-  "resource": "Voidgloom",
-  "level": 105
- },
- {
-  "x": 14044,
-  "y": 118,
-  "z": -4229,
-  "profession": "farming",
-  "resource": "Voidgloom",
-  "level": 105
- },
- {
-  "x": 14194,
-  "y": 116,
-  "z": -3924,
-  "profession": "farming",
-  "resource": "Voidgloom",
-  "level": 105
- },
- {
-  "x": 14199,
-  "y": 115,
-  "z": -3928,
-  "profession": "farming",
-  "resource": "Voidgloom",
-  "level": 105
- },
- {
-  "x": 14201,
-  "y": 112,
-  "z": -3934,
-  "profession": "farming",
-  "resource": "Voidgloom",
-  "level": 105
- },
- {
-  "x": 13599,
-  "y": 84,
-  "z": -4421,
-  "profession": "mining",
-  "resource": "Voidstone",
-  "level": 100
- },
- {
-  "x": 13601,
-  "y": 82,
-  "z": -4419,
-  "profession": "mining",
-  "resource": "Voidstone",
-  "level": 100
- },
- {
-  "x": 13666,
-  "y": 135,
-  "z": -4037,
-  "profession": "mining",
-  "resource": "Voidstone",
-  "level": 100
- },
- {
-  "x": 13667,
-  "y": 134,
-  "z": -4041,
-  "profession": "mining",
-  "resource": "Voidstone",
-  "level": 100
- },
- {
-  "x": 13668,
-  "y": 138,
-  "z": -4038,
-  "profession": "mining",
-  "resource": "Voidstone",
-  "level": 100
- },
- {
-  "x": 13673,
-  "y": 137,
-  "z": -4034,
-  "profession": "mining",
-  "resource": "Voidstone",
-  "level": 100
- },
- {
-  "x": 13675,
-  "y": 127,
-  "z": -4047,
-  "profession": "mining",
-  "resource": "Voidstone",
-  "level": 100
- },
- {
-  "x": 13676,
-  "y": 118,
-  "z": -3968,
-  "profession": "mining",
-  "resource": "Voidstone",
-  "level": 100
- },
- {
-  "x": 13678,
-  "y": 117,
-  "z": -3957,
-  "profession": "mining",
-  "resource": "Voidstone",
-  "level": 100
- },
- {
-  "x": 13679,
-  "y": 118,
-  "z": -3954,
-  "profession": "mining",
-  "resource": "Voidstone",
-  "level": 100
- },
- {
-  "x": 13681,
-  "y": 116,
-  "z": -3963,
-  "profession": "mining",
-  "resource": "Voidstone",
-  "level": 100
- },
- {
-  "x": 13693,
-  "y": 117,
-  "z": -3963,
-  "profession": "mining",
-  "resource": "Voidstone",
-  "level": 100
- },
- {
-  "x": 13695,
-  "y": 126,
-  "z": -3923,
-  "profession": "mining",
-  "resource": "Voidstone",
-  "level": 100
- },
- {
-  "x": 13696,
-  "y": 119,
-  "z": -3928,
-  "profession": "mining",
-  "resource": "Voidstone",
-  "level": 100
- },
- {
-  "x": 13697,
-  "y": 117,
-  "z": -3934,
-  "profession": "mining",
-  "resource": "Voidstone",
-  "level": 100
- },
- {
-  "x": 13699,
-  "y": 125,
-  "z": -3922,
-  "profession": "mining",
-  "resource": "Voidstone",
-  "level": 100
- },
- {
-  "x": 13700,
-  "y": 117,
-  "z": -3927,
-  "profession": "mining",
-  "resource": "Voidstone",
-  "level": 100
- },
- {
-  "x": 13701,
-  "y": 116,
-  "z": -3968,
-  "profession": "mining",
-  "resource": "Voidstone",
-  "level": 100
- },
- {
-  "x": 13702,
-  "y": 117,
-  "z": -3963,
-  "profession": "mining",
-  "resource": "Voidstone",
-  "level": 100
- },
- {
-  "x": 13706,
-  "y": 117,
-  "z": -3950,
-  "profession": "mining",
-  "resource": "Voidstone",
-  "level": 100
- },
- {
-  "x": 13707,
-  "y": 118,
-  "z": -3967,
-  "profession": "mining",
-  "resource": "Voidstone",
-  "level": 100
- },
- {
-  "x": 13707,
-  "y": 117,
-  "z": -3948,
-  "profession": "mining",
-  "resource": "Voidstone",
-  "level": 100
- },
- {
-  "x": 13711,
-  "y": 117,
-  "z": -3946,
-  "profession": "mining",
-  "resource": "Voidstone",
-  "level": 100
- },
- {
-  "x": 13730,
-  "y": 81,
-  "z": -4157,
-  "profession": "mining",
-  "resource": "Voidstone",
-  "level": 100
- },
- {
-  "x": 13736,
-  "y": 80,
-  "z": -4154,
-  "profession": "mining",
-  "resource": "Voidstone",
-  "level": 100
- },
- {
-  "x": 13740,
-  "y": 81,
-  "z": -4155,
-  "profession": "mining",
-  "resource": "Voidstone",
-  "level": 100
- },
- {
-  "x": 13747,
-  "y": 81,
-  "z": -4170,
-  "profession": "mining",
-  "resource": "Voidstone",
-  "level": 100
- },
- {
-  "x": 13820,
-  "y": 133,
-  "z": -3799,
-  "profession": "mining",
-  "resource": "Voidstone",
-  "level": 100
- },
- {
-  "x": 13821,
-  "y": 131,
-  "z": -3797,
-  "profession": "mining",
-  "resource": "Voidstone",
-  "level": 100
- },
- {
-  "x": 13833,
-  "y": 114,
-  "z": -4158,
-  "profession": "mining",
-  "resource": "Voidstone",
-  "level": 100
- },
- {
-  "x": 13835,
-  "y": 116,
-  "z": -4161,
-  "profession": "mining",
-  "resource": "Voidstone",
-  "level": 100
- },
- {
-  "x": 13835,
-  "y": 131,
-  "z": -3795,
-  "profession": "mining",
-  "resource": "Voidstone",
-  "level": 100
- },
- {
-  "x": 13837,
-  "y": 118,
-  "z": -4163,
-  "profession": "mining",
-  "resource": "Voidstone",
-  "level": 100
- },
- {
-  "x": 13840,
-  "y": 116,
-  "z": -4157,
-  "profession": "mining",
-  "resource": "Voidstone",
-  "level": 100
- },
- {
-  "x": 13841,
-  "y": 115,
-  "z": -4158,
-  "profession": "mining",
-  "resource": "Voidstone",
-  "level": 100
- },
- {
-  "x": 13843,
-  "y": 131,
-  "z": -3794,
-  "profession": "mining",
-  "resource": "Voidstone",
-  "level": 100
- },
- {
-  "x": 13846,
-  "y": 135,
-  "z": -3782,
-  "profession": "mining",
-  "resource": "Voidstone",
-  "level": 100
- },
- {
-  "x": 13847,
-  "y": 130,
-  "z": -3785,
-  "profession": "mining",
-  "resource": "Voidstone",
-  "level": 100
- },
- {
-  "x": 13850,
-  "y": 131,
-  "z": -3786,
-  "profession": "mining",
-  "resource": "Voidstone",
-  "level": 100
- },
- {
-  "x": 13852,
-  "y": 133,
-  "z": -3795,
-  "profession": "mining",
-  "resource": "Voidstone",
-  "level": 100
- },
- {
-  "x": 13874,
-  "y": 114,
-  "z": -4182,
-  "profession": "mining",
-  "resource": "Voidstone",
-  "level": 100
- },
- {
-  "x": 13876,
-  "y": 115,
-  "z": -4186,
-  "profession": "mining",
-  "resource": "Voidstone",
-  "level": 100
- },
- {
-  "x": 13878,
-  "y": 113,
-  "z": -4187,
-  "profession": "mining",
-  "resource": "Voidstone",
-  "level": 100
- },
- {
-  "x": 13944,
-  "y": 120,
-  "z": -4210,
-  "profession": "mining",
-  "resource": "Voidstone",
-  "level": 100
- },
- {
-  "x": 13946,
-  "y": 120,
-  "z": -4214,
-  "profession": "mining",
-  "resource": "Voidstone",
-  "level": 100
- },
- {
-  "x": 13946,
-  "y": 118,
-  "z": -4184,
-  "profession": "mining",
-  "resource": "Voidstone",
-  "level": 100
- },
- {
-  "x": 13949,
-  "y": 119,
-  "z": -4187,
-  "profession": "mining",
-  "resource": "Voidstone",
-  "level": 100
- },
- {
-  "x": 13954,
-  "y": 129,
-  "z": -3773,
-  "profession": "mining",
-  "resource": "Voidstone",
-  "level": 100
- },
- {
-  "x": 13959,
-  "y": 121,
-  "z": -4215,
-  "profession": "mining",
-  "resource": "Voidstone",
-  "level": 100
- },
- {
-  "x": 13962,
-  "y": 123,
-  "z": -4212,
-  "profession": "mining",
-  "resource": "Voidstone",
-  "level": 100
- },
- {
-  "x": 13970,
-  "y": 121,
-  "z": -4234,
-  "profession": "mining",
-  "resource": "Voidstone",
-  "level": 100
- },
- {
-  "x": 13970,
-  "y": 134,
-  "z": -4205,
-  "profession": "mining",
-  "resource": "Voidstone",
-  "level": 100
- },
- {
-  "x": 13971,
-  "y": 123,
-  "z": -4232,
-  "profession": "mining",
-  "resource": "Voidstone",
-  "level": 100
- },
- {
-  "x": 13971,
-  "y": 121,
-  "z": -4172,
-  "profession": "mining",
-  "resource": "Voidstone",
-  "level": 100
- },
- {
-  "x": 13974,
-  "y": 121,
-  "z": -4173,
-  "profession": "mining",
-  "resource": "Voidstone",
-  "level": 100
- },
- {
-  "x": 13975,
-  "y": 111,
-  "z": -4193,
-  "profession": "mining",
-  "resource": "Voidstone",
-  "level": 100
- },
- {
-  "x": 13976,
-  "y": 116,
-  "z": -4206,
-  "profession": "mining",
-  "resource": "Voidstone",
-  "level": 100
- },
- {
-  "x": 13976,
-  "y": 112,
-  "z": -4199,
-  "profession": "mining",
-  "resource": "Voidstone",
-  "level": 100
- },
- {
-  "x": 13981,
-  "y": 111,
-  "z": -4198,
-  "profession": "mining",
-  "resource": "Voidstone",
-  "level": 100
- },
- {
-  "x": 13985,
-  "y": 112,
-  "z": -4197,
-  "profession": "mining",
-  "resource": "Voidstone",
-  "level": 100
- },
- {
-  "x": 13987,
-  "y": 114,
-  "z": -4197,
-  "profession": "mining",
-  "resource": "Voidstone",
-  "level": 100
- },
- {
-  "x": 13996,
-  "y": 121,
-  "z": -4172,
-  "profession": "mining",
-  "resource": "Voidstone",
-  "level": 100
- },
- {
-  "x": 13996,
-  "y": 126,
-  "z": -4007,
-  "profession": "mining",
-  "resource": "Voidstone",
-  "level": 100
- },
- {
-  "x": 13998,
-  "y": 122,
-  "z": -4198,
-  "profession": "mining",
-  "resource": "Voidstone",
-  "level": 100
- },
- {
-  "x": 13999,
-  "y": 123,
-  "z": -4173,
-  "profession": "mining",
-  "resource": "Voidstone",
-  "level": 100
- },
- {
-  "x": 14000,
-  "y": 122,
-  "z": -4200,
-  "profession": "mining",
-  "resource": "Voidstone",
-  "level": 100
- },
- {
-  "x": 14000,
-  "y": 117,
-  "z": -3980,
-  "profession": "mining",
-  "resource": "Voidstone",
-  "level": 100
- },
- {
-  "x": 14002,
-  "y": 121,
-  "z": -4180,
-  "profession": "mining",
-  "resource": "Voidstone",
-  "level": 100
- },
- {
-  "x": 14007,
-  "y": 118,
-  "z": -3984,
-  "profession": "mining",
-  "resource": "Voidstone",
-  "level": 100
- },
- {
-  "x": 14008,
-  "y": 121,
-  "z": -4218,
-  "profession": "mining",
-  "resource": "Voidstone",
-  "level": 100
- },
- {
-  "x": 14010,
-  "y": 124,
-  "z": -4219,
-  "profession": "mining",
-  "resource": "Voidstone",
-  "level": 100
- },
- {
-  "x": 14180,
-  "y": 84,
-  "z": -3929,
-  "profession": "mining",
-  "resource": "Voidstone",
-  "level": 100
- },
- {
-  "x": 14184,
-  "y": 85,
-  "z": -3934,
-  "profession": "mining",
-  "resource": "Voidstone",
-  "level": 100
- },
- {
-  "x": 14188,
-  "y": 91,
-  "z": -3920,
-  "profession": "mining",
-  "resource": "Voidstone",
-  "level": 100
- },
- {
-  "x": 14189,
-  "y": 84,
-  "z": -3922,
-  "profession": "mining",
-  "resource": "Voidstone",
-  "level": 100
- },
- {
-  "x": 14191,
-  "y": 85,
-  "z": -3947,
-  "profession": "mining",
-  "resource": "Voidstone",
-  "level": 100
- },
- {
-  "x": 14194,
-  "y": 85,
-  "z": -3943,
-  "profession": "mining",
-  "resource": "Voidstone",
-  "level": 100
- },
- {
-  "x": 14194,
-  "y": 84,
-  "z": -3926,
-  "profession": "mining",
-  "resource": "Voidstone",
-  "level": 100
- },
- {
-  "x": 14200,
-  "y": 84,
-  "z": -3954,
-  "profession": "mining",
-  "resource": "Voidstone",
-  "level": 100
- },
- {
-  "x": 14201,
-  "y": 84,
-  "z": -3930,
-  "profession": "mining",
-  "resource": "Voidstone",
-  "level": 100
- },
- {
-  "x": 14203,
-  "y": 90,
-  "z": -3934,
-  "profession": "mining",
-  "resource": "Voidstone",
-  "level": 100
- }
+  {
+    "x": 14030,
+    "y": 131,
+    "z": -4102,
+    "profession": "farming",
+    "resource": "Voidgloom",
+    "level": 105
+  },
+  {
+    "x": 13996,
+    "y": 126,
+    "z": -4007,
+    "profession": "mining",
+    "resource": "Voidstone",
+    "level": 100
+  },
+  {
+    "x": 14007,
+    "y": 118,
+    "z": -3984,
+    "profession": "mining",
+    "resource": "Voidstone",
+    "level": 100
+  },
+  {
+    "x": 14000,
+    "y": 117,
+    "z": -3980,
+    "profession": "mining",
+    "resource": "Voidstone",
+    "level": 100
+  },
+  {
+    "x": 13993,
+    "y": 125,
+    "z": -3994,
+    "profession": "farming",
+    "resource": "Voidgloom",
+    "level": 105
+  },
+  {
+    "x": 14180,
+    "y": 84,
+    "z": -3929,
+    "profession": "mining",
+    "resource": "Voidstone",
+    "level": 100
+  },
+  {
+    "x": 14184,
+    "y": 85,
+    "z": -3934,
+    "profession": "mining",
+    "resource": "Voidstone",
+    "level": 100
+  },
+  {
+    "x": 14191,
+    "y": 85,
+    "z": -3947,
+    "profession": "mining",
+    "resource": "Voidstone",
+    "level": 100
+  },
+  {
+    "x": 14194,
+    "y": 85,
+    "z": -3943,
+    "profession": "mining",
+    "resource": "Voidstone",
+    "level": 100
+  },
+  {
+    "x": 14194,
+    "y": 84,
+    "z": -3926,
+    "profession": "mining",
+    "resource": "Voidstone",
+    "level": 100
+  },
+  {
+    "x": 14194,
+    "y": 116,
+    "z": -3924,
+    "profession": "farming",
+    "resource": "Voidgloom",
+    "level": 105
+  },
+  {
+    "x": 14199,
+    "y": 115,
+    "z": -3928,
+    "profession": "farming",
+    "resource": "Voidgloom",
+    "level": 105
+  },
+  {
+    "x": 14189,
+    "y": 84,
+    "z": -3922,
+    "profession": "mining",
+    "resource": "Voidstone",
+    "level": 100
+  },
+  {
+    "x": 14188,
+    "y": 91,
+    "z": -3920,
+    "profession": "mining",
+    "resource": "Voidstone",
+    "level": 100
+  },
+  {
+    "x": 14201,
+    "y": 84,
+    "z": -3930,
+    "profession": "mining",
+    "resource": "Voidstone",
+    "level": 100
+  },
+  {
+    "x": 14201,
+    "y": 112,
+    "z": -3934,
+    "profession": "farming",
+    "resource": "Voidgloom",
+    "level": 105
+  },
+  {
+    "x": 14203,
+    "y": 90,
+    "z": -3934,
+    "profession": "mining",
+    "resource": "Voidstone",
+    "level": 100
+  },
+  {
+    "x": 14200,
+    "y": 84,
+    "z": -3954,
+    "profession": "mining",
+    "resource": "Voidstone",
+    "level": 100
+  },
+  {
+    "x": 13954,
+    "y": 129,
+    "z": -3773,
+    "profession": "mining",
+    "resource": "Voidstone",
+    "level": 100
+  },
+  {
+    "x": 13938,
+    "y": 127,
+    "z": -3769,
+    "profession": "farming",
+    "resource": "Voidgloom",
+    "level": 105
+  },
+  {
+    "x": 13852,
+    "y": 133,
+    "z": -3795,
+    "profession": "mining",
+    "resource": "Voidstone",
+    "level": 100
+  },
+  {
+    "x": 13850,
+    "y": 131,
+    "z": -3786,
+    "profession": "mining",
+    "resource": "Voidstone",
+    "level": 100
+  },
+  {
+    "x": 13847,
+    "y": 130,
+    "z": -3785,
+    "profession": "mining",
+    "resource": "Voidstone",
+    "level": 100
+  },
+  {
+    "x": 13846,
+    "y": 135,
+    "z": -3782,
+    "profession": "mining",
+    "resource": "Voidstone",
+    "level": 100
+  },
+  {
+    "x": 13843,
+    "y": 131,
+    "z": -3794,
+    "profession": "mining",
+    "resource": "Voidstone",
+    "level": 100
+  },
+  {
+    "x": 13835,
+    "y": 131,
+    "z": -3795,
+    "profession": "mining",
+    "resource": "Voidstone",
+    "level": 100
+  },
+  {
+    "x": 13824,
+    "y": 131,
+    "z": -3777,
+    "profession": "farming",
+    "resource": "Voidgloom",
+    "level": 105
+  },
+  {
+    "x": 13821,
+    "y": 131,
+    "z": -3797,
+    "profession": "mining",
+    "resource": "Voidstone",
+    "level": 100
+  },
+  {
+    "x": 13820,
+    "y": 133,
+    "z": -3799,
+    "profession": "mining",
+    "resource": "Voidstone",
+    "level": 100
+  },
+  {
+    "x": 13756,
+    "y": 163,
+    "z": -3807,
+    "profession": "farming",
+    "resource": "Voidgloom",
+    "level": 105
+  },
+  {
+    "x": 13762,
+    "y": 140,
+    "z": -3859,
+    "profession": "farming",
+    "resource": "Voidgloom",
+    "level": 105
+  },
+  {
+    "x": 13744,
+    "y": 161,
+    "z": -3860,
+    "profession": "farming",
+    "resource": "Voidgloom",
+    "level": 105
+  },
+  {
+    "x": 13711,
+    "y": 117,
+    "z": -3946,
+    "profession": "mining",
+    "resource": "Voidstone",
+    "level": 100
+  },
+  {
+    "x": 13711,
+    "y": 164,
+    "z": -3931,
+    "profession": "farming",
+    "resource": "Voidgloom",
+    "level": 105
+  },
+  {
+    "x": 13707,
+    "y": 117,
+    "z": -3948,
+    "profession": "mining",
+    "resource": "Voidstone",
+    "level": 100
+  },
+  {
+    "x": 13700,
+    "y": 117,
+    "z": -3927,
+    "profession": "mining",
+    "resource": "Voidstone",
+    "level": 100
+  },
+  {
+    "x": 13699,
+    "y": 125,
+    "z": -3922,
+    "profession": "mining",
+    "resource": "Voidstone",
+    "level": 100
+  },
+  {
+    "x": 13697,
+    "y": 117,
+    "z": -3934,
+    "profession": "mining",
+    "resource": "Voidstone",
+    "level": 100
+  },
+  {
+    "x": 13695,
+    "y": 126,
+    "z": -3923,
+    "profession": "mining",
+    "resource": "Voidstone",
+    "level": 100
+  },
+  {
+    "x": 13696,
+    "y": 119,
+    "z": -3928,
+    "profession": "mining",
+    "resource": "Voidstone",
+    "level": 100
+  },
+  {
+    "x": 13706,
+    "y": 117,
+    "z": -3950,
+    "profession": "mining",
+    "resource": "Voidstone",
+    "level": 100
+  },
+  {
+    "x": 13702,
+    "y": 117,
+    "z": -3963,
+    "profession": "mining",
+    "resource": "Voidstone",
+    "level": 100
+  },
+  {
+    "x": 13701,
+    "y": 116,
+    "z": -3968,
+    "profession": "mining",
+    "resource": "Voidstone",
+    "level": 100
+  },
+  {
+    "x": 13707,
+    "y": 118,
+    "z": -3967,
+    "profession": "mining",
+    "resource": "Voidstone",
+    "level": 100
+  },
+  {
+    "x": 13696,
+    "y": 129,
+    "z": -3968,
+    "profession": "farming",
+    "resource": "Voidgloom",
+    "level": 105
+  },
+  {
+    "x": 13693,
+    "y": 117,
+    "z": -3963,
+    "profession": "mining",
+    "resource": "Voidstone",
+    "level": 100
+  },
+  {
+    "x": 13681,
+    "y": 116,
+    "z": -3963,
+    "profession": "mining",
+    "resource": "Voidstone",
+    "level": 100
+  },
+  {
+    "x": 13678,
+    "y": 117,
+    "z": -3957,
+    "profession": "mining",
+    "resource": "Voidstone",
+    "level": 100
+  },
+  {
+    "x": 13679,
+    "y": 118,
+    "z": -3954,
+    "profession": "mining",
+    "resource": "Voidstone",
+    "level": 100
+  },
+  {
+    "x": 13680,
+    "y": 183,
+    "z": -3969,
+    "profession": "farming",
+    "resource": "Voidgloom",
+    "level": 105
+  },
+  {
+    "x": 13676,
+    "y": 118,
+    "z": -3968,
+    "profession": "mining",
+    "resource": "Voidstone",
+    "level": 100
+  },
+  {
+    "x": 13666,
+    "y": 161,
+    "z": -3973,
+    "profession": "farming",
+    "resource": "Voidgloom",
+    "level": 105
+  },
+  {
+    "x": 13663,
+    "y": 126,
+    "z": -3953,
+    "profession": "farming",
+    "resource": "Voidgloom",
+    "level": 105
+  },
+  {
+    "x": 13703,
+    "y": 146,
+    "z": -4002,
+    "profession": "farming",
+    "resource": "Voidgloom",
+    "level": 105
+  },
+  {
+    "x": 13673,
+    "y": 137,
+    "z": -4034,
+    "profession": "mining",
+    "resource": "Voidstone",
+    "level": 100
+  },
+  {
+    "x": 13668,
+    "y": 138,
+    "z": -4038,
+    "profession": "mining",
+    "resource": "Voidstone",
+    "level": 100
+  },
+  {
+    "x": 13675,
+    "y": 127,
+    "z": -4047,
+    "profession": "mining",
+    "resource": "Voidstone",
+    "level": 100
+  },
+  {
+    "x": 13666,
+    "y": 135,
+    "z": -4037,
+    "profession": "mining",
+    "resource": "Voidstone",
+    "level": 100
+  },
+  {
+    "x": 13667,
+    "y": 134,
+    "z": -4041,
+    "profession": "mining",
+    "resource": "Voidstone",
+    "level": 100
+  },
+  {
+    "x": 13730,
+    "y": 81,
+    "z": -4157,
+    "profession": "mining",
+    "resource": "Voidstone",
+    "level": 100
+  },
+  {
+    "x": 13740,
+    "y": 81,
+    "z": -4155,
+    "profession": "mining",
+    "resource": "Voidstone",
+    "level": 100
+  },
+  {
+    "x": 13736,
+    "y": 80,
+    "z": -4154,
+    "profession": "mining",
+    "resource": "Voidstone",
+    "level": 100
+  },
+  {
+    "x": 13747,
+    "y": 81,
+    "z": -4170,
+    "profession": "mining",
+    "resource": "Voidstone",
+    "level": 100
+  },
+  {
+    "x": 13833,
+    "y": 114,
+    "z": -4158,
+    "profession": "mining",
+    "resource": "Voidstone",
+    "level": 100
+  },
+  {
+    "x": 13835,
+    "y": 116,
+    "z": -4161,
+    "profession": "mining",
+    "resource": "Voidstone",
+    "level": 100
+  },
+  {
+    "x": 13837,
+    "y": 118,
+    "z": -4163,
+    "profession": "mining",
+    "resource": "Voidstone",
+    "level": 100
+  },
+  {
+    "x": 13840,
+    "y": 116,
+    "z": -4157,
+    "profession": "mining",
+    "resource": "Voidstone",
+    "level": 100
+  },
+  {
+    "x": 13841,
+    "y": 115,
+    "z": -4158,
+    "profession": "mining",
+    "resource": "Voidstone",
+    "level": 100
+  },
+  {
+    "x": 13874,
+    "y": 114,
+    "z": -4182,
+    "profession": "mining",
+    "resource": "Voidstone",
+    "level": 100
+  },
+  {
+    "x": 13876,
+    "y": 115,
+    "z": -4186,
+    "profession": "mining",
+    "resource": "Voidstone",
+    "level": 100
+  },
+  {
+    "x": 13878,
+    "y": 113,
+    "z": -4187,
+    "profession": "mining",
+    "resource": "Voidstone",
+    "level": 100
+  },
+  {
+    "x": 13893,
+    "y": 114,
+    "z": -4210,
+    "profession": "farming",
+    "resource": "Voidgloom",
+    "level": 105
+  },
+  {
+    "x": 13726,
+    "y": 90,
+    "z": -4185,
+    "profession": "farming",
+    "resource": "Voidgloom",
+    "level": 105
+  },
+  {
+    "x": 13725,
+    "y": 108,
+    "z": -4190,
+    "profession": "farming",
+    "resource": "Voidgloom",
+    "level": 105
+  },
+  {
+    "x": 13627,
+    "y": 82,
+    "z": -4367,
+    "profession": "farming",
+    "resource": "Voidgloom",
+    "level": 105
+  },
+  {
+    "x": 13599,
+    "y": 84,
+    "z": -4421,
+    "profession": "mining",
+    "resource": "Voidstone",
+    "level": 100
+  },
+  {
+    "x": 13601,
+    "y": 82,
+    "z": -4419,
+    "profession": "mining",
+    "resource": "Voidstone",
+    "level": 100
+  },
+  {
+    "x": 13837,
+    "y": 113,
+    "z": -4131,
+    "profession": "farming",
+    "resource": "Voidgloom",
+    "level": 105
+  },
+  {
+    "x": 13861,
+    "y": 114,
+    "z": -4128,
+    "profession": "farming",
+    "resource": "Voidgloom",
+    "level": 105
+  },
+  {
+    "x": 13946,
+    "y": 120,
+    "z": -4214,
+    "profession": "mining",
+    "resource": "Voidstone",
+    "level": 100
+  },
+  {
+    "x": 13944,
+    "y": 120,
+    "z": -4210,
+    "profession": "mining",
+    "resource": "Voidstone",
+    "level": 100
+  },
+  {
+    "x": 13959,
+    "y": 121,
+    "z": -4215,
+    "profession": "mining",
+    "resource": "Voidstone",
+    "level": 100
+  },
+  {
+    "x": 13962,
+    "y": 123,
+    "z": -4212,
+    "profession": "mining",
+    "resource": "Voidstone",
+    "level": 100
+  },
+  {
+    "x": 13949,
+    "y": 119,
+    "z": -4187,
+    "profession": "mining",
+    "resource": "Voidstone",
+    "level": 100
+  },
+  {
+    "x": 13946,
+    "y": 118,
+    "z": -4184,
+    "profession": "mining",
+    "resource": "Voidstone",
+    "level": 100
+  },
+  {
+    "x": 13960,
+    "y": 120,
+    "z": -4177,
+    "profession": "farming",
+    "resource": "Voidgloom",
+    "level": 105
+  },
+  {
+    "x": 13971,
+    "y": 121,
+    "z": -4172,
+    "profession": "mining",
+    "resource": "Voidstone",
+    "level": 100
+  },
+  {
+    "x": 13974,
+    "y": 121,
+    "z": -4173,
+    "profession": "mining",
+    "resource": "Voidstone",
+    "level": 100
+  },
+  {
+    "x": 13975,
+    "y": 111,
+    "z": -4193,
+    "profession": "mining",
+    "resource": "Voidstone",
+    "level": 100
+  },
+  {
+    "x": 13985,
+    "y": 112,
+    "z": -4197,
+    "profession": "mining",
+    "resource": "Voidstone",
+    "level": 100
+  },
+  {
+    "x": 13976,
+    "y": 112,
+    "z": -4199,
+    "profession": "mining",
+    "resource": "Voidstone",
+    "level": 100
+  },
+  {
+    "x": 13981,
+    "y": 111,
+    "z": -4198,
+    "profession": "mining",
+    "resource": "Voidstone",
+    "level": 100
+  },
+  {
+    "x": 13970,
+    "y": 134,
+    "z": -4205,
+    "profession": "mining",
+    "resource": "Voidstone",
+    "level": 100
+  },
+  {
+    "x": 13976,
+    "y": 116,
+    "z": -4206,
+    "profession": "mining",
+    "resource": "Voidstone",
+    "level": 100
+  },
+  {
+    "x": 13960,
+    "y": 120,
+    "z": -4233,
+    "profession": "farming",
+    "resource": "Voidgloom",
+    "level": 105
+  },
+  {
+    "x": 13970,
+    "y": 121,
+    "z": -4234,
+    "profession": "mining",
+    "resource": "Voidstone",
+    "level": 100
+  },
+  {
+    "x": 13971,
+    "y": 123,
+    "z": -4232,
+    "profession": "mining",
+    "resource": "Voidstone",
+    "level": 100
+  },
+  {
+    "x": 13978,
+    "y": 120,
+    "z": -4245,
+    "profession": "farming",
+    "resource": "Voidgloom",
+    "level": 105
+  },
+  {
+    "x": 14008,
+    "y": 121,
+    "z": -4218,
+    "profession": "mining",
+    "resource": "Voidstone",
+    "level": 100
+  },
+  {
+    "x": 14000,
+    "y": 122,
+    "z": -4200,
+    "profession": "mining",
+    "resource": "Voidstone",
+    "level": 100
+  },
+  {
+    "x": 13998,
+    "y": 122,
+    "z": -4198,
+    "profession": "mining",
+    "resource": "Voidstone",
+    "level": 100
+  },
+  {
+    "x": 13987,
+    "y": 114,
+    "z": -4197,
+    "profession": "mining",
+    "resource": "Voidstone",
+    "level": 100
+  },
+  {
+    "x": 14002,
+    "y": 121,
+    "z": -4180,
+    "profession": "mining",
+    "resource": "Voidstone",
+    "level": 100
+  },
+  {
+    "x": 13999,
+    "y": 123,
+    "z": -4173,
+    "profession": "mining",
+    "resource": "Voidstone",
+    "level": 100
+  },
+  {
+    "x": 13996,
+    "y": 121,
+    "z": -4172,
+    "profession": "mining",
+    "resource": "Voidstone",
+    "level": 100
+  },
+  {
+    "x": 14010,
+    "y": 124,
+    "z": -4219,
+    "profession": "mining",
+    "resource": "Voidstone",
+    "level": 100
+  },
+  {
+    "x": 14044,
+    "y": 118,
+    "z": -4229,
+    "profession": "farming",
+    "resource": "Voidgloom",
+    "level": 105
+  },
+  {
+    "x": 13920,
+    "y": 114,
+    "z": -4000,
+    "profession": "mining",
+    "resource": "Voidstone",
+    "level": 100
+  },
+  {
+    "x": 13920,
+    "y": 115,
+    "z": -4014,
+    "profession": "mining",
+    "resource": "Voidstone",
+    "level": 100
+  },
+  {
+    "x": 13914,
+    "y": 115,
+    "z": -4010,
+    "profession": "mining",
+    "resource": "Voidstone",
+    "level": 100
+  },
+  {
+    "x": 13910,
+    "y": 114,
+    "z": -4003,
+    "profession": "mining",
+    "resource": "Voidstone",
+    "level": 100
+  },
+  {
+    "x": 13893,
+    "y": 76,
+    "z": -3970,
+    "profession": "farming",
+    "resource": "Voidgloom",
+    "level": 105
+  },
+  {
+    "x": 13885,
+    "y": 98,
+    "z": -3916,
+    "profession": "mining",
+    "resource": "Voidstone",
+    "level": 100
+  },
+  {
+    "x": 13889,
+    "y": 98,
+    "z": -3915,
+    "profession": "mining",
+    "resource": "Voidstone",
+    "level": 100
+  },
+  {
+    "x": 13892,
+    "y": 99,
+    "z": -3905,
+    "profession": "mining",
+    "resource": "Voidstone",
+    "level": 100
+  },
+  {
+    "x": 13896,
+    "y": 99,
+    "z": -3907,
+    "profession": "mining",
+    "resource": "Voidstone",
+    "level": 100
+  },
+  {
+    "x": 13887,
+    "y": 117,
+    "z": -3883,
+    "profession": "farming",
+    "resource": "Voidgloom",
+    "level": 105
+  },
+  {
+    "x": 13862,
+    "y": 104,
+    "z": -3900,
+    "profession": "mining",
+    "resource": "Voidstone",
+    "level": 100
+  },
+  {
+    "x": 13865,
+    "y": 104,
+    "z": -3904,
+    "profession": "mining",
+    "resource": "Voidstone",
+    "level": 100
+  },
+  {
+    "x": 13855,
+    "y": 102,
+    "z": -3884,
+    "profession": "mining",
+    "resource": "Voidstone",
+    "level": 100
+  },
+  {
+    "x": 13849,
+    "y": 102,
+    "z": -3895,
+    "profession": "mining",
+    "resource": "Voidstone",
+    "level": 100
+  },
+  {
+    "x": 13852,
+    "y": 101,
+    "z": -3881,
+    "profession": "mining",
+    "resource": "Voidstone",
+    "level": 100
+  },
+  {
+    "x": 13849,
+    "y": 101,
+    "z": -3880,
+    "profession": "mining",
+    "resource": "Voidstone",
+    "level": 100
+  },
+  {
+    "x": 13846,
+    "y": 101,
+    "z": -3882,
+    "profession": "mining",
+    "resource": "Voidstone",
+    "level": 100
+  },
+  {
+    "x": 13844,
+    "y": 103,
+    "z": -3898,
+    "profession": "mining",
+    "resource": "Voidstone",
+    "level": 100
+  },
+  {
+    "x": 13902,
+    "y": 151,
+    "z": -3965,
+    "profession": "farming",
+    "resource": "Voidgloom",
+    "level": 105
+  },
+  {
+    "x": 13894,
+    "y": 153,
+    "z": -3931,
+    "profession": "farming",
+    "resource": "Voidgloom",
+    "level": 105
+  },
+  {
+    "x": 14080,
+    "y": 151,
+    "z": -3977,
+    "profession": "farming",
+    "resource": "Voidgloom",
+    "level": 105
+  },
+  {
+    "x": 14087,
+    "y": 184,
+    "z": -3978,
+    "profession": "farming",
+    "resource": "Voidgloom",
+    "level": 105
+  },
+  {
+    "x": 14036,
+    "y": 127,
+    "z": -3895,
+    "profession": "farming",
+    "resource": "Voidgloom",
+    "level": 105
+  },
+  {
+    "x": 14198,
+    "y": 145,
+    "z": -3847,
+    "profession": "mining",
+    "resource": "Voidstone",
+    "level": 100
+  },
+  {
+    "x": 14193,
+    "y": 147,
+    "z": -3843,
+    "profession": "mining",
+    "resource": "Voidstone",
+    "level": 100
+  },
+  {
+    "x": 14199,
+    "y": 146,
+    "z": -3841,
+    "profession": "mining",
+    "resource": "Voidstone",
+    "level": 100
+  },
+  {
+    "x": 14192,
+    "y": 149,
+    "z": -3839,
+    "profession": "mining",
+    "resource": "Voidstone",
+    "level": 100
+  },
+  {
+    "x": 14190,
+    "y": 151,
+    "z": -3842,
+    "profession": "mining",
+    "resource": "Voidstone",
+    "level": 100
+  },
+  {
+    "x": 14135,
+    "y": 154,
+    "z": -3768,
+    "profession": "farming",
+    "resource": "Voidgloom",
+    "level": 105
+  },
+  {
+    "x": 14078,
+    "y": 133,
+    "z": -3698,
+    "profession": "farming",
+    "resource": "Voidgloom",
+    "level": 105
+  },
+  {
+    "x": 14058,
+    "y": 138,
+    "z": -3685,
+    "profession": "mining",
+    "resource": "Voidstone",
+    "level": 100
+  },
+  {
+    "x": 14084,
+    "y": 135,
+    "z": -3680,
+    "profession": "mining",
+    "resource": "Voidstone",
+    "level": 100
+  },
+  {
+    "x": 14054,
+    "y": 134,
+    "z": -3673,
+    "profession": "mining",
+    "resource": "Voidstone",
+    "level": 100
+  },
+  {
+    "x": 14055,
+    "y": 136,
+    "z": -3686,
+    "profession": "mining",
+    "resource": "Voidstone",
+    "level": 100
+  },
+  {
+    "x": 14049,
+    "y": 157,
+    "z": -3681,
+    "profession": "mining",
+    "resource": "Voidstone",
+    "level": 100
+  },
+  {
+    "x": 14048,
+    "y": 133,
+    "z": -3675,
+    "profession": "mining",
+    "resource": "Voidstone",
+    "level": 100
+  },
+  {
+    "x": 14050,
+    "y": 137,
+    "z": -3689,
+    "profession": "mining",
+    "resource": "Voidstone",
+    "level": 100
+  },
+  {
+    "x": 14042,
+    "y": 135,
+    "z": -3689,
+    "profession": "mining",
+    "resource": "Voidstone",
+    "level": 100
+  },
+  {
+    "x": 14033,
+    "y": 133,
+    "z": -3690,
+    "profession": "mining",
+    "resource": "Voidstone",
+    "level": 100
+  },
+  {
+    "x": 14031,
+    "y": 133,
+    "z": -3680,
+    "profession": "mining",
+    "resource": "Voidstone",
+    "level": 100
+  },
+  {
+    "x": 14031,
+    "y": 134,
+    "z": -3692,
+    "profession": "mining",
+    "resource": "Voidstone",
+    "level": 100
+  },
+  {
+    "x": 14032,
+    "y": 172,
+    "z": -3664,
+    "profession": "farming",
+    "resource": "Voidgloom",
+    "level": 105
+  },
+  {
+    "x": 14022,
+    "y": 134,
+    "z": -3676,
+    "profession": "mining",
+    "resource": "Voidstone",
+    "level": 100
+  },
+  {
+    "x": 14017,
+    "y": 136,
+    "z": -3678,
+    "profession": "mining",
+    "resource": "Voidstone",
+    "level": 100
+  },
+  {
+    "x": 14018,
+    "y": 134,
+    "z": -3680,
+    "profession": "mining",
+    "resource": "Voidstone",
+    "level": 100
+  },
+  {
+    "x": 14017,
+    "y": 136,
+    "z": -3691,
+    "profession": "mining",
+    "resource": "Voidstone",
+    "level": 100
+  },
+  {
+    "x": 14015,
+    "y": 135,
+    "z": -3693,
+    "profession": "mining",
+    "resource": "Voidstone",
+    "level": 100
+  },
+  {
+    "x": 14010,
+    "y": 134,
+    "z": -3693,
+    "profession": "mining",
+    "resource": "Voidstone",
+    "level": 100
+  },
+  {
+    "x": 14006,
+    "y": 132,
+    "z": -3692,
+    "profession": "mining",
+    "resource": "Voidstone",
+    "level": 100
+  },
+  {
+    "x": 13993,
+    "y": 133,
+    "z": -3666,
+    "profession": "farming",
+    "resource": "Voidgloom",
+    "level": 105
+  },
+  {
+    "x": 13940,
+    "y": 134,
+    "z": -3640,
+    "profession": "farming",
+    "resource": "Voidgloom",
+    "level": 105
+  },
+  {
+    "x": 13910,
+    "y": 135,
+    "z": -3666,
+    "profession": "farming",
+    "resource": "Voidgloom",
+    "level": 105
+  },
+  {
+    "x": 13970,
+    "y": 134,
+    "z": -3695,
+    "profession": "mining",
+    "resource": "Voidstone",
+    "level": 100
+  },
+  {
+    "x": 13974,
+    "y": 134,
+    "z": -3690,
+    "profession": "mining",
+    "resource": "Voidstone",
+    "level": 100
+  },
+  {
+    "x": 13976,
+    "y": 135,
+    "z": -3691,
+    "profession": "mining",
+    "resource": "Voidstone",
+    "level": 100
+  },
+  {
+    "x": 13998,
+    "y": 133,
+    "z": -3639,
+    "profession": "farming",
+    "resource": "Voidgloom",
+    "level": 105
+  },
+  {
+    "x": 13888,
+    "y": 131,
+    "z": -3765,
+    "profession": "farming",
+    "resource": "Voidgloom",
+    "level": 105
+  },
+  {
+    "x": 13870,
+    "y": 126,
+    "z": -3820,
+    "profession": "farming",
+    "resource": "Voidgloom",
+    "level": 105
+  },
+  {
+    "x": 13858,
+    "y": 189,
+    "z": -3815,
+    "profession": "farming",
+    "resource": "Voidgloom",
+    "level": 105
+  },
+  {
+    "x": 13869,
+    "y": 102,
+    "z": -3866,
+    "profession": "farming",
+    "resource": "Voidgloom",
+    "level": 105
+  },
+  {
+    "x": 13995,
+    "y": 129,
+    "z": -3773,
+    "profession": "farming",
+    "resource": "Voidgloom",
+    "level": 105
+  },
+  {
+    "x": 14004,
+    "y": 131,
+    "z": -3800,
+    "profession": "farming",
+    "resource": "Voidgloom",
+    "level": 105
+  },
+  {
+    "x": 13989,
+    "y": 122,
+    "z": -3834,
+    "profession": "mining",
+    "resource": "Voidstone",
+    "level": 100
+  },
+  {
+    "x": 13986,
+    "y": 125,
+    "z": -3830,
+    "profession": "mining",
+    "resource": "Voidstone",
+    "level": 100
+  },
+  {
+    "x": 14056,
+    "y": 151,
+    "z": -3774,
+    "profession": "farming",
+    "resource": "Voidgloom",
+    "level": 105
+  },
+  {
+    "x": 14086,
+    "y": 175,
+    "z": -3765,
+    "profession": "mining",
+    "resource": "Voidstone",
+    "level": 100
+  },
+  {
+    "x": 14090,
+    "y": 170,
+    "z": -3768,
+    "profession": "mining",
+    "resource": "Voidstone",
+    "level": 100
+  },
+  {
+    "x": 14085,
+    "y": 177,
+    "z": -3767,
+    "profession": "mining",
+    "resource": "Voidstone",
+    "level": 100
+  },
+  {
+    "x": 14089,
+    "y": 172,
+    "z": -3771,
+    "profession": "mining",
+    "resource": "Voidstone",
+    "level": 100
+  },
+  {
+    "x": 14087,
+    "y": 173,
+    "z": -3770,
+    "profession": "mining",
+    "resource": "Voidstone",
+    "level": 100
+  },
+  {
+    "x": 14093,
+    "y": 171,
+    "z": -3758,
+    "profession": "mining",
+    "resource": "Voidstone",
+    "level": 100
+  },
+  {
+    "x": 14094,
+    "y": 176,
+    "z": -3753,
+    "profession": "mining",
+    "resource": "Voidstone",
+    "level": 100
+  },
+  {
+    "x": 14099,
+    "y": 170,
+    "z": -3763,
+    "profession": "mining",
+    "resource": "Voidstone",
+    "level": 100
+  },
+  {
+    "x": 14095,
+    "y": 171,
+    "z": -3774,
+    "profession": "mining",
+    "resource": "Voidstone",
+    "level": 100
+  },
+  {
+    "x": 14102,
+    "y": 171,
+    "z": -3765,
+    "profession": "mining",
+    "resource": "Voidstone",
+    "level": 100
+  },
+  {
+    "x": 14106,
+    "y": 167,
+    "z": -3771,
+    "profession": "mining",
+    "resource": "Voidstone",
+    "level": 100
+  },
+  {
+    "x": 14102,
+    "y": 166,
+    "z": -3777,
+    "profession": "mining",
+    "resource": "Voidstone",
+    "level": 100
+  },
+  {
+    "x": 14089,
+    "y": 173,
+    "z": -3776,
+    "profession": "mining",
+    "resource": "Voidstone",
+    "level": 100
+  },
+  {
+    "x": 14099,
+    "y": 168,
+    "z": -3776,
+    "profession": "mining",
+    "resource": "Voidstone",
+    "level": 100
+  },
+  {
+    "x": 14091,
+    "y": 174,
+    "z": -3778,
+    "profession": "mining",
+    "resource": "Voidstone",
+    "level": 100
+  },
+  {
+    "x": 14109,
+    "y": 167,
+    "z": -3778,
+    "profession": "mining",
+    "resource": "Voidstone",
+    "level": 100
+  },
+  {
+    "x": 14081,
+    "y": 148,
+    "z": -3786,
+    "profession": "farming",
+    "resource": "Voidgloom",
+    "level": 105
+  }
 ]
