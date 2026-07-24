@@ -1,0 +1,11111 @@
+[
+ {
+  "name": "Boss Altar",
+  "type": "Content_BossAltar",
+  "x": -1833,
+  "z": -5259,
+  "y": 46
+ },
+ {
+  "name": "Boss Altar",
+  "type": "Content_BossAltar",
+  "x": -1746,
+  "z": -3069,
+  "y": 65
+ },
+ {
+  "name": "Boss Altar",
+  "type": "Content_BossAltar",
+  "x": -1573,
+  "z": -3204,
+  "y": 27
+ },
+ {
+  "name": "Boss Altar",
+  "type": "Content_BossAltar",
+  "x": -1025,
+  "z": -3657,
+  "y": 95
+ },
+ {
+  "name": "Boss Altar",
+  "type": "Content_BossAltar",
+  "x": -911,
+  "z": -623,
+  "y": 24
+ },
+ {
+  "name": "Boss Altar",
+  "type": "Content_BossAltar",
+  "x": -802,
+  "z": -5394,
+  "y": 76
+ },
+ {
+  "name": "Boss Altar",
+  "type": "Content_BossAltar",
+  "x": -711,
+  "z": -657,
+  "y": 58
+ },
+ {
+  "name": "Boss Altar",
+  "type": "Content_BossAltar",
+  "x": -692,
+  "z": -1068,
+  "y": 73
+ },
+ {
+  "name": "Boss Altar",
+  "type": "Content_BossAltar",
+  "x": 51,
+  "z": -485,
+  "y": 68
+ },
+ {
+  "name": "Boss Altar",
+  "type": "Content_BossAltar",
+  "x": 321,
+  "z": -2035,
+  "y": 32
+ },
+ {
+  "name": "Boss Altar",
+  "type": "Content_BossAltar",
+  "x": 471,
+  "z": -2912,
+  "y": 44
+ },
+ {
+  "name": "Boss Altar",
+  "type": "Content_BossAltar",
+  "x": 1296,
+  "z": -4670,
+  "y": 19
+ },
+ {
+  "name": "Boss Altar",
+  "type": "Content_BossAltar",
+  "x": 1332,
+  "z": -516,
+  "y": 11
+ },
+ {
+  "name": "Boss Altar",
+  "type": "Content_BossAltar",
+  "x": 1417,
+  "z": -1462,
+  "y": 100
+ },
+ {
+  "name": "Deserter's Refuge",
+  "type": "Content_BossAltar",
+  "x": -1728,
+  "z": -947,
+  "y": 139
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": -2212,
+  "z": -1381,
+  "y": 33
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": -2187,
+  "z": -751,
+  "y": 36
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": -2121,
+  "z": -802,
+  "y": 60
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": -2098,
+  "z": -5117,
+  "y": 59
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": -2060,
+  "z": -5241,
+  "y": 56
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": -2058,
+  "z": -1479,
+  "y": 27
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": -2025,
+  "z": -5081,
+  "y": 59
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": -1980,
+  "z": -5234,
+  "y": 63
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": -1929,
+  "z": -3297,
+  "y": 86
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": -1916,
+  "z": -1198,
+  "y": 25
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": -1844,
+  "z": -2665,
+  "y": 40
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": -1836,
+  "z": -1035,
+  "y": 11
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": -1835,
+  "z": -5171,
+  "y": 53
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": -1833,
+  "z": -794,
+  "y": 33
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": -1794,
+  "z": -4682,
+  "y": 58
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": -1784,
+  "z": -2568,
+  "y": 63
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": -1762,
+  "z": -798,
+  "y": 136
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": -1761,
+  "z": -2448,
+  "y": 35
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": -1754,
+  "z": -490,
+  "y": 23
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": -1674,
+  "z": -3054,
+  "y": 52
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": -1658,
+  "z": -516,
+  "y": 6
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": -1641,
+  "z": -964,
+  "y": 153
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": -1621,
+  "z": -4664,
+  "y": 49
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": -1542,
+  "z": -5338,
+  "y": 46
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": -1542,
+  "z": -551,
+  "y": 55
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": -1524,
+  "z": -738,
+  "y": 133
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": -1515,
+  "z": -753,
+  "y": 134
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": -1512,
+  "z": -5246,
+  "y": 50
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": -1505,
+  "z": -733,
+  "y": 80
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": -1500,
+  "z": -807,
+  "y": 133
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": -1473,
+  "z": -2381,
+  "y": 61
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": -1443,
+  "z": -1033,
+  "y": 109
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": -1391,
+  "z": -2390,
+  "y": 62
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": -1387,
+  "z": -4982,
+  "y": 41
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": -1370,
+  "z": -3061,
+  "y": 117
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": -1369,
+  "z": -1019,
+  "y": 109
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": -1368,
+  "z": -2733,
+  "y": 90
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": -1335,
+  "z": -5082,
+  "y": 44
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": -1324,
+  "z": -912,
+  "y": 84
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": -1288,
+  "z": -1319,
+  "y": 88
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": -1263,
+  "z": -4460,
+  "y": 43
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": -1222,
+  "z": -4856,
+  "y": 71
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": -1186,
+  "z": -640,
+  "y": 49
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": -1159,
+  "z": -1014,
+  "y": 72
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": -1112,
+  "z": -1407,
+  "y": 89
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": -1109,
+  "z": -5289,
+  "y": 44
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": -1103,
+  "z": -5607,
+  "y": 100
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": -1049,
+  "z": -4772,
+  "y": 45
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": -1021,
+  "z": -1333,
+  "y": 127
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": -997,
+  "z": -5559,
+  "y": 42
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": -957,
+  "z": -526,
+  "y": 40
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": -955,
+  "z": -4341,
+  "y": 64
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": -930,
+  "z": -409,
+  "y": 28
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": -830,
+  "z": -3791,
+  "y": 37
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": -809,
+  "z": -444,
+  "y": 19
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": -799,
+  "z": -1960,
+  "y": 36
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": -798,
+  "z": -605,
+  "y": 41
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": -795,
+  "z": -1409,
+  "y": 71
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": -785,
+  "z": -5034,
+  "y": 56
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": -756,
+  "z": -4833,
+  "y": 43
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": -744,
+  "z": -5409,
+  "y": 34
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": -725,
+  "z": -731,
+  "y": 60
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": -676,
+  "z": -304,
+  "y": 29
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": -669,
+  "z": -926,
+  "y": 57
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": -647,
+  "z": -4419,
+  "y": 50
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": -637,
+  "z": -4419,
+  "y": 48
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": -626,
+  "z": -1959,
+  "y": 51
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": -626,
+  "z": -1769,
+  "y": 68
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": -624,
+  "z": -286,
+  "y": 63
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": -622,
+  "z": -1567,
+  "y": 71
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": -618,
+  "z": -729,
+  "y": 59
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": -608,
+  "z": -4874,
+  "y": 83
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": -568,
+  "z": -609,
+  "y": 65
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": -564,
+  "z": -577,
+  "y": 101
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": -559,
+  "z": -959,
+  "y": 71
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": -558,
+  "z": -460,
+  "y": 29
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": -550,
+  "z": -4689,
+  "y": 42
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": -515,
+  "z": -1713,
+  "y": 76
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": -504,
+  "z": -5290,
+  "y": 41
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": -499,
+  "z": -1026,
+  "y": 73
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": -433,
+  "z": -1689,
+  "y": 67
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": -430,
+  "z": -303,
+  "y": 34
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": -410,
+  "z": -5206,
+  "y": 36
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": -405,
+  "z": -5441,
+  "y": 45
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": -361,
+  "z": -1166,
+  "y": 64
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": -333,
+  "z": -1301,
+  "y": 68
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": -299,
+  "z": -971,
+  "y": 35
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": -286,
+  "z": -555,
+  "y": 23
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": -285,
+  "z": -5556,
+  "y": 45
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": -257,
+  "z": -269,
+  "y": 39
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": -251,
+  "z": -2715,
+  "y": 35
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": -226,
+  "z": -2097,
+  "y": 54
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": -202,
+  "z": -1564,
+  "y": 65
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": -183,
+  "z": -1196,
+  "y": 52
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": -142,
+  "z": -1658,
+  "y": 75
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": -134,
+  "z": -797,
+  "y": 71
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": -119,
+  "z": -292,
+  "y": 33
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": -115,
+  "z": -924,
+  "y": 67
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": -112,
+  "z": -4622,
+  "y": 38
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": -13,
+  "z": -5107,
+  "y": 35
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": 112,
+  "z": -1944,
+  "y": 44
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": 133,
+  "z": -1685,
+  "y": 69
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": 137,
+  "z": -5566,
+  "y": 44
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": 168,
+  "z": -1183,
+  "y": 65
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": 185,
+  "z": -705,
+  "y": 66
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": 204,
+  "z": -1560,
+  "y": 70
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": 215,
+  "z": -2413,
+  "y": 34
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": 235,
+  "z": -5423,
+  "y": 123
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": 308,
+  "z": -1851,
+  "y": 57
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": 315,
+  "z": -4580,
+  "y": 35
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": 392,
+  "z": -1990,
+  "y": 42
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": 476,
+  "z": -1224,
+  "y": 68
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": 486,
+  "z": -2066,
+  "y": 36
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": 500,
+  "z": -5300,
+  "y": 80
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": 535,
+  "z": -5360,
+  "y": 29
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": 571,
+  "z": -2085,
+  "y": 35
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": 591,
+  "z": -4625,
+  "y": 31
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": 591,
+  "z": -1864,
+  "y": 78
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": 624,
+  "z": -4693,
+  "y": 31
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": 643,
+  "z": -5332,
+  "y": 91
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": 669,
+  "z": -1612,
+  "y": 63
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": 707,
+  "z": -2842,
+  "y": 33
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": 713,
+  "z": -5497,
+  "y": 49
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": 735,
+  "z": -1689,
+  "y": 67
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": 743,
+  "z": -4891,
+  "y": 86
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": 768,
+  "z": -2213,
+  "y": 91
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": 769,
+  "z": -1277,
+  "y": 25
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": 775,
+  "z": -949,
+  "y": 150
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": 776,
+  "z": -1794,
+  "y": 74
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": 826,
+  "z": -5351,
+  "y": 47
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": 828,
+  "z": -429,
+  "y": 76
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": 849,
+  "z": -5098,
+  "y": 83
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": 857,
+  "z": -668,
+  "y": 78
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": 882,
+  "z": -805,
+  "y": 75
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": 925,
+  "z": -1347,
+  "y": 73
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": 951,
+  "z": -1049,
+  "y": 90
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": 974,
+  "z": -2110,
+  "y": 62
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": 979,
+  "z": -471,
+  "y": 72
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": 1003,
+  "z": -1705,
+  "y": 71
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": 1016,
+  "z": -4361,
+  "y": 104
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": 1019,
+  "z": -4695,
+  "y": 109
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": 1039,
+  "z": -688,
+  "y": 81
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": 1054,
+  "z": -4958,
+  "y": 44
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": 1062,
+  "z": -1728,
+  "y": 71
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": 1079,
+  "z": -350,
+  "y": 133
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": 1119,
+  "z": -2175,
+  "y": 62
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": 1137,
+  "z": -1128,
+  "y": 31
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": 1203,
+  "z": -2936,
+  "y": 33
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": 1229,
+  "z": -5446,
+  "y": 39
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": 1250,
+  "z": -5342,
+  "y": 46
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": 1283,
+  "z": -1056,
+  "y": 100
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": 1301,
+  "z": -2144,
+  "y": 86
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": 1303,
+  "z": -1449,
+  "y": 30
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": 1338,
+  "z": -1550,
+  "y": 31
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": 1339,
+  "z": -1704,
+  "y": 76
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": 1394,
+  "z": -1052,
+  "y": 160
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": 1437,
+  "z": -1365,
+  "y": 31
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": 1464,
+  "z": -5528,
+  "y": 172
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": 1508,
+  "z": -5175,
+  "y": 46
+ },
+ {
+  "name": "Cave",
+  "type": "Content_Cave",
+  "x": 1527,
+  "z": -5425,
+  "y": 65
+ },
+ {
+  "name": "Corrupted Dungeons",
+  "type": "Content_CorruptedDungeon",
+  "x": -861,
+  "z": -4896,
+  "y": 123
+ },
+ {
+  "name": "Decrepit Sewers Dungeon",
+  "type": "Content_Dungeon",
+  "x": -926,
+  "z": -1888,
+  "y": 62
+ },
+ {
+  "name": "Eldritch Outlook Dungeon",
+  "type": "Content_Dungeon",
+  "x": 1285,
+  "z": -753,
+  "y": 87
+ },
+ {
+  "name": "Fallen Factory Dungeon",
+  "type": "Content_Dungeon",
+  "x": -1655,
+  "z": -2603,
+  "y": 81
+ },
+ {
+  "name": "Galleon's Graveyard Dungeon",
+  "type": "Content_Dungeon",
+  "x": -590,
+  "z": -3534,
+  "y": 39
+ },
+ {
+  "name": "Ice Barrows Dungeon",
+  "type": "Content_Dungeon",
+  "x": 134,
+  "z": -639,
+  "y": 84
+ },
+ {
+  "name": "Infested Pit Dungeon",
+  "type": "Content_Dungeon",
+  "x": -199,
+  "z": -1854,
+  "y": 53
+ },
+ {
+  "name": "Sand-Swept Tomb Dungeon",
+  "type": "Content_Dungeon",
+  "x": 1428,
+  "z": -1830,
+  "y": 95
+ },
+ {
+  "name": "Timelost Sanctum Dungeon",
+  "type": "Content_Dungeon",
+  "x": -261,
+  "z": -1063,
+  "y": 28
+ },
+ {
+  "name": "Undergrowth Ruins Dungeon",
+  "type": "Content_Dungeon",
+  "x": -642,
+  "z": -854,
+  "y": 73
+ },
+ {
+  "name": "Underworld Crypt Dungeon",
+  "type": "Content_Dungeon",
+  "x": 288,
+  "z": -1952,
+  "y": 16
+ },
+ {
+  "name": "Grind Spot",
+  "type": "Content_GrindSpot",
+  "x": -2147,
+  "z": -4721,
+  "y": 56
+ },
+ {
+  "name": "Grind Spot",
+  "type": "Content_GrindSpot",
+  "x": -1750,
+  "z": -954,
+  "y": 64
+ },
+ {
+  "name": "Grind Spot",
+  "type": "Content_GrindSpot",
+  "x": -1549,
+  "z": -911,
+  "y": 64
+ },
+ {
+  "name": "Grind Spot",
+  "type": "Content_GrindSpot",
+  "x": -1445,
+  "z": -2522,
+  "y": 72
+ },
+ {
+  "name": "Grind Spot",
+  "type": "Content_GrindSpot",
+  "x": -1040,
+  "z": -746,
+  "y": 64
+ },
+ {
+  "name": "Grind Spot",
+  "type": "Content_GrindSpot",
+  "x": -843,
+  "z": -242,
+  "y": 67
+ },
+ {
+  "name": "Grind Spot",
+  "type": "Content_GrindSpot",
+  "x": -832,
+  "z": -3686,
+  "y": 34
+ },
+ {
+  "name": "Grind Spot",
+  "type": "Content_GrindSpot",
+  "x": -722,
+  "z": -4642,
+  "y": 10
+ },
+ {
+  "name": "Grind Spot",
+  "type": "Content_GrindSpot",
+  "x": -701,
+  "z": -298,
+  "y": 23
+ },
+ {
+  "name": "Grind Spot",
+  "type": "Content_GrindSpot",
+  "x": -615,
+  "z": -1178,
+  "y": 113
+ },
+ {
+  "name": "Grind Spot",
+  "type": "Content_GrindSpot",
+  "x": -571,
+  "z": -595,
+  "y": 25
+ },
+ {
+  "name": "Grind Spot",
+  "type": "Content_GrindSpot",
+  "x": -510,
+  "z": -839,
+  "y": 63
+ },
+ {
+  "name": "Grind Spot",
+  "type": "Content_GrindSpot",
+  "x": -355,
+  "z": -1413,
+  "y": 64
+ },
+ {
+  "name": "Grind Spot",
+  "type": "Content_GrindSpot",
+  "x": -347,
+  "z": -251,
+  "y": 21
+ },
+ {
+  "name": "Grind Spot",
+  "type": "Content_GrindSpot",
+  "x": -106,
+  "z": -4592,
+  "y": 47
+ },
+ {
+  "name": "Grind Spot",
+  "type": "Content_GrindSpot",
+  "x": -54,
+  "z": -1977,
+  "y": 66
+ },
+ {
+  "name": "Grind Spot",
+  "type": "Content_GrindSpot",
+  "x": 36,
+  "z": -4714,
+  "y": 20
+ },
+ {
+  "name": "Grind Spot",
+  "type": "Content_GrindSpot",
+  "x": 229,
+  "z": -5061,
+  "y": 83
+ },
+ {
+  "name": "Grind Spot",
+  "type": "Content_GrindSpot",
+  "x": 309,
+  "z": -2029,
+  "y": 46
+ },
+ {
+  "name": "Grind Spot",
+  "type": "Content_GrindSpot",
+  "x": 647,
+  "z": -1530,
+  "y": 61
+ },
+ {
+  "name": "Grind Spot",
+  "type": "Content_GrindSpot",
+  "x": 753,
+  "z": -1245,
+  "y": 30
+ },
+ {
+  "name": "Grind Spot",
+  "type": "Content_GrindSpot",
+  "x": 939,
+  "z": -5010,
+  "y": 65
+ },
+ {
+  "name": "Grind Spot",
+  "type": "Content_GrindSpot",
+  "x": 1055,
+  "z": -390,
+  "y": 117
+ },
+ {
+  "name": "Grind Spot",
+  "type": "Content_GrindSpot",
+  "x": 1155,
+  "z": -4365,
+  "y": 160
+ },
+ {
+  "name": "Grind Spot",
+  "type": "Content_GrindSpot",
+  "x": 1306,
+  "z": -2014,
+  "y": 85
+ },
+ {
+  "name": "Grind Spot",
+  "type": "Content_GrindSpot",
+  "x": 1324,
+  "z": -4267,
+  "y": 99
+ },
+ {
+  "name": "Grind Spot",
+  "type": "Content_GrindSpot",
+  "x": 1413,
+  "z": -4951,
+  "y": 5
+ },
+ {
+  "name": "Grind Spot",
+  "type": "Content_GrindSpot",
+  "x": 1528,
+  "z": -4586,
+  "y": 231
+ },
+ {
+  "name": "Grind Spot",
+  "type": "Content_GrindSpot",
+  "x": 1538,
+  "z": -4563,
+  "y": 190
+ },
+ {
+  "name": "Mini-Quest - Collect Liff Leaves",
+  "type": "Content_Miniquest",
+  "x": -2055,
+  "z": -1305,
+  "y": 26
+ },
+ {
+  "name": "Mini-Quest - Collect Stackpeak Eggs",
+  "type": "Content_Miniquest",
+  "x": -1675,
+  "z": -1624,
+  "y": 44
+ },
+ {
+  "name": "Mini-Quest - Collect White Lilies",
+  "type": "Content_Miniquest",
+  "x": -1369,
+  "z": -1314,
+  "y": 110
+ },
+ {
+  "name": "Mini-Quest - Gather Hemp I",
+  "type": "Content_Miniquest",
+  "x": 1098,
+  "z": -4445,
+  "y": 115
+ },
+ {
+  "name": "Mini-Quest - Gather Hemp II",
+  "type": "Content_Miniquest",
+  "x": 1316,
+  "z": -4799,
+  "y": 118
+ },
+ {
+  "name": "Mini-Quest - Gather Hemp III",
+  "type": "Content_Miniquest",
+  "x": 857,
+  "z": -4410,
+  "y": 40
+ },
+ {
+  "name": "Mini-Quest - Gather Sky Logs I",
+  "type": "Content_Miniquest",
+  "x": 1300,
+  "z": -4735,
+  "y": 116
+ },
+ {
+  "name": "Mini-Quest - Gather Sky Logs II",
+  "type": "Content_Miniquest",
+  "x": 1272,
+  "z": -4702,
+  "y": 65
+ },
+ {
+  "name": "Mini-Quest - Gather Sky Logs III",
+  "type": "Content_Miniquest",
+  "x": 732,
+  "z": -4635,
+  "y": 95
+ },
+ {
+  "name": "Mini-Quest - Gather Starfish I",
+  "type": "Content_Miniquest",
+  "x": 665,
+  "z": -4585,
+  "y": 91
+ },
+ {
+  "name": "Mini-Quest - Gather Starfish II",
+  "type": "Content_Miniquest",
+  "x": 1176,
+  "z": -4949,
+  "y": 37
+ },
+ {
+  "name": "Mini-Quest - Gather Starfish III",
+  "type": "Content_Miniquest",
+  "x": 1417,
+  "z": -4558,
+  "y": 124
+ },
+ {
+  "name": "Mini-Quest - Hunt Banshee Stags",
+  "type": "Content_Miniquest",
+  "x": -1242,
+  "z": -662,
+  "y": 46
+ },
+ {
+  "name": "Mini-Quest - Hunt Woolly Rhinos",
+  "type": "Content_Miniquest",
+  "x": -1525,
+  "z": -1047,
+  "y": 126
+ },
+ {
+  "name": "Mini-Quest - Slay Ailuropodas",
+  "type": "Content_Miniquest",
+  "x": 139,
+  "z": -4399,
+  "y": 58
+ },
+ {
+  "name": "Mini-Quest - Slay Angels",
+  "type": "Content_Miniquest",
+  "x": 1005,
+  "z": -4790,
+  "y": 119
+ },
+ {
+  "name": "Mini-Quest - Slay Astrochelys Manis",
+  "type": "Content_Miniquest",
+  "x": -1422,
+  "z": -3225,
+  "y": 139
+ },
+ {
+  "name": "Mini-Quest - Slay Azers",
+  "type": "Content_Miniquest",
+  "x": 1483,
+  "z": -5115,
+  "y": 24
+ },
+ {
+  "name": "Mini-Quest - Slay Conures",
+  "type": "Content_Miniquest",
+  "x": 1123,
+  "z": -4436,
+  "y": 142
+ },
+ {
+  "name": "Mini-Quest - Slay Coyotes",
+  "type": "Content_Miniquest",
+  "x": 1200,
+  "z": -1332,
+  "y": 31
+ },
+ {
+  "name": "Mini-Quest - Slay Creatures of Nesaak Forest",
+  "type": "Content_Miniquest",
+  "x": 82,
+  "z": -725,
+  "y": 70
+ },
+ {
+  "name": "Mini-Quest - Slay Dead Villagers",
+  "type": "Content_Miniquest",
+  "x": 762,
+  "z": -3890,
+  "y": 36
+ },
+ {
+  "name": "Mini-Quest - Slay Dragonlings",
+  "type": "Content_Miniquest",
+  "x": 1348,
+  "z": -4470,
+  "y": 125
+ },
+ {
+  "name": "Mini-Quest - Slay Felrocs",
+  "type": "Content_Miniquest",
+  "x": -163,
+  "z": -4812,
+  "y": 34
+ },
+ {
+  "name": "Mini-Quest - Slay Frosted Guards & Cryostone Golems",
+  "type": "Content_Miniquest",
+  "x": 1423,
+  "z": -5448,
+  "y": 8
+ },
+ {
+  "name": "Mini-Quest - Slay Hedoro",
+  "type": "Content_Miniquest",
+  "x": -1851,
+  "z": -755,
+  "y": 30
+ },
+ {
+  "name": "Mini-Quest - Slay Hobgoblins",
+  "type": "Content_Miniquest",
+  "x": 562,
+  "z": -5421,
+  "y": 27
+ },
+ {
+  "name": "Mini-Quest - Slay Idols",
+  "type": "Content_Miniquest",
+  "x": -708,
+  "z": -413,
+  "y": 29
+ },
+ {
+  "name": "Mini-Quest - Slay Ifrits",
+  "type": "Content_Miniquest",
+  "x": 1389,
+  "z": -5476,
+  "y": 157
+ },
+ {
+  "name": "Mini-Quest - Slay Jinkos",
+  "type": "Content_Miniquest",
+  "x": 549,
+  "z": -4996,
+  "y": 28
+ },
+ {
+  "name": "Mini-Quest - Slay Lizardmen",
+  "type": "Content_Miniquest",
+  "x": -1786,
+  "z": -5267,
+  "y": 61
+ },
+ {
+  "name": "Mini-Quest - Slay Magma Entities",
+  "type": "Content_Miniquest",
+  "x": 1266,
+  "z": -5329,
+  "y": 16
+ },
+ {
+  "name": "Mini-Quest - Slay Mooshrooms",
+  "type": "Content_Miniquest",
+  "x": 582,
+  "z": -1588,
+  "y": 67
+ },
+ {
+  "name": "Mini-Quest - Slay Myconids",
+  "type": "Content_Miniquest",
+  "x": -984,
+  "z": -4637,
+  "y": 43
+ },
+ {
+  "name": "Mini-Quest - Slay Orcs",
+  "type": "Content_Miniquest",
+  "x": -2002,
+  "z": -4653,
+  "y": 34
+ },
+ {
+  "name": "Mini-Quest - Slay Pernix Monkeys",
+  "type": "Content_Miniquest",
+  "x": -1721,
+  "z": -2255,
+  "y": 111
+ },
+ {
+  "name": "Mini-Quest - Slay Robots",
+  "type": "Content_Miniquest",
+  "x": -1751,
+  "z": -2694,
+  "y": 72
+ },
+ {
+  "name": "Mini-Quest - Slay Scarabs",
+  "type": "Content_Miniquest",
+  "x": 982,
+  "z": -2073,
+  "y": 70
+ },
+ {
+  "name": "Mini-Quest - Slay Skeletons",
+  "type": "Content_Miniquest",
+  "x": 197,
+  "z": -1788,
+  "y": 61
+ },
+ {
+  "name": "Mini-Quest - Slay Slimes",
+  "type": "Content_Miniquest",
+  "x": -480,
+  "z": -707,
+  "y": 69
+ },
+ {
+  "name": "Mini-Quest - Slay Spiders",
+  "type": "Content_Miniquest",
+  "x": -272,
+  "z": -1588,
+  "y": 70
+ },
+ {
+  "name": "Mini-Quest - Slay Weirds",
+  "type": "Content_Miniquest",
+  "x": -677,
+  "z": -4948,
+  "y": 43
+ },
+ {
+  "name": "Mini-Quest - Slay Wraiths & Phantasms",
+  "type": "Content_Miniquest",
+  "x": -1392,
+  "z": -5464,
+  "y": 46
+ },
+ {
+  "name": "A Grave Mistake",
+  "type": "Content_Quest",
+  "x": 158,
+  "z": -374,
+  "y": 79
+ },
+ {
+  "name": "A Hunter's Calling",
+  "type": "Content_Quest",
+  "x": 1320,
+  "z": -420,
+  "y": 130
+ },
+ {
+  "name": "A Journey Beyond",
+  "type": "Content_Quest",
+  "x": 419,
+  "z": -1533,
+  "y": 67
+ },
+ {
+  "name": "A Journey Further",
+  "type": "Content_Quest",
+  "x": 977,
+  "z": -732,
+  "y": 75
+ },
+ {
+  "name": "A Journey Home",
+  "type": "Content_Quest",
+  "x": -1915,
+  "z": -1736,
+  "y": 77
+ },
+ {
+  "name": "A New Beginning",
+  "type": "Content_Quest",
+  "x": -2073,
+  "z": -1063,
+  "y": 25
+ },
+ {
+  "name": "A Sandy Scandal",
+  "type": "Content_Quest",
+  "x": 976,
+  "z": -1963,
+  "y": 83
+ },
+ {
+  "name": "Acquiring Credentials",
+  "type": "Content_Quest",
+  "x": -256,
+  "z": -4983,
+  "y": 57
+ },
+ {
+  "name": "Aldorei's Secret Part I",
+  "type": "Content_Quest",
+  "x": -462,
+  "z": -4460,
+  "y": 132
+ },
+ {
+  "name": "An Iron Heart Part I",
+  "type": "Content_Quest",
+  "x": -1613,
+  "z": -4964,
+  "y": 51
+ },
+ {
+  "name": "An Iron Heart Part II",
+  "type": "Content_Quest",
+  "x": -1745,
+  "z": -5479,
+  "y": 66
+ },
+ {
+  "name": "Apotheosis",
+  "type": "Content_Quest",
+  "x": -1351,
+  "z": -1210,
+  "y": 106
+ },
+ {
+  "name": "Arachnids' Ascent",
+  "type": "Content_Quest",
+  "x": 518,
+  "z": -1627,
+  "y": 82
+ },
+ {
+  "name": "Beneath the Depths",
+  "type": "Content_Quest",
+  "x": -640,
+  "z": -3117,
+  "y": 53
+ },
+ {
+  "name": "Beyond the Grave",
+  "type": "Content_Quest",
+  "x": 499,
+  "z": -4778,
+  "y": 155
+ },
+ {
+  "name": "Blazing Retribution",
+  "type": "Content_Quest",
+  "x": -1844,
+  "z": -4951,
+  "y": 55
+ },
+ {
+  "name": "Bob's Lost Soul",
+  "type": "Content_Quest",
+  "x": -7,
+  "z": -793,
+  "y": 68
+ },
+ {
+  "name": "Burning Bonds",
+  "type": "Content_Quest",
+  "x": -1381,
+  "z": -648,
+  "y": 51
+ },
+ {
+  "name": "Canyon Condor",
+  "type": "Content_Quest",
+  "x": 1352,
+  "z": -1301,
+  "y": 30
+ },
+ {
+  "name": "Celebrations in Smoke",
+  "type": "Content_Quest",
+  "x": -1310,
+  "z": -757,
+  "y": 46
+ },
+ {
+  "name": "Cluck Cluck",
+  "type": "Content_Quest",
+  "x": -83,
+  "z": -2497,
+  "y": 45
+ },
+ {
+  "name": "Crop Failure",
+  "type": "Content_Quest",
+  "x": -1834,
+  "z": -5557,
+  "y": 62
+ },
+ {
+  "name": "Death Whistle",
+  "type": "Content_Quest",
+  "x": -2103,
+  "z": -5427,
+  "y": 59
+ },
+ {
+  "name": "Deja Vu",
+  "type": "Content_Quest",
+  "x": -449,
+  "z": -1153,
+  "y": 72
+ },
+ {
+  "name": "Desperate Metal",
+  "type": "Content_Quest",
+  "x": -1672,
+  "z": -2083,
+  "y": 38
+ },
+ {
+  "name": "Dwarves and Doguns Part I",
+  "type": "Content_Quest",
+  "x": 1021,
+  "z": -5149,
+  "y": 18
+ },
+ {
+  "name": "Dwarves and Doguns Part II",
+  "type": "Content_Quest",
+  "x": 1436,
+  "z": -5388,
+  "y": 134
+ },
+ {
+  "name": "Dwarves and Doguns Part III",
+  "type": "Content_Quest",
+  "x": 1371,
+  "z": -5306,
+  "y": 141
+ },
+ {
+  "name": "Dwarves and Doguns Part IV",
+  "type": "Content_Quest",
+  "x": 1514,
+  "z": -5342,
+  "y": 51
+ },
+ {
+  "name": "Dwelling Walls",
+  "type": "Content_Quest",
+  "x": 196,
+  "z": -2172,
+  "y": 38
+ },
+ {
+  "name": "Echoes of Change",
+  "type": "Content_Quest",
+  "x": -2087,
+  "z": -697,
+  "y": 6
+ },
+ {
+  "name": "Elemental Exercise",
+  "type": "Content_Quest",
+  "x": 518,
+  "z": -1631,
+  "y": 67
+ },
+ {
+  "name": "Ensemble of Hope",
+  "type": "Content_Quest",
+  "x": -1370,
+  "z": -1248,
+  "y": 109
+ },
+ {
+  "name": "Enter the Dojo",
+  "type": "Content_Quest",
+  "x": 495,
+  "z": -5571,
+  "y": 109
+ },
+ {
+  "name": "Fallen Delivery",
+  "type": "Content_Quest",
+  "x": 65,
+  "z": -4844,
+  "y": 42
+ },
+ {
+  "name": "Fantastic Voyage",
+  "type": "Content_Quest",
+  "x": 1304,
+  "z": -4043,
+  "y": 35
+ },
+ {
+  "name": "Fate of the Fallen",
+  "type": "Content_Quest",
+  "x": 136,
+  "z": -688,
+  "y": 74
+ },
+ {
+  "name": "Flight in Distress",
+  "type": "Content_Quest",
+  "x": -172,
+  "z": -4946,
+  "y": 108
+ },
+ {
+  "name": "Forbidden Prison",
+  "type": "Content_Quest",
+  "x": -963,
+  "z": -5280,
+  "y": 47
+ },
+ {
+  "name": "From the Bottom",
+  "type": "Content_Quest",
+  "x": 191,
+  "z": -5236,
+  "y": 6
+ },
+ {
+  "name": "From the Mountains",
+  "type": "Content_Quest",
+  "x": -1366,
+  "z": -4543,
+  "y": 42
+ },
+ {
+  "name": "General's Orders",
+  "type": "Content_Quest",
+  "x": 118,
+  "z": -5435,
+  "y": 49
+ },
+ {
+  "name": "Grand Youth",
+  "type": "Content_Quest",
+  "x": -550,
+  "z": -747,
+  "y": 61
+ },
+ {
+  "name": "Haven Antiquity",
+  "type": "Content_Quest",
+  "x": 770,
+  "z": -3881,
+  "y": 36
+ },
+ {
+  "name": "Ice Nations",
+  "type": "Content_Quest",
+  "x": 806,
+  "z": -3353,
+  "y": 59
+ },
+ {
+  "name": "Infested Plants",
+  "type": "Content_Quest",
+  "x": -424,
+  "z": -1595,
+  "y": 68
+ },
+ {
+  "name": "Jungle Fever",
+  "type": "Content_Quest",
+  "x": -740,
+  "z": -662,
+  "y": 80
+ },
+ {
+  "name": "Kingdom of Sand",
+  "type": "Content_Quest",
+  "x": 1405,
+  "z": -1829,
+  "y": 94
+ },
+ {
+  "name": "Lava Springs",
+  "type": "Content_Quest",
+  "x": 671,
+  "z": -1754,
+  "y": 80
+ },
+ {
+  "name": "Lazarus Pit",
+  "type": "Content_Quest",
+  "x": -1025,
+  "z": -5302,
+  "y": 47
+ },
+ {
+  "name": "Lexdale Witch Trials",
+  "type": "Content_Quest",
+  "x": -604,
+  "z": -5444,
+  "y": 45
+ },
+ {
+  "name": "Lost in the Jungle",
+  "type": "Content_Quest",
+  "x": -753,
+  "z": -663,
+  "y": 79
+ },
+ {
+  "name": "Lost Tower",
+  "type": "Content_Quest",
+  "x": 24,
+  "z": -2199,
+  "y": 38
+ },
+ {
+  "name": "Maltic's Well",
+  "type": "Content_Quest",
+  "x": -568,
+  "z": -1922,
+  "y": 48
+ },
+ {
+  "name": "Master Piece",
+  "type": "Content_Quest",
+  "x": -1802,
+  "z": -5190,
+  "y": 56
+ },
+ {
+  "name": "Meaningful Holiday",
+  "type": "Content_Quest",
+  "x": 930,
+  "z": -1903,
+  "y": 75
+ },
+ {
+  "name": "Memory Paranoia",
+  "type": "Content_Quest",
+  "x": -1192,
+  "z": -5198,
+  "y": 46
+ },
+ {
+  "name": "Misadventure on the Sea",
+  "type": "Content_Quest",
+  "x": 114,
+  "z": -2176,
+  "y": 40
+ },
+ {
+  "name": "Mushroom Man",
+  "type": "Content_Quest",
+  "x": -158,
+  "z": -1621,
+  "y": 73
+ },
+ {
+  "name": "Off the Rails",
+  "type": "Content_Quest",
+  "x": -1719,
+  "z": -567,
+  "y": 29
+ },
+ {
+  "name": "One Thousand Meters Under",
+  "type": "Content_Quest",
+  "x": 1108,
+  "z": -4555,
+  "y": 107
+ },
+ {
+  "name": "Out of my Mind",
+  "type": "Content_Quest",
+  "x": -860,
+  "z": -961,
+  "y": 93
+ },
+ {
+  "name": "Overture to Despair",
+  "type": "Content_Quest",
+  "x": -1358,
+  "z": -1194,
+  "y": 108
+ },
+ {
+  "name": "Pit of the Dead",
+  "type": "Content_Quest",
+  "x": 210,
+  "z": -2150,
+  "y": 37
+ },
+ {
+  "name": "Point of No Return",
+  "type": "Content_Quest",
+  "x": 1013,
+  "z": -676,
+  "y": 77
+ },
+ {
+  "name": "Queen's Recruit",
+  "type": "Content_Quest",
+  "x": 431,
+  "z": -1574,
+  "y": 67
+ },
+ {
+  "name": "Reclaiming the House",
+  "type": "Content_Quest",
+  "x": -1499,
+  "z": -5349,
+  "y": 47
+ },
+ {
+  "name": "Reincarnation",
+  "type": "Content_Quest",
+  "x": 372,
+  "z": -775,
+  "y": 54
+ },
+ {
+  "name": "Revelations in Fall",
+  "type": "Content_Quest",
+  "x": -2249,
+  "z": -1205,
+  "y": 29
+ },
+ {
+  "name": "Royal Trials",
+  "type": "Content_Quest",
+  "x": 1479,
+  "z": -4343,
+  "y": 84
+ },
+ {
+  "name": "Shattered Minds",
+  "type": "Content_Quest",
+  "x": -1058,
+  "z": -5006,
+  "y": 44
+ },
+ {
+  "name": "Shrouded in Mist",
+  "type": "Content_Quest",
+  "x": -1468,
+  "z": -585,
+  "y": 32
+ },
+ {
+  "name": "Solidarity of Steel",
+  "type": "Content_Quest",
+  "x": -1886,
+  "z": -526,
+  "y": 46
+ },
+ {
+  "name": "Star Thief",
+  "type": "Content_Quest",
+  "x": -2018,
+  "z": -4822,
+  "y": 43
+ },
+ {
+  "name": "Taking the Tower",
+  "type": "Content_Quest",
+  "x": 511,
+  "z": -1613,
+  "y": 67
+ },
+ {
+  "name": "Tempo Town Trouble",
+  "type": "Content_Quest",
+  "x": 87,
+  "z": -2199,
+  "y": 39
+ },
+ {
+  "name": "The Bigger Picture",
+  "type": "Content_Quest",
+  "x": -205,
+  "z": -4308,
+  "y": 41
+ },
+ {
+  "name": "The Corrupted Village",
+  "type": "Content_Quest",
+  "x": 322,
+  "z": -1089,
+  "y": 78
+ },
+ {
+  "name": "The Cursed One",
+  "type": "Content_Quest",
+  "x": -2234,
+  "z": -1191,
+  "y": 24
+ },
+ {
+  "name": "The Dark Descent",
+  "type": "Content_Quest",
+  "x": 242,
+  "z": -1931,
+  "y": 47
+ },
+ {
+  "name": "The Envoy Part I",
+  "type": "Content_Quest",
+  "x": 107,
+  "z": -3172,
+  "y": 66
+ },
+ {
+  "name": "The Envoy Part II",
+  "type": "Content_Quest",
+  "x": -1571,
+  "z": -2876,
+  "y": 68
+ },
+ {
+  "name": "The Feathers Fly Part I",
+  "type": "Content_Quest",
+  "x": -1731,
+  "z": -3267,
+  "y": 134
+ },
+ {
+  "name": "The Feathers Fly Part II",
+  "type": "Content_Quest",
+  "x": -1573,
+  "z": -2762,
+  "y": 86
+ },
+ {
+  "name": "The Hero of Gavel",
+  "type": "Content_Quest",
+  "x": 1030,
+  "z": -4545,
+  "y": 112
+ },
+ {
+  "name": "The Hidden City",
+  "type": "Content_Quest",
+  "x": 711,
+  "z": -5072,
+  "y": 78
+ },
+ {
+  "name": "The House of Twain",
+  "type": "Content_Quest",
+  "x": 12,
+  "z": -456,
+  "y": 76
+ },
+ {
+  "name": "The Lost",
+  "type": "Content_Quest",
+  "x": 447,
+  "z": -4461,
+  "y": 28
+ },
+ {
+  "name": "The Maiden Tower",
+  "type": "Content_Quest",
+  "x": -2166,
+  "z": -5122,
+  "y": 56
+ },
+ {
+  "name": "The Missing Piece",
+  "type": "Content_Quest",
+  "x": -2156,
+  "z": -944,
+  "y": 30
+ },
+ {
+  "name": "The Order of the Grook",
+  "type": "Content_Quest",
+  "x": 940,
+  "z": -2866,
+  "y": 77
+ },
+ {
+  "name": "The Passage",
+  "type": "Content_Quest",
+  "x": -820,
+  "z": -1040,
+  "y": 94
+ },
+ {
+  "name": "The Price of Ingenuity",
+  "type": "Content_Quest",
+  "x": -2079,
+  "z": -709,
+  "y": 6
+ },
+ {
+  "name": "The Qira Hive",
+  "type": "Content_Quest",
+  "x": 372,
+  "z": -5501,
+  "y": 64
+ },
+ {
+  "name": "The Scarred Springs",
+  "type": "Content_Quest",
+  "x": -1762,
+  "z": -1000,
+  "y": 18
+ },
+ {
+  "name": "The Strong Survive",
+  "type": "Content_Quest",
+  "x": -1364,
+  "z": -1287,
+  "y": 113
+ },
+ {
+  "name": "The Ultimate Weapon",
+  "type": "Content_Quest",
+  "x": -947,
+  "z": -4593,
+  "y": 42
+ },
+ {
+  "name": "Through the Pipes",
+  "type": "Content_Quest",
+  "x": -1777,
+  "z": -570,
+  "y": 26
+ },
+ {
+  "name": "Tower of Ascension",
+  "type": "Content_Quest",
+  "x": -350,
+  "z": -389,
+  "y": 14
+ },
+ {
+  "name": "Tribal Aggression",
+  "type": "Content_Quest",
+  "x": 1077,
+  "z": -1613,
+  "y": 84
+ },
+ {
+  "name": "Troubled Tribesmen",
+  "type": "Content_Quest",
+  "x": -545,
+  "z": -313,
+  "y": 52
+ },
+ {
+  "name": "True Colours",
+  "type": "Content_Quest",
+  "x": -1372,
+  "z": -563,
+  "y": 155
+ },
+ {
+  "name": "Tunnel Trouble",
+  "type": "Content_Quest",
+  "x": 380,
+  "z": -1570,
+  "y": 68
+ },
+ {
+  "name": "Underice",
+  "type": "Content_Quest",
+  "x": 157,
+  "z": -812,
+  "y": 73
+ },
+ {
+  "name": "Undersupply",
+  "type": "Content_Quest",
+  "x": -1778,
+  "z": -1239,
+  "y": 13
+ },
+ {
+  "name": "Underwater",
+  "type": "Content_Quest",
+  "x": -540,
+  "z": -2020,
+  "y": 34
+ },
+ {
+  "name": "Wrath of the Mummy",
+  "type": "Content_Quest",
+  "x": 980,
+  "z": -1818,
+  "y": 69
+ },
+ {
+  "name": "WynnExcavation Site A",
+  "type": "Content_Quest",
+  "x": 1150,
+  "z": -1771,
+  "y": 54
+ },
+ {
+  "name": "WynnExcavation Site B",
+  "type": "Content_Quest",
+  "x": 39,
+  "z": -526,
+  "y": 62
+ },
+ {
+  "name": "WynnExcavation Site C",
+  "type": "Content_Quest",
+  "x": -1067,
+  "z": -3740,
+  "y": 42
+ },
+ {
+  "name": "WynnExcavation Site D",
+  "type": "Content_Quest",
+  "x": -848,
+  "z": -789,
+  "y": 98
+ },
+ {
+  "name": "Zhight Island",
+  "type": "Content_Quest",
+  "x": -542,
+  "z": -2755,
+  "y": 38
+ },
+ {
+  "name": "Nest of the Grootslangs",
+  "type": "Content_Raid",
+  "x": -1977,
+  "z": -5615,
+  "y": 63
+ },
+ {
+  "name": "The Canyon Colossus",
+  "type": "Content_Raid",
+  "x": 662,
+  "z": -4448,
+  "y": 49
+ },
+ {
+  "name": "The Nameless Anomaly",
+  "type": "Content_Raid",
+  "x": 1193,
+  "z": -947,
+  "y": 64
+ },
+ {
+  "name": "The Wartorn Palace",
+  "type": "Content_Raid",
+  "x": -1625,
+  "z": -674,
+  "y": 140
+ },
+ {
+  "name": "Ultimate Discovery",
+  "type": "Content_UltimateDiscovery",
+  "x": -2196,
+  "z": -5488,
+  "y": 71
+ },
+ {
+  "name": "Ultimate Discovery",
+  "type": "Content_UltimateDiscovery",
+  "x": -1884,
+  "z": -4512,
+  "y": 80
+ },
+ {
+  "name": "Ultimate Discovery",
+  "type": "Content_UltimateDiscovery",
+  "x": -1131,
+  "z": -4492,
+  "y": 44
+ },
+ {
+  "name": "Ultimate Discovery",
+  "type": "Content_UltimateDiscovery",
+  "x": -576,
+  "z": -5551,
+  "y": 55
+ },
+ {
+  "name": "Ultimate Discovery",
+  "type": "Content_UltimateDiscovery",
+  "x": -227,
+  "z": -1490,
+  "y": 69
+ },
+ {
+  "name": "Ultimate Discovery",
+  "type": "Content_UltimateDiscovery",
+  "x": -99,
+  "z": -5315,
+  "y": 33
+ },
+ {
+  "name": "Ultimate Discovery",
+  "type": "Content_UltimateDiscovery",
+  "x": 77,
+  "z": -423,
+  "y": 90
+ },
+ {
+  "name": "Ultimate Discovery",
+  "type": "Content_UltimateDiscovery",
+  "x": 216,
+  "z": -4934,
+  "y": 81
+ },
+ {
+  "name": "Ultimate Discovery",
+  "type": "Content_UltimateDiscovery",
+  "x": 1194,
+  "z": -1923,
+  "y": 77
+ },
+ {
+  "name": "Ultimate Discovery",
+  "type": "Content_UltimateDiscovery",
+  "x": 1221,
+  "z": -4680,
+  "y": 140
+ },
+ {
+  "name": "Ultimate Discovery",
+  "type": "Content_UltimateDiscovery",
+  "x": 1379,
+  "z": -695,
+  "y": 85
+ },
+ {
+  "name": "Ultimate Discovery",
+  "type": "Content_UltimateDiscovery",
+  "x": 1469,
+  "z": -5175,
+  "y": 21
+ },
+ {
+  "name": "Voidgloom",
+  "type": "gather_farming",
+  "x": 13627,
+  "z": -4367,
+  "y": 82,
+  "level": 105
+ },
+ {
+  "name": "Voidgloom",
+  "type": "gather_farming",
+  "x": 13663,
+  "z": -3953,
+  "y": 126,
+  "level": 105
+ },
+ {
+  "name": "Voidgloom",
+  "type": "gather_farming",
+  "x": 13666,
+  "z": -3973,
+  "y": 161,
+  "level": 105
+ },
+ {
+  "name": "Voidgloom",
+  "type": "gather_farming",
+  "x": 13680,
+  "z": -3969,
+  "y": 183,
+  "level": 105
+ },
+ {
+  "name": "Voidgloom",
+  "type": "gather_farming",
+  "x": 13696,
+  "z": -3968,
+  "y": 129,
+  "level": 105
+ },
+ {
+  "name": "Voidgloom",
+  "type": "gather_farming",
+  "x": 13703,
+  "z": -4002,
+  "y": 146,
+  "level": 105
+ },
+ {
+  "name": "Voidgloom",
+  "type": "gather_farming",
+  "x": 13711,
+  "z": -3931,
+  "y": 164,
+  "level": 105
+ },
+ {
+  "name": "Voidgloom",
+  "type": "gather_farming",
+  "x": 13725,
+  "z": -4190,
+  "y": 108,
+  "level": 105
+ },
+ {
+  "name": "Voidgloom",
+  "type": "gather_farming",
+  "x": 13726,
+  "z": -4185,
+  "y": 90,
+  "level": 105
+ },
+ {
+  "name": "Voidgloom",
+  "type": "gather_farming",
+  "x": 13744,
+  "z": -3860,
+  "y": 161,
+  "level": 105
+ },
+ {
+  "name": "Voidgloom",
+  "type": "gather_farming",
+  "x": 13756,
+  "z": -3807,
+  "y": 163,
+  "level": 105
+ },
+ {
+  "name": "Voidgloom",
+  "type": "gather_farming",
+  "x": 13762,
+  "z": -3859,
+  "y": 140,
+  "level": 105
+ },
+ {
+  "name": "Voidgloom",
+  "type": "gather_farming",
+  "x": 13824,
+  "z": -3777,
+  "y": 131,
+  "level": 105
+ },
+ {
+  "name": "Voidgloom",
+  "type": "gather_farming",
+  "x": 13837,
+  "z": -4131,
+  "y": 113,
+  "level": 105
+ },
+ {
+  "name": "Voidgloom",
+  "type": "gather_farming",
+  "x": 13858,
+  "z": -3815,
+  "y": 189,
+  "level": 105
+ },
+ {
+  "name": "Voidgloom",
+  "type": "gather_farming",
+  "x": 13861,
+  "z": -4128,
+  "y": 114,
+  "level": 105
+ },
+ {
+  "name": "Voidgloom",
+  "type": "gather_farming",
+  "x": 13869,
+  "z": -3866,
+  "y": 102,
+  "level": 105
+ },
+ {
+  "name": "Voidgloom",
+  "type": "gather_farming",
+  "x": 13870,
+  "z": -3820,
+  "y": 126,
+  "level": 105
+ },
+ {
+  "name": "Voidgloom",
+  "type": "gather_farming",
+  "x": 13887,
+  "z": -3883,
+  "y": 117,
+  "level": 105
+ },
+ {
+  "name": "Voidgloom",
+  "type": "gather_farming",
+  "x": 13888,
+  "z": -3765,
+  "y": 131,
+  "level": 105
+ },
+ {
+  "name": "Voidgloom",
+  "type": "gather_farming",
+  "x": 13893,
+  "z": -4210,
+  "y": 114,
+  "level": 105
+ },
+ {
+  "name": "Voidgloom",
+  "type": "gather_farming",
+  "x": 13893,
+  "z": -3970,
+  "y": 76,
+  "level": 105
+ },
+ {
+  "name": "Voidgloom",
+  "type": "gather_farming",
+  "x": 13894,
+  "z": -3931,
+  "y": 153,
+  "level": 105
+ },
+ {
+  "name": "Voidgloom",
+  "type": "gather_farming",
+  "x": 13902,
+  "z": -3965,
+  "y": 151,
+  "level": 105
+ },
+ {
+  "name": "Voidgloom",
+  "type": "gather_farming",
+  "x": 13910,
+  "z": -3666,
+  "y": 135,
+  "level": 105
+ },
+ {
+  "name": "Voidgloom",
+  "type": "gather_farming",
+  "x": 13938,
+  "z": -3769,
+  "y": 127,
+  "level": 105
+ },
+ {
+  "name": "Voidgloom",
+  "type": "gather_farming",
+  "x": 13940,
+  "z": -3640,
+  "y": 134,
+  "level": 105
+ },
+ {
+  "name": "Voidgloom",
+  "type": "gather_farming",
+  "x": 13960,
+  "z": -4233,
+  "y": 120,
+  "level": 105
+ },
+ {
+  "name": "Voidgloom",
+  "type": "gather_farming",
+  "x": 13960,
+  "z": -4177,
+  "y": 120,
+  "level": 105
+ },
+ {
+  "name": "Voidgloom",
+  "type": "gather_farming",
+  "x": 13978,
+  "z": -4245,
+  "y": 120,
+  "level": 105
+ },
+ {
+  "name": "Voidgloom",
+  "type": "gather_farming",
+  "x": 13993,
+  "z": -3994,
+  "y": 125,
+  "level": 105
+ },
+ {
+  "name": "Voidgloom",
+  "type": "gather_farming",
+  "x": 13993,
+  "z": -3666,
+  "y": 133,
+  "level": 105
+ },
+ {
+  "name": "Voidgloom",
+  "type": "gather_farming",
+  "x": 13995,
+  "z": -3773,
+  "y": 129,
+  "level": 105
+ },
+ {
+  "name": "Voidgloom",
+  "type": "gather_farming",
+  "x": 13998,
+  "z": -3639,
+  "y": 133,
+  "level": 105
+ },
+ {
+  "name": "Voidgloom",
+  "type": "gather_farming",
+  "x": 14004,
+  "z": -3800,
+  "y": 131,
+  "level": 105
+ },
+ {
+  "name": "Voidgloom",
+  "type": "gather_farming",
+  "x": 14030,
+  "z": -4102,
+  "y": 131,
+  "level": 105
+ },
+ {
+  "name": "Voidgloom",
+  "type": "gather_farming",
+  "x": 14032,
+  "z": -3664,
+  "y": 172,
+  "level": 105
+ },
+ {
+  "name": "Voidgloom",
+  "type": "gather_farming",
+  "x": 14036,
+  "z": -3895,
+  "y": 127,
+  "level": 105
+ },
+ {
+  "name": "Voidgloom",
+  "type": "gather_farming",
+  "x": 14044,
+  "z": -4229,
+  "y": 118,
+  "level": 105
+ },
+ {
+  "name": "Voidgloom",
+  "type": "gather_farming",
+  "x": 14056,
+  "z": -3774,
+  "y": 151,
+  "level": 105
+ },
+ {
+  "name": "Voidgloom",
+  "type": "gather_farming",
+  "x": 14078,
+  "z": -3698,
+  "y": 133,
+  "level": 105
+ },
+ {
+  "name": "Voidgloom",
+  "type": "gather_farming",
+  "x": 14080,
+  "z": -3977,
+  "y": 151,
+  "level": 105
+ },
+ {
+  "name": "Voidgloom",
+  "type": "gather_farming",
+  "x": 14081,
+  "z": -3786,
+  "y": 148,
+  "level": 105
+ },
+ {
+  "name": "Voidgloom",
+  "type": "gather_farming",
+  "x": 14087,
+  "z": -3978,
+  "y": 184,
+  "level": 105
+ },
+ {
+  "name": "Voidgloom",
+  "type": "gather_farming",
+  "x": 14135,
+  "z": -3768,
+  "y": 154,
+  "level": 105
+ },
+ {
+  "name": "Voidgloom",
+  "type": "gather_farming",
+  "x": 14194,
+  "z": -3924,
+  "y": 116,
+  "level": 105
+ },
+ {
+  "name": "Voidgloom",
+  "type": "gather_farming",
+  "x": 14199,
+  "z": -3928,
+  "y": 115,
+  "level": 105
+ },
+ {
+  "name": "Voidgloom",
+  "type": "gather_farming",
+  "x": 14201,
+  "z": -3934,
+  "y": 112,
+  "level": 105
+ },
+ {
+  "name": "Voidstone",
+  "type": "gather_mining",
+  "x": 13599,
+  "z": -4421,
+  "y": 84,
+  "level": 100
+ },
+ {
+  "name": "Voidstone",
+  "type": "gather_mining",
+  "x": 13601,
+  "z": -4419,
+  "y": 82,
+  "level": 100
+ },
+ {
+  "name": "Voidstone",
+  "type": "gather_mining",
+  "x": 13666,
+  "z": -4037,
+  "y": 135,
+  "level": 100
+ },
+ {
+  "name": "Voidstone",
+  "type": "gather_mining",
+  "x": 13667,
+  "z": -4041,
+  "y": 134,
+  "level": 100
+ },
+ {
+  "name": "Voidstone",
+  "type": "gather_mining",
+  "x": 13668,
+  "z": -4038,
+  "y": 138,
+  "level": 100
+ },
+ {
+  "name": "Voidstone",
+  "type": "gather_mining",
+  "x": 13673,
+  "z": -4034,
+  "y": 137,
+  "level": 100
+ },
+ {
+  "name": "Voidstone",
+  "type": "gather_mining",
+  "x": 13675,
+  "z": -4047,
+  "y": 127,
+  "level": 100
+ },
+ {
+  "name": "Voidstone",
+  "type": "gather_mining",
+  "x": 13676,
+  "z": -3968,
+  "y": 118,
+  "level": 100
+ },
+ {
+  "name": "Voidstone",
+  "type": "gather_mining",
+  "x": 13678,
+  "z": -3957,
+  "y": 117,
+  "level": 100
+ },
+ {
+  "name": "Voidstone",
+  "type": "gather_mining",
+  "x": 13679,
+  "z": -3954,
+  "y": 118,
+  "level": 100
+ },
+ {
+  "name": "Voidstone",
+  "type": "gather_mining",
+  "x": 13681,
+  "z": -3963,
+  "y": 116,
+  "level": 100
+ },
+ {
+  "name": "Voidstone",
+  "type": "gather_mining",
+  "x": 13693,
+  "z": -3963,
+  "y": 117,
+  "level": 100
+ },
+ {
+  "name": "Voidstone",
+  "type": "gather_mining",
+  "x": 13695,
+  "z": -3923,
+  "y": 126,
+  "level": 100
+ },
+ {
+  "name": "Voidstone",
+  "type": "gather_mining",
+  "x": 13696,
+  "z": -3928,
+  "y": 119,
+  "level": 100
+ },
+ {
+  "name": "Voidstone",
+  "type": "gather_mining",
+  "x": 13697,
+  "z": -3934,
+  "y": 117,
+  "level": 100
+ },
+ {
+  "name": "Voidstone",
+  "type": "gather_mining",
+  "x": 13699,
+  "z": -3922,
+  "y": 125,
+  "level": 100
+ },
+ {
+  "name": "Voidstone",
+  "type": "gather_mining",
+  "x": 13700,
+  "z": -3927,
+  "y": 117,
+  "level": 100
+ },
+ {
+  "name": "Voidstone",
+  "type": "gather_mining",
+  "x": 13701,
+  "z": -3968,
+  "y": 116,
+  "level": 100
+ },
+ {
+  "name": "Voidstone",
+  "type": "gather_mining",
+  "x": 13702,
+  "z": -3963,
+  "y": 117,
+  "level": 100
+ },
+ {
+  "name": "Voidstone",
+  "type": "gather_mining",
+  "x": 13706,
+  "z": -3950,
+  "y": 117,
+  "level": 100
+ },
+ {
+  "name": "Voidstone",
+  "type": "gather_mining",
+  "x": 13707,
+  "z": -3967,
+  "y": 118,
+  "level": 100
+ },
+ {
+  "name": "Voidstone",
+  "type": "gather_mining",
+  "x": 13707,
+  "z": -3948,
+  "y": 117,
+  "level": 100
+ },
+ {
+  "name": "Voidstone",
+  "type": "gather_mining",
+  "x": 13711,
+  "z": -3946,
+  "y": 117,
+  "level": 100
+ },
+ {
+  "name": "Voidstone",
+  "type": "gather_mining",
+  "x": 13730,
+  "z": -4157,
+  "y": 81,
+  "level": 100
+ },
+ {
+  "name": "Voidstone",
+  "type": "gather_mining",
+  "x": 13736,
+  "z": -4154,
+  "y": 80,
+  "level": 100
+ },
+ {
+  "name": "Voidstone",
+  "type": "gather_mining",
+  "x": 13740,
+  "z": -4155,
+  "y": 81,
+  "level": 100
+ },
+ {
+  "name": "Voidstone",
+  "type": "gather_mining",
+  "x": 13747,
+  "z": -4170,
+  "y": 81,
+  "level": 100
+ },
+ {
+  "name": "Voidstone",
+  "type": "gather_mining",
+  "x": 13820,
+  "z": -3799,
+  "y": 133,
+  "level": 100
+ },
+ {
+  "name": "Voidstone",
+  "type": "gather_mining",
+  "x": 13821,
+  "z": -3797,
+  "y": 131,
+  "level": 100
+ },
+ {
+  "name": "Voidstone",
+  "type": "gather_mining",
+  "x": 13833,
+  "z": -4158,
+  "y": 114,
+  "level": 100
+ },
+ {
+  "name": "Voidstone",
+  "type": "gather_mining",
+  "x": 13835,
+  "z": -4161,
+  "y": 116,
+  "level": 100
+ },
+ {
+  "name": "Voidstone",
+  "type": "gather_mining",
+  "x": 13835,
+  "z": -3795,
+  "y": 131,
+  "level": 100
+ },
+ {
+  "name": "Voidstone",
+  "type": "gather_mining",
+  "x": 13837,
+  "z": -4163,
+  "y": 118,
+  "level": 100
+ },
+ {
+  "name": "Voidstone",
+  "type": "gather_mining",
+  "x": 13840,
+  "z": -4157,
+  "y": 116,
+  "level": 100
+ },
+ {
+  "name": "Voidstone",
+  "type": "gather_mining",
+  "x": 13841,
+  "z": -4158,
+  "y": 115,
+  "level": 100
+ },
+ {
+  "name": "Voidstone",
+  "type": "gather_mining",
+  "x": 13843,
+  "z": -3794,
+  "y": 131,
+  "level": 100
+ },
+ {
+  "name": "Voidstone",
+  "type": "gather_mining",
+  "x": 13844,
+  "z": -3898,
+  "y": 103,
+  "level": 100
+ },
+ {
+  "name": "Voidstone",
+  "type": "gather_mining",
+  "x": 13846,
+  "z": -3882,
+  "y": 101,
+  "level": 100
+ },
+ {
+  "name": "Voidstone",
+  "type": "gather_mining",
+  "x": 13846,
+  "z": -3782,
+  "y": 135,
+  "level": 100
+ },
+ {
+  "name": "Voidstone",
+  "type": "gather_mining",
+  "x": 13847,
+  "z": -3785,
+  "y": 130,
+  "level": 100
+ },
+ {
+  "name": "Voidstone",
+  "type": "gather_mining",
+  "x": 13849,
+  "z": -3895,
+  "y": 102,
+  "level": 100
+ },
+ {
+  "name": "Voidstone",
+  "type": "gather_mining",
+  "x": 13849,
+  "z": -3880,
+  "y": 101,
+  "level": 100
+ },
+ {
+  "name": "Voidstone",
+  "type": "gather_mining",
+  "x": 13850,
+  "z": -3786,
+  "y": 131,
+  "level": 100
+ },
+ {
+  "name": "Voidstone",
+  "type": "gather_mining",
+  "x": 13852,
+  "z": -3881,
+  "y": 101,
+  "level": 100
+ },
+ {
+  "name": "Voidstone",
+  "type": "gather_mining",
+  "x": 13852,
+  "z": -3795,
+  "y": 133,
+  "level": 100
+ },
+ {
+  "name": "Voidstone",
+  "type": "gather_mining",
+  "x": 13855,
+  "z": -3884,
+  "y": 102,
+  "level": 100
+ },
+ {
+  "name": "Voidstone",
+  "type": "gather_mining",
+  "x": 13862,
+  "z": -3900,
+  "y": 104,
+  "level": 100
+ },
+ {
+  "name": "Voidstone",
+  "type": "gather_mining",
+  "x": 13865,
+  "z": -3904,
+  "y": 104,
+  "level": 100
+ },
+ {
+  "name": "Voidstone",
+  "type": "gather_mining",
+  "x": 13874,
+  "z": -4182,
+  "y": 114,
+  "level": 100
+ },
+ {
+  "name": "Voidstone",
+  "type": "gather_mining",
+  "x": 13876,
+  "z": -4186,
+  "y": 115,
+  "level": 100
+ },
+ {
+  "name": "Voidstone",
+  "type": "gather_mining",
+  "x": 13878,
+  "z": -4187,
+  "y": 113,
+  "level": 100
+ },
+ {
+  "name": "Voidstone",
+  "type": "gather_mining",
+  "x": 13885,
+  "z": -3916,
+  "y": 98,
+  "level": 100
+ },
+ {
+  "name": "Voidstone",
+  "type": "gather_mining",
+  "x": 13889,
+  "z": -3915,
+  "y": 98,
+  "level": 100
+ },
+ {
+  "name": "Voidstone",
+  "type": "gather_mining",
+  "x": 13892,
+  "z": -3905,
+  "y": 99,
+  "level": 100
+ },
+ {
+  "name": "Voidstone",
+  "type": "gather_mining",
+  "x": 13896,
+  "z": -3907,
+  "y": 99,
+  "level": 100
+ },
+ {
+  "name": "Voidstone",
+  "type": "gather_mining",
+  "x": 13910,
+  "z": -4003,
+  "y": 114,
+  "level": 100
+ },
+ {
+  "name": "Voidstone",
+  "type": "gather_mining",
+  "x": 13914,
+  "z": -4010,
+  "y": 115,
+  "level": 100
+ },
+ {
+  "name": "Voidstone",
+  "type": "gather_mining",
+  "x": 13920,
+  "z": -4014,
+  "y": 115,
+  "level": 100
+ },
+ {
+  "name": "Voidstone",
+  "type": "gather_mining",
+  "x": 13920,
+  "z": -4000,
+  "y": 114,
+  "level": 100
+ },
+ {
+  "name": "Voidstone",
+  "type": "gather_mining",
+  "x": 13944,
+  "z": -4210,
+  "y": 120,
+  "level": 100
+ },
+ {
+  "name": "Voidstone",
+  "type": "gather_mining",
+  "x": 13946,
+  "z": -4214,
+  "y": 120,
+  "level": 100
+ },
+ {
+  "name": "Voidstone",
+  "type": "gather_mining",
+  "x": 13946,
+  "z": -4184,
+  "y": 118,
+  "level": 100
+ },
+ {
+  "name": "Voidstone",
+  "type": "gather_mining",
+  "x": 13949,
+  "z": -4187,
+  "y": 119,
+  "level": 100
+ },
+ {
+  "name": "Voidstone",
+  "type": "gather_mining",
+  "x": 13954,
+  "z": -3773,
+  "y": 129,
+  "level": 100
+ },
+ {
+  "name": "Voidstone",
+  "type": "gather_mining",
+  "x": 13959,
+  "z": -4215,
+  "y": 121,
+  "level": 100
+ },
+ {
+  "name": "Voidstone",
+  "type": "gather_mining",
+  "x": 13962,
+  "z": -4212,
+  "y": 123,
+  "level": 100
+ },
+ {
+  "name": "Voidstone",
+  "type": "gather_mining",
+  "x": 13970,
+  "z": -4234,
+  "y": 121,
+  "level": 100
+ },
+ {
+  "name": "Voidstone",
+  "type": "gather_mining",
+  "x": 13970,
+  "z": -4205,
+  "y": 134,
+  "level": 100
+ },
+ {
+  "name": "Voidstone",
+  "type": "gather_mining",
+  "x": 13970,
+  "z": -3695,
+  "y": 134,
+  "level": 100
+ },
+ {
+  "name": "Voidstone",
+  "type": "gather_mining",
+  "x": 13971,
+  "z": -4232,
+  "y": 123,
+  "level": 100
+ },
+ {
+  "name": "Voidstone",
+  "type": "gather_mining",
+  "x": 13971,
+  "z": -4172,
+  "y": 121,
+  "level": 100
+ },
+ {
+  "name": "Voidstone",
+  "type": "gather_mining",
+  "x": 13974,
+  "z": -4173,
+  "y": 121,
+  "level": 100
+ },
+ {
+  "name": "Voidstone",
+  "type": "gather_mining",
+  "x": 13974,
+  "z": -3690,
+  "y": 134,
+  "level": 100
+ },
+ {
+  "name": "Voidstone",
+  "type": "gather_mining",
+  "x": 13975,
+  "z": -4193,
+  "y": 111,
+  "level": 100
+ },
+ {
+  "name": "Voidstone",
+  "type": "gather_mining",
+  "x": 13976,
+  "z": -4206,
+  "y": 116,
+  "level": 100
+ },
+ {
+  "name": "Voidstone",
+  "type": "gather_mining",
+  "x": 13976,
+  "z": -4199,
+  "y": 112,
+  "level": 100
+ },
+ {
+  "name": "Voidstone",
+  "type": "gather_mining",
+  "x": 13976,
+  "z": -3691,
+  "y": 135,
+  "level": 100
+ },
+ {
+  "name": "Voidstone",
+  "type": "gather_mining",
+  "x": 13981,
+  "z": -4198,
+  "y": 111,
+  "level": 100
+ },
+ {
+  "name": "Voidstone",
+  "type": "gather_mining",
+  "x": 13985,
+  "z": -4197,
+  "y": 112,
+  "level": 100
+ },
+ {
+  "name": "Voidstone",
+  "type": "gather_mining",
+  "x": 13986,
+  "z": -3830,
+  "y": 125,
+  "level": 100
+ },
+ {
+  "name": "Voidstone",
+  "type": "gather_mining",
+  "x": 13987,
+  "z": -4197,
+  "y": 114,
+  "level": 100
+ },
+ {
+  "name": "Voidstone",
+  "type": "gather_mining",
+  "x": 13989,
+  "z": -3834,
+  "y": 122,
+  "level": 100
+ },
+ {
+  "name": "Voidstone",
+  "type": "gather_mining",
+  "x": 13996,
+  "z": -4172,
+  "y": 121,
+  "level": 100
+ },
+ {
+  "name": "Voidstone",
+  "type": "gather_mining",
+  "x": 13996,
+  "z": -4007,
+  "y": 126,
+  "level": 100
+ },
+ {
+  "name": "Voidstone",
+  "type": "gather_mining",
+  "x": 13998,
+  "z": -4198,
+  "y": 122,
+  "level": 100
+ },
+ {
+  "name": "Voidstone",
+  "type": "gather_mining",
+  "x": 13999,
+  "z": -4173,
+  "y": 123,
+  "level": 100
+ },
+ {
+  "name": "Voidstone",
+  "type": "gather_mining",
+  "x": 14000,
+  "z": -4200,
+  "y": 122,
+  "level": 100
+ },
+ {
+  "name": "Voidstone",
+  "type": "gather_mining",
+  "x": 14000,
+  "z": -3980,
+  "y": 117,
+  "level": 100
+ },
+ {
+  "name": "Voidstone",
+  "type": "gather_mining",
+  "x": 14002,
+  "z": -4180,
+  "y": 121,
+  "level": 100
+ },
+ {
+  "name": "Voidstone",
+  "type": "gather_mining",
+  "x": 14006,
+  "z": -3692,
+  "y": 132,
+  "level": 100
+ },
+ {
+  "name": "Voidstone",
+  "type": "gather_mining",
+  "x": 14007,
+  "z": -3984,
+  "y": 118,
+  "level": 100
+ },
+ {
+  "name": "Voidstone",
+  "type": "gather_mining",
+  "x": 14008,
+  "z": -4218,
+  "y": 121,
+  "level": 100
+ },
+ {
+  "name": "Voidstone",
+  "type": "gather_mining",
+  "x": 14010,
+  "z": -4219,
+  "y": 124,
+  "level": 100
+ },
+ {
+  "name": "Voidstone",
+  "type": "gather_mining",
+  "x": 14010,
+  "z": -3693,
+  "y": 134,
+  "level": 100
+ },
+ {
+  "name": "Voidstone",
+  "type": "gather_mining",
+  "x": 14015,
+  "z": -3693,
+  "y": 135,
+  "level": 100
+ },
+ {
+  "name": "Voidstone",
+  "type": "gather_mining",
+  "x": 14017,
+  "z": -3691,
+  "y": 136,
+  "level": 100
+ },
+ {
+  "name": "Voidstone",
+  "type": "gather_mining",
+  "x": 14017,
+  "z": -3678,
+  "y": 136,
+  "level": 100
+ },
+ {
+  "name": "Voidstone",
+  "type": "gather_mining",
+  "x": 14018,
+  "z": -3680,
+  "y": 134,
+  "level": 100
+ },
+ {
+  "name": "Voidstone",
+  "type": "gather_mining",
+  "x": 14022,
+  "z": -3676,
+  "y": 134,
+  "level": 100
+ },
+ {
+  "name": "Voidstone",
+  "type": "gather_mining",
+  "x": 14031,
+  "z": -3692,
+  "y": 134,
+  "level": 100
+ },
+ {
+  "name": "Voidstone",
+  "type": "gather_mining",
+  "x": 14031,
+  "z": -3680,
+  "y": 133,
+  "level": 100
+ },
+ {
+  "name": "Voidstone",
+  "type": "gather_mining",
+  "x": 14033,
+  "z": -3690,
+  "y": 133,
+  "level": 100
+ },
+ {
+  "name": "Voidstone",
+  "type": "gather_mining",
+  "x": 14042,
+  "z": -3689,
+  "y": 135,
+  "level": 100
+ },
+ {
+  "name": "Voidstone",
+  "type": "gather_mining",
+  "x": 14048,
+  "z": -3675,
+  "y": 133,
+  "level": 100
+ },
+ {
+  "name": "Voidstone",
+  "type": "gather_mining",
+  "x": 14049,
+  "z": -3681,
+  "y": 157,
+  "level": 100
+ },
+ {
+  "name": "Voidstone",
+  "type": "gather_mining",
+  "x": 14050,
+  "z": -3689,
+  "y": 137,
+  "level": 100
+ },
+ {
+  "name": "Voidstone",
+  "type": "gather_mining",
+  "x": 14054,
+  "z": -3673,
+  "y": 134,
+  "level": 100
+ },
+ {
+  "name": "Voidstone",
+  "type": "gather_mining",
+  "x": 14055,
+  "z": -3686,
+  "y": 136,
+  "level": 100
+ },
+ {
+  "name": "Voidstone",
+  "type": "gather_mining",
+  "x": 14058,
+  "z": -3685,
+  "y": 138,
+  "level": 100
+ },
+ {
+  "name": "Voidstone",
+  "type": "gather_mining",
+  "x": 14084,
+  "z": -3680,
+  "y": 135,
+  "level": 100
+ },
+ {
+  "name": "Voidstone",
+  "type": "gather_mining",
+  "x": 14085,
+  "z": -3767,
+  "y": 177,
+  "level": 100
+ },
+ {
+  "name": "Voidstone",
+  "type": "gather_mining",
+  "x": 14086,
+  "z": -3765,
+  "y": 175,
+  "level": 100
+ },
+ {
+  "name": "Voidstone",
+  "type": "gather_mining",
+  "x": 14087,
+  "z": -3770,
+  "y": 173,
+  "level": 100
+ },
+ {
+  "name": "Voidstone",
+  "type": "gather_mining",
+  "x": 14089,
+  "z": -3776,
+  "y": 173,
+  "level": 100
+ },
+ {
+  "name": "Voidstone",
+  "type": "gather_mining",
+  "x": 14089,
+  "z": -3771,
+  "y": 172,
+  "level": 100
+ },
+ {
+  "name": "Voidstone",
+  "type": "gather_mining",
+  "x": 14090,
+  "z": -3768,
+  "y": 170,
+  "level": 100
+ },
+ {
+  "name": "Voidstone",
+  "type": "gather_mining",
+  "x": 14091,
+  "z": -3778,
+  "y": 174,
+  "level": 100
+ },
+ {
+  "name": "Voidstone",
+  "type": "gather_mining",
+  "x": 14093,
+  "z": -3758,
+  "y": 171,
+  "level": 100
+ },
+ {
+  "name": "Voidstone",
+  "type": "gather_mining",
+  "x": 14094,
+  "z": -3753,
+  "y": 176,
+  "level": 100
+ },
+ {
+  "name": "Voidstone",
+  "type": "gather_mining",
+  "x": 14095,
+  "z": -3774,
+  "y": 171,
+  "level": 100
+ },
+ {
+  "name": "Voidstone",
+  "type": "gather_mining",
+  "x": 14099,
+  "z": -3776,
+  "y": 168,
+  "level": 100
+ },
+ {
+  "name": "Voidstone",
+  "type": "gather_mining",
+  "x": 14099,
+  "z": -3763,
+  "y": 170,
+  "level": 100
+ },
+ {
+  "name": "Voidstone",
+  "type": "gather_mining",
+  "x": 14102,
+  "z": -3777,
+  "y": 166,
+  "level": 100
+ },
+ {
+  "name": "Voidstone",
+  "type": "gather_mining",
+  "x": 14102,
+  "z": -3765,
+  "y": 171,
+  "level": 100
+ },
+ {
+  "name": "Voidstone",
+  "type": "gather_mining",
+  "x": 14106,
+  "z": -3771,
+  "y": 167,
+  "level": 100
+ },
+ {
+  "name": "Voidstone",
+  "type": "gather_mining",
+  "x": 14109,
+  "z": -3778,
+  "y": 167,
+  "level": 100
+ },
+ {
+  "name": "Voidstone",
+  "type": "gather_mining",
+  "x": 14180,
+  "z": -3929,
+  "y": 84,
+  "level": 100
+ },
+ {
+  "name": "Voidstone",
+  "type": "gather_mining",
+  "x": 14184,
+  "z": -3934,
+  "y": 85,
+  "level": 100
+ },
+ {
+  "name": "Voidstone",
+  "type": "gather_mining",
+  "x": 14188,
+  "z": -3920,
+  "y": 91,
+  "level": 100
+ },
+ {
+  "name": "Voidstone",
+  "type": "gather_mining",
+  "x": 14189,
+  "z": -3922,
+  "y": 84,
+  "level": 100
+ },
+ {
+  "name": "Voidstone",
+  "type": "gather_mining",
+  "x": 14190,
+  "z": -3842,
+  "y": 151,
+  "level": 100
+ },
+ {
+  "name": "Voidstone",
+  "type": "gather_mining",
+  "x": 14191,
+  "z": -3947,
+  "y": 85,
+  "level": 100
+ },
+ {
+  "name": "Voidstone",
+  "type": "gather_mining",
+  "x": 14192,
+  "z": -3839,
+  "y": 149,
+  "level": 100
+ },
+ {
+  "name": "Voidstone",
+  "type": "gather_mining",
+  "x": 14193,
+  "z": -3843,
+  "y": 147,
+  "level": 100
+ },
+ {
+  "name": "Voidstone",
+  "type": "gather_mining",
+  "x": 14194,
+  "z": -3943,
+  "y": 85,
+  "level": 100
+ },
+ {
+  "name": "Voidstone",
+  "type": "gather_mining",
+  "x": 14194,
+  "z": -3926,
+  "y": 84,
+  "level": 100
+ },
+ {
+  "name": "Voidstone",
+  "type": "gather_mining",
+  "x": 14198,
+  "z": -3847,
+  "y": 145,
+  "level": 100
+ },
+ {
+  "name": "Voidstone",
+  "type": "gather_mining",
+  "x": 14199,
+  "z": -3841,
+  "y": 146,
+  "level": 100
+ },
+ {
+  "name": "Voidstone",
+  "type": "gather_mining",
+  "x": 14200,
+  "z": -3954,
+  "y": 84,
+  "level": 100
+ },
+ {
+  "name": "Voidstone",
+  "type": "gather_mining",
+  "x": 14201,
+  "z": -3930,
+  "y": 84,
+  "level": 100
+ },
+ {
+  "name": "Voidstone",
+  "type": "gather_mining",
+  "x": 14203,
+  "z": -3934,
+  "y": 90,
+  "level": 100
+ },
+ {
+  "name": "Accessory Merchant",
+  "type": "Merchant_Accessory",
+  "x": -2029,
+  "z": -1004,
+  "y": 19
+ },
+ {
+  "name": "Accessory Merchant",
+  "type": "Merchant_Accessory",
+  "x": -1701,
+  "z": -2330,
+  "y": 37
+ },
+ {
+  "name": "Accessory Merchant",
+  "type": "Merchant_Accessory",
+  "x": -1406,
+  "z": -4737,
+  "y": 43
+ },
+ {
+  "name": "Accessory Merchant",
+  "type": "Merchant_Accessory",
+  "x": -579,
+  "z": -5442,
+  "y": 61
+ },
+ {
+  "name": "Accessory Merchant",
+  "type": "Merchant_Accessory",
+  "x": -156,
+  "z": -1633,
+  "y": 72
+ },
+ {
+  "name": "Accessory Merchant",
+  "type": "Merchant_Accessory",
+  "x": -151,
+  "z": -4052,
+  "y": 38
+ },
+ {
+  "name": "Accessory Merchant",
+  "type": "Merchant_Accessory",
+  "x": -151,
+  "z": -4045,
+  "y": 38
+ },
+ {
+  "name": "Accessory Merchant",
+  "type": "Merchant_Accessory",
+  "x": 176,
+  "z": -5193,
+  "y": 6
+ },
+ {
+  "name": "Accessory Merchant",
+  "type": "Merchant_Accessory",
+  "x": 891,
+  "z": -5590,
+  "y": 122
+ },
+ {
+  "name": "Accessory Merchant",
+  "type": "Merchant_Accessory",
+  "x": 1261,
+  "z": -1273,
+  "y": 31
+ },
+ {
+  "name": "Accessory Merchant",
+  "type": "Merchant_Accessory",
+  "x": 1517,
+  "z": -5283,
+  "y": 45
+ },
+ {
+  "name": "Armour Merchant",
+  "type": "Merchant_Armour",
+  "x": -2052,
+  "z": -976,
+  "y": 29
+ },
+ {
+  "name": "Armour Merchant",
+  "type": "Merchant_Armour",
+  "x": -1949,
+  "z": -1627,
+  "y": 71
+ },
+ {
+  "name": "Armour Merchant",
+  "type": "Merchant_Armour",
+  "x": -1870,
+  "z": -4570,
+  "y": 53
+ },
+ {
+  "name": "Armour Merchant",
+  "type": "Merchant_Armour",
+  "x": -1776,
+  "z": -5532,
+  "y": 66
+ },
+ {
+  "name": "Armour Merchant",
+  "type": "Merchant_Armour",
+  "x": -1738,
+  "z": -529,
+  "y": 33
+ },
+ {
+  "name": "Armour Merchant",
+  "type": "Merchant_Armour",
+  "x": -1642,
+  "z": -2910,
+  "y": 68
+ },
+ {
+  "name": "Armour Merchant",
+  "type": "Merchant_Armour",
+  "x": -1561,
+  "z": -756,
+  "y": 129
+ },
+ {
+  "name": "Armour Merchant",
+  "type": "Merchant_Armour",
+  "x": -1328,
+  "z": -1242,
+  "y": 106
+ },
+ {
+  "name": "Armour Merchant",
+  "type": "Merchant_Armour",
+  "x": -1267,
+  "z": -724,
+  "y": 48
+ },
+ {
+  "name": "Armour Merchant",
+  "type": "Merchant_Armour",
+  "x": -1266,
+  "z": -723,
+  "y": 77
+ },
+ {
+  "name": "Armour Merchant",
+  "type": "Merchant_Armour",
+  "x": -1020,
+  "z": -5293,
+  "y": 47
+ },
+ {
+  "name": "Armour Merchant",
+  "type": "Merchant_Armour",
+  "x": -868,
+  "z": -1556,
+  "y": 67
+ },
+ {
+  "name": "Armour Merchant",
+  "type": "Merchant_Armour",
+  "x": -864,
+  "z": -1560,
+  "y": 67
+ },
+ {
+  "name": "Armour Merchant",
+  "type": "Merchant_Armour",
+  "x": -831,
+  "z": -893,
+  "y": 78
+ },
+ {
+  "name": "Armour Merchant",
+  "type": "Merchant_Armour",
+  "x": -626,
+  "z": -3084,
+  "y": 38
+ },
+ {
+  "name": "Armour Merchant",
+  "type": "Merchant_Armour",
+  "x": -620,
+  "z": -3077,
+  "y": 53
+ },
+ {
+  "name": "Armour Merchant",
+  "type": "Merchant_Armour",
+  "x": -466,
+  "z": -4921,
+  "y": 49
+ },
+ {
+  "name": "Armour Merchant",
+  "type": "Merchant_Armour",
+  "x": -187,
+  "z": -3996,
+  "y": 37
+ },
+ {
+  "name": "Armour Merchant",
+  "type": "Merchant_Armour",
+  "x": -159,
+  "z": -4068,
+  "y": 38
+ },
+ {
+  "name": "Armour Merchant",
+  "type": "Merchant_Armour",
+  "x": 85,
+  "z": -800,
+  "y": 73
+ },
+ {
+  "name": "Armour Merchant",
+  "type": "Merchant_Armour",
+  "x": 137,
+  "z": -3160,
+  "y": 66
+ },
+ {
+  "name": "Armour Merchant",
+  "type": "Merchant_Armour",
+  "x": 147,
+  "z": -2153,
+  "y": 42
+ },
+ {
+  "name": "Armour Merchant",
+  "type": "Merchant_Armour",
+  "x": 250,
+  "z": -5224,
+  "y": 29
+ },
+ {
+  "name": "Armour Merchant",
+  "type": "Merchant_Armour",
+  "x": 457,
+  "z": -1612,
+  "y": 67
+ },
+ {
+  "name": "Armour Merchant",
+  "type": "Merchant_Armour",
+  "x": 738,
+  "z": -2105,
+  "y": 73
+ },
+ {
+  "name": "Armour Merchant",
+  "type": "Merchant_Armour",
+  "x": 775,
+  "z": -5103,
+  "y": 75
+ },
+ {
+  "name": "Armour Merchant",
+  "type": "Merchant_Armour",
+  "x": 801,
+  "z": -3332,
+  "y": 59
+ },
+ {
+  "name": "Armour Merchant",
+  "type": "Merchant_Armour",
+  "x": 928,
+  "z": -4545,
+  "y": 110
+ },
+ {
+  "name": "Armour Merchant",
+  "type": "Merchant_Armour",
+  "x": 979,
+  "z": -1992,
+  "y": 83
+ },
+ {
+  "name": "Armour Merchant",
+  "type": "Merchant_Armour",
+  "x": 994,
+  "z": -3477,
+  "y": 38
+ },
+ {
+  "name": "Armour Merchant",
+  "type": "Merchant_Armour",
+  "x": 1092,
+  "z": -5174,
+  "y": 13
+ },
+ {
+  "name": "Armour Merchant",
+  "type": "Merchant_Armour",
+  "x": 1095,
+  "z": -5098,
+  "y": 13
+ },
+ {
+  "name": "Armour Merchant",
+  "type": "Merchant_Armour",
+  "x": 1255,
+  "z": -1356,
+  "y": 31
+ },
+ {
+  "name": "Master Armour Merchant",
+  "type": "Merchant_Armour",
+  "x": 334,
+  "z": -5612,
+  "y": 4
+ },
+ {
+  "name": "Tribal Armour Merchant",
+  "type": "Merchant_Armour",
+  "x": -526,
+  "z": -276,
+  "y": 59
+ },
+ {
+  "name": "Emerald Merchant",
+  "type": "Merchant_Emerald",
+  "x": -2120,
+  "z": -1003,
+  "y": 26
+ },
+ {
+  "name": "Emerald Merchant",
+  "type": "Merchant_Emerald",
+  "x": -2120,
+  "z": -999,
+  "y": 26
+ },
+ {
+  "name": "Emerald Merchant",
+  "type": "Merchant_Emerald",
+  "x": -2120,
+  "z": -995,
+  "y": 26
+ },
+ {
+  "name": "Emerald Merchant",
+  "type": "Merchant_Emerald",
+  "x": -2029,
+  "z": -4432,
+  "y": 77
+ },
+ {
+  "name": "Emerald Merchant",
+  "type": "Merchant_Emerald",
+  "x": -2029,
+  "z": -4427,
+  "y": 77
+ },
+ {
+  "name": "Emerald Merchant",
+  "type": "Merchant_Emerald",
+  "x": -2029,
+  "z": -4422,
+  "y": 77
+ },
+ {
+  "name": "Emerald Merchant",
+  "type": "Merchant_Emerald",
+  "x": -1965,
+  "z": -4432,
+  "y": 77
+ },
+ {
+  "name": "Emerald Merchant",
+  "type": "Merchant_Emerald",
+  "x": -1965,
+  "z": -4427,
+  "y": 77
+ },
+ {
+  "name": "Emerald Merchant",
+  "type": "Merchant_Emerald",
+  "x": -1965,
+  "z": -4422,
+  "y": 77
+ },
+ {
+  "name": "Emerald Merchant",
+  "type": "Merchant_Emerald",
+  "x": -1889,
+  "z": -1629,
+  "y": 71
+ },
+ {
+  "name": "Emerald Merchant",
+  "type": "Merchant_Emerald",
+  "x": -1886,
+  "z": -1632,
+  "y": 71
+ },
+ {
+  "name": "Emerald Merchant",
+  "type": "Merchant_Emerald",
+  "x": -1750,
+  "z": -5538,
+  "y": 68
+ },
+ {
+  "name": "Emerald Merchant",
+  "type": "Merchant_Emerald",
+  "x": -1750,
+  "z": -5528,
+  "y": 68
+ },
+ {
+  "name": "Emerald Merchant",
+  "type": "Merchant_Emerald",
+  "x": -1747,
+  "z": -5541,
+  "y": 68
+ },
+ {
+  "name": "Emerald Merchant",
+  "type": "Merchant_Emerald",
+  "x": -1747,
+  "z": -5525,
+  "y": 68
+ },
+ {
+  "name": "Emerald Merchant",
+  "type": "Merchant_Emerald",
+  "x": -1737,
+  "z": -5541,
+  "y": 68
+ },
+ {
+  "name": "Emerald Merchant",
+  "type": "Merchant_Emerald",
+  "x": -1737,
+  "z": -5525,
+  "y": 68
+ },
+ {
+  "name": "Emerald Merchant",
+  "type": "Merchant_Emerald",
+  "x": -1734,
+  "z": -5538,
+  "y": 68
+ },
+ {
+  "name": "Emerald Merchant",
+  "type": "Merchant_Emerald",
+  "x": -1734,
+  "z": -5528,
+  "y": 68
+ },
+ {
+  "name": "Emerald Merchant",
+  "type": "Merchant_Emerald",
+  "x": -1717,
+  "z": -545,
+  "y": 29
+ },
+ {
+  "name": "Emerald Merchant",
+  "type": "Merchant_Emerald",
+  "x": -1600,
+  "z": -2892,
+  "y": 73
+ },
+ {
+  "name": "Emerald Merchant",
+  "type": "Merchant_Emerald",
+  "x": -1597,
+  "z": -2888,
+  "y": 73
+ },
+ {
+  "name": "Emerald Merchant",
+  "type": "Merchant_Emerald",
+  "x": -1592,
+  "z": -2904,
+  "y": 68
+ },
+ {
+  "name": "Emerald Merchant",
+  "type": "Merchant_Emerald",
+  "x": -1592,
+  "z": -2888,
+  "y": 73
+ },
+ {
+  "name": "Emerald Merchant",
+  "type": "Merchant_Emerald",
+  "x": -1586,
+  "z": -2888,
+  "y": 73
+ },
+ {
+  "name": "Emerald Merchant",
+  "type": "Merchant_Emerald",
+  "x": -1584,
+  "z": -2892,
+  "y": 73
+ },
+ {
+  "name": "Emerald Merchant",
+  "type": "Merchant_Emerald",
+  "x": -1562,
+  "z": -817,
+  "y": 129
+ },
+ {
+  "name": "Emerald Merchant",
+  "type": "Merchant_Emerald",
+  "x": -1558,
+  "z": -817,
+  "y": 129
+ },
+ {
+  "name": "Emerald Merchant",
+  "type": "Merchant_Emerald",
+  "x": -1554,
+  "z": -817,
+  "y": 129
+ },
+ {
+  "name": "Emerald Merchant",
+  "type": "Merchant_Emerald",
+  "x": -1550,
+  "z": -817,
+  "y": 129
+ },
+ {
+  "name": "Emerald Merchant",
+  "type": "Merchant_Emerald",
+  "x": -1546,
+  "z": -817,
+  "y": 129
+ },
+ {
+  "name": "Emerald Merchant",
+  "type": "Merchant_Emerald",
+  "x": -1448,
+  "z": -4735,
+  "y": 44
+ },
+ {
+  "name": "Emerald Merchant",
+  "type": "Merchant_Emerald",
+  "x": -1448,
+  "z": -4715,
+  "y": 44
+ },
+ {
+  "name": "Emerald Merchant",
+  "type": "Merchant_Emerald",
+  "x": -1391,
+  "z": -1238,
+  "y": 109
+ },
+ {
+  "name": "Emerald Merchant",
+  "type": "Merchant_Emerald",
+  "x": -1384,
+  "z": -1244,
+  "y": 109
+ },
+ {
+  "name": "Emerald Merchant",
+  "type": "Merchant_Emerald",
+  "x": -1384,
+  "z": -1233,
+  "y": 109
+ },
+ {
+  "name": "Emerald Merchant",
+  "type": "Merchant_Emerald",
+  "x": -1312,
+  "z": -712,
+  "y": 78
+ },
+ {
+  "name": "Emerald Merchant",
+  "type": "Merchant_Emerald",
+  "x": -1308,
+  "z": -717,
+  "y": 78
+ },
+ {
+  "name": "Emerald Merchant",
+  "type": "Merchant_Emerald",
+  "x": -1167,
+  "z": -2403,
+  "y": 65
+ },
+ {
+  "name": "Emerald Merchant",
+  "type": "Merchant_Emerald",
+  "x": -1026,
+  "z": -5323,
+  "y": 46
+ },
+ {
+  "name": "Emerald Merchant",
+  "type": "Merchant_Emerald",
+  "x": -1017,
+  "z": -5323,
+  "y": 46
+ },
+ {
+  "name": "Emerald Merchant",
+  "type": "Merchant_Emerald",
+  "x": -899,
+  "z": -922,
+  "y": 85
+ },
+ {
+  "name": "Emerald Merchant",
+  "type": "Merchant_Emerald",
+  "x": -899,
+  "z": -914,
+  "y": 85
+ },
+ {
+  "name": "Emerald Merchant",
+  "type": "Merchant_Emerald",
+  "x": -897,
+  "z": -922,
+  "y": 77
+ },
+ {
+  "name": "Emerald Merchant",
+  "type": "Merchant_Emerald",
+  "x": -897,
+  "z": -914,
+  "y": 77
+ },
+ {
+  "name": "Emerald Merchant",
+  "type": "Merchant_Emerald",
+  "x": -895,
+  "z": -922,
+  "y": 85
+ },
+ {
+  "name": "Emerald Merchant",
+  "type": "Merchant_Emerald",
+  "x": -895,
+  "z": -914,
+  "y": 85
+ },
+ {
+  "name": "Emerald Merchant",
+  "type": "Merchant_Emerald",
+  "x": -893,
+  "z": -922,
+  "y": 77
+ },
+ {
+  "name": "Emerald Merchant",
+  "type": "Merchant_Emerald",
+  "x": -893,
+  "z": -914,
+  "y": 77
+ },
+ {
+  "name": "Emerald Merchant",
+  "type": "Merchant_Emerald",
+  "x": -863,
+  "z": -1599,
+  "y": 67
+ },
+ {
+  "name": "Emerald Merchant",
+  "type": "Merchant_Emerald",
+  "x": -855,
+  "z": -1598,
+  "y": 67
+ },
+ {
+  "name": "Emerald Merchant",
+  "type": "Merchant_Emerald",
+  "x": -849,
+  "z": -1595,
+  "y": 67
+ },
+ {
+  "name": "Emerald Merchant",
+  "type": "Merchant_Emerald",
+  "x": -720,
+  "z": -3096,
+  "y": 39
+ },
+ {
+  "name": "Emerald Merchant",
+  "type": "Merchant_Emerald",
+  "x": -720,
+  "z": -3088,
+  "y": 39
+ },
+ {
+  "name": "Emerald Merchant",
+  "type": "Merchant_Emerald",
+  "x": -719,
+  "z": -3094,
+  "y": 54
+ },
+ {
+  "name": "Emerald Merchant",
+  "type": "Merchant_Emerald",
+  "x": -719,
+  "z": -3090,
+  "y": 54
+ },
+ {
+  "name": "Emerald Merchant",
+  "type": "Merchant_Emerald",
+  "x": -716,
+  "z": -3096,
+  "y": 39
+ },
+ {
+  "name": "Emerald Merchant",
+  "type": "Merchant_Emerald",
+  "x": -716,
+  "z": -3088,
+  "y": 39
+ },
+ {
+  "name": "Emerald Merchant",
+  "type": "Merchant_Emerald",
+  "x": -661,
+  "z": -1047,
+  "y": 67
+ },
+ {
+  "name": "Emerald Merchant",
+  "type": "Merchant_Emerald",
+  "x": -661,
+  "z": -1024,
+  "y": 67
+ },
+ {
+  "name": "Emerald Merchant",
+  "type": "Merchant_Emerald",
+  "x": -645,
+  "z": -1030,
+  "y": 65
+ },
+ {
+  "name": "Emerald Merchant",
+  "type": "Merchant_Emerald",
+  "x": -426,
+  "z": -4909,
+  "y": 47
+ },
+ {
+  "name": "Emerald Merchant",
+  "type": "Merchant_Emerald",
+  "x": -424,
+  "z": -4926,
+  "y": 47
+ },
+ {
+  "name": "Emerald Merchant",
+  "type": "Merchant_Emerald",
+  "x": -422,
+  "z": -4909,
+  "y": 47
+ },
+ {
+  "name": "Emerald Merchant",
+  "type": "Merchant_Emerald",
+  "x": -415,
+  "z": -4920,
+  "y": 47
+ },
+ {
+  "name": "Emerald Merchant",
+  "type": "Merchant_Emerald",
+  "x": -415,
+  "z": -4916,
+  "y": 47
+ },
+ {
+  "name": "Emerald Merchant",
+  "type": "Merchant_Emerald",
+  "x": -301,
+  "z": -4392,
+  "y": 103
+ },
+ {
+  "name": "Emerald Merchant",
+  "type": "Merchant_Emerald",
+  "x": -291,
+  "z": -4378,
+  "y": 103
+ },
+ {
+  "name": "Emerald Merchant",
+  "type": "Merchant_Emerald",
+  "x": -291,
+  "z": -4374,
+  "y": 103
+ },
+ {
+  "name": "Emerald Merchant",
+  "type": "Merchant_Emerald",
+  "x": -283,
+  "z": -1151,
+  "y": 43
+ },
+ {
+  "name": "Emerald Merchant",
+  "type": "Merchant_Emerald",
+  "x": -252,
+  "z": -4027,
+  "y": 36
+ },
+ {
+  "name": "Emerald Merchant",
+  "type": "Merchant_Emerald",
+  "x": -212,
+  "z": -297,
+  "y": 28
+ },
+ {
+  "name": "Emerald Merchant",
+  "type": "Merchant_Emerald",
+  "x": -207,
+  "z": -297,
+  "y": 28
+ },
+ {
+  "name": "Emerald Merchant",
+  "type": "Merchant_Emerald",
+  "x": -139,
+  "z": -1605,
+  "y": 72
+ },
+ {
+  "name": "Emerald Merchant",
+  "type": "Merchant_Emerald",
+  "x": 10,
+  "z": -3222,
+  "y": 66
+ },
+ {
+  "name": "Emerald Merchant",
+  "type": "Merchant_Emerald",
+  "x": 10,
+  "z": -3215,
+  "y": 66
+ },
+ {
+  "name": "Emerald Merchant",
+  "type": "Merchant_Emerald",
+  "x": 10,
+  "z": -3209,
+  "y": 66
+ },
+ {
+  "name": "Emerald Merchant",
+  "type": "Merchant_Emerald",
+  "x": 85,
+  "z": -2225,
+  "y": 41
+ },
+ {
+  "name": "Emerald Merchant",
+  "type": "Merchant_Emerald",
+  "x": 85,
+  "z": -2214,
+  "y": 41
+ },
+ {
+  "name": "Emerald Merchant",
+  "type": "Merchant_Emerald",
+  "x": 86,
+  "z": -2228,
+  "y": 41
+ },
+ {
+  "name": "Emerald Merchant",
+  "type": "Merchant_Emerald",
+  "x": 86,
+  "z": -2210,
+  "y": 41
+ },
+ {
+  "name": "Emerald Merchant",
+  "type": "Merchant_Emerald",
+  "x": 90,
+  "z": -773,
+  "y": 73
+ },
+ {
+  "name": "Emerald Merchant",
+  "type": "Merchant_Emerald",
+  "x": 92,
+  "z": -775,
+  "y": 73
+ },
+ {
+  "name": "Emerald Merchant",
+  "type": "Merchant_Emerald",
+  "x": 95,
+  "z": -2228,
+  "y": 41
+ },
+ {
+  "name": "Emerald Merchant",
+  "type": "Merchant_Emerald",
+  "x": 95,
+  "z": -2210,
+  "y": 41
+ },
+ {
+  "name": "Emerald Merchant",
+  "type": "Merchant_Emerald",
+  "x": 96,
+  "z": -2225,
+  "y": 41
+ },
+ {
+  "name": "Emerald Merchant",
+  "type": "Merchant_Emerald",
+  "x": 96,
+  "z": -2214,
+  "y": 41
+ },
+ {
+  "name": "Emerald Merchant",
+  "type": "Merchant_Emerald",
+  "x": 164,
+  "z": -5321,
+  "y": 6
+ },
+ {
+  "name": "Emerald Merchant",
+  "type": "Merchant_Emerald",
+  "x": 167,
+  "z": -5323,
+  "y": 6
+ },
+ {
+  "name": "Emerald Merchant",
+  "type": "Merchant_Emerald",
+  "x": 170,
+  "z": -5321,
+  "y": 6
+ },
+ {
+  "name": "Emerald Merchant",
+  "type": "Merchant_Emerald",
+  "x": 224,
+  "z": -5241,
+  "y": 29
+ },
+ {
+  "name": "Emerald Merchant",
+  "type": "Merchant_Emerald",
+  "x": 475,
+  "z": -4768,
+  "y": 109
+ },
+ {
+  "name": "Emerald Merchant",
+  "type": "Merchant_Emerald",
+  "x": 484,
+  "z": -1550,
+  "y": 67
+ },
+ {
+  "name": "Emerald Merchant",
+  "type": "Merchant_Emerald",
+  "x": 488,
+  "z": -1550,
+  "y": 67
+ },
+ {
+  "name": "Emerald Merchant",
+  "type": "Merchant_Emerald",
+  "x": 491,
+  "z": -1557,
+  "y": 67
+ },
+ {
+  "name": "Emerald Merchant",
+  "type": "Merchant_Emerald",
+  "x": 491,
+  "z": -1553,
+  "y": 67
+ },
+ {
+  "name": "Emerald Merchant",
+  "type": "Merchant_Emerald",
+  "x": 740,
+  "z": -4437,
+  "y": 164
+ },
+ {
+  "name": "Emerald Merchant",
+  "type": "Merchant_Emerald",
+  "x": 784,
+  "z": -3325,
+  "y": 59
+ },
+ {
+  "name": "Emerald Merchant",
+  "type": "Merchant_Emerald",
+  "x": 800,
+  "z": -3325,
+  "y": 59
+ },
+ {
+  "name": "Emerald Merchant",
+  "type": "Merchant_Emerald",
+  "x": 834,
+  "z": -5094,
+  "y": 75
+ },
+ {
+  "name": "Emerald Merchant",
+  "type": "Merchant_Emerald",
+  "x": 835,
+  "z": -5096,
+  "y": 75
+ },
+ {
+  "name": "Emerald Merchant",
+  "type": "Merchant_Emerald",
+  "x": 835,
+  "z": -5092,
+  "y": 75
+ },
+ {
+  "name": "Emerald Merchant",
+  "type": "Merchant_Emerald",
+  "x": 861,
+  "z": -1619,
+  "y": 71
+ },
+ {
+  "name": "Emerald Merchant",
+  "type": "Merchant_Emerald",
+  "x": 918,
+  "z": -5472,
+  "y": 116
+ },
+ {
+  "name": "Emerald Merchant",
+  "type": "Merchant_Emerald",
+  "x": 918,
+  "z": -5464,
+  "y": 116
+ },
+ {
+  "name": "Emerald Merchant",
+  "type": "Merchant_Emerald",
+  "x": 920,
+  "z": -5474,
+  "y": 116
+ },
+ {
+  "name": "Emerald Merchant",
+  "type": "Merchant_Emerald",
+  "x": 920,
+  "z": -5462,
+  "y": 116
+ },
+ {
+  "name": "Emerald Merchant",
+  "type": "Merchant_Emerald",
+  "x": 937,
+  "z": -1969,
+  "y": 67
+ },
+ {
+  "name": "Emerald Merchant",
+  "type": "Merchant_Emerald",
+  "x": 975,
+  "z": -691,
+  "y": 73
+ },
+ {
+  "name": "Emerald Merchant",
+  "type": "Merchant_Emerald",
+  "x": 980,
+  "z": -5145,
+  "y": 15
+ },
+ {
+  "name": "Emerald Merchant",
+  "type": "Merchant_Emerald",
+  "x": 980,
+  "z": -5134,
+  "y": 15
+ },
+ {
+  "name": "Emerald Merchant",
+  "type": "Merchant_Emerald",
+  "x": 980,
+  "z": -5123,
+  "y": 15
+ },
+ {
+  "name": "Emerald Merchant",
+  "type": "Merchant_Emerald",
+  "x": 981,
+  "z": -689,
+  "y": 73
+ },
+ {
+  "name": "Emerald Merchant",
+  "type": "Merchant_Emerald",
+  "x": 990,
+  "z": -690,
+  "y": 73
+ },
+ {
+  "name": "Emerald Merchant",
+  "type": "Merchant_Emerald",
+  "x": 991,
+  "z": -695,
+  "y": 73
+ },
+ {
+  "name": "Emerald Merchant",
+  "type": "Merchant_Emerald",
+  "x": 995,
+  "z": -5134,
+  "y": 15
+ },
+ {
+  "name": "Emerald Merchant",
+  "type": "Merchant_Emerald",
+  "x": 1016,
+  "z": -1986,
+  "y": 99
+ },
+ {
+  "name": "Emerald Merchant",
+  "type": "Merchant_Emerald",
+  "x": 1016,
+  "z": -1976,
+  "y": 99
+ },
+ {
+  "name": "Emerald Merchant",
+  "type": "Merchant_Emerald",
+  "x": 1016,
+  "z": -1937,
+  "y": 99
+ },
+ {
+  "name": "Emerald Merchant",
+  "type": "Merchant_Emerald",
+  "x": 1016,
+  "z": -1927,
+  "y": 99
+ },
+ {
+  "name": "Emerald Merchant",
+  "type": "Merchant_Emerald",
+  "x": 1025,
+  "z": -1986,
+  "y": 99
+ },
+ {
+  "name": "Emerald Merchant",
+  "type": "Merchant_Emerald",
+  "x": 1025,
+  "z": -1976,
+  "y": 99
+ },
+ {
+  "name": "Emerald Merchant",
+  "type": "Merchant_Emerald",
+  "x": 1025,
+  "z": -1937,
+  "y": 99
+ },
+ {
+  "name": "Emerald Merchant",
+  "type": "Merchant_Emerald",
+  "x": 1025,
+  "z": -1927,
+  "y": 99
+ },
+ {
+  "name": "Emerald Merchant",
+  "type": "Merchant_Emerald",
+  "x": 1062,
+  "z": -4548,
+  "y": 108
+ },
+ {
+  "name": "Emerald Merchant",
+  "type": "Merchant_Emerald",
+  "x": 1073,
+  "z": -4561,
+  "y": 108
+ },
+ {
+  "name": "Emerald Merchant",
+  "type": "Merchant_Emerald",
+  "x": 1073,
+  "z": -4535,
+  "y": 108
+ },
+ {
+  "name": "Emerald Merchant",
+  "type": "Merchant_Emerald",
+  "x": 1081,
+  "z": -4561,
+  "y": 108
+ },
+ {
+  "name": "Emerald Merchant",
+  "type": "Merchant_Emerald",
+  "x": 1081,
+  "z": -4535,
+  "y": 108
+ },
+ {
+  "name": "Emerald Merchant",
+  "type": "Merchant_Emerald",
+  "x": 1142,
+  "z": -3119,
+  "y": 43
+ },
+ {
+  "name": "Emerald Merchant",
+  "type": "Merchant_Emerald",
+  "x": 1473,
+  "z": -5304,
+  "y": 45
+ },
+ {
+  "name": "Emerald Merchant",
+  "type": "Merchant_Emerald",
+  "x": 1473,
+  "z": -5299,
+  "y": 45
+ },
+ {
+  "name": "Mount Merchant",
+  "type": "Merchant_Horse",
+  "x": -1482,
+  "z": -4714,
+  "y": 43
+ },
+ {
+  "name": "Mount Merchant",
+  "type": "Merchant_Horse",
+  "x": -1234,
+  "z": -738,
+  "y": 59
+ },
+ {
+  "name": "Mount Merchant",
+  "type": "Merchant_Horse",
+  "x": 489,
+  "z": -4725,
+  "y": 108
+ },
+ {
+  "name": "Mount Merchant",
+  "type": "Merchant_Horse",
+  "x": 809,
+  "z": -1644,
+  "y": 71
+ },
+ {
+  "name": "Mount Merchant",
+  "type": "Merchant_Horse",
+  "x": 850,
+  "z": -1651,
+  "y": 70
+ },
+ {
+  "name": "Alcohol Merchant",
+  "type": "Merchant_Other",
+  "x": -2192,
+  "z": -1014,
+  "y": 8
+ },
+ {
+  "name": "Apple Merchant",
+  "type": "Merchant_Other",
+  "x": 1304,
+  "z": -1252,
+  "y": 31
+ },
+ {
+  "name": "Art Merchant",
+  "type": "Merchant_Other",
+  "x": -226,
+  "y": 57,
+  "z": -4981
+ },
+ {
+  "name": "Artefact Merchant",
+  "type": "Merchant_Other",
+  "x": -896,
+  "z": -4526,
+  "y": 43
+ },
+ {
+  "name": "Banished Merchant",
+  "type": "Merchant_Other",
+  "x": -178,
+  "z": -3997,
+  "y": 37
+ },
+ {
+  "name": "Black Market Merchant",
+  "type": "Merchant_Other",
+  "x": 989,
+  "z": -1918,
+  "y": 68
+ },
+ {
+  "name": "Blizzard Merchant",
+  "type": "Merchant_Other",
+  "x": -164,
+  "z": -4047,
+  "y": 38
+ },
+ {
+  "name": "Bonfire Merchant",
+  "type": "Merchant_Other",
+  "x": -345,
+  "z": -3970,
+  "y": 35
+ },
+ {
+  "name": "Book Merchant",
+  "type": "Merchant_Other",
+  "x": 157,
+  "z": -5208,
+  "y": 6
+ },
+ {
+  "name": "Bowl Merchant",
+  "type": "Merchant_Other",
+  "x": -268,
+  "z": -1400,
+  "y": 67
+ },
+ {
+  "name": "Brew-it-Yourself Merchant",
+  "type": "Merchant_Other",
+  "x": -579,
+  "z": -2787,
+  "y": 38
+ },
+ {
+  "name": "Bronze Rewards Merchant",
+  "type": "Merchant_Other",
+  "x": -1081,
+  "z": -2409,
+  "y": 65
+ },
+ {
+  "name": "Bucket Merchant",
+  "type": "Merchant_Other",
+  "x": -804,
+  "z": -1923,
+  "y": 67
+ },
+ {
+  "name": "Bucket Merchant",
+  "type": "Merchant_Other",
+  "x": -804,
+  "z": -1918,
+  "y": 67
+ },
+ {
+  "name": "Charmcrafter Merchant",
+  "type": "Merchant_Other",
+  "x": -1092,
+  "z": -5028,
+  "y": 42
+ },
+ {
+  "name": "Charmcrafter Merchant",
+  "type": "Merchant_Other",
+  "x": -770,
+  "z": -626,
+  "y": 94
+ },
+ {
+  "name": "Cheese Merchant",
+  "type": "Merchant_Other",
+  "x": -1384,
+  "z": -1317,
+  "y": 115
+ },
+ {
+  "name": "Collectibles Merchant",
+  "type": "Merchant_Other",
+  "x": -286,
+  "z": -4405,
+  "y": 103
+ },
+ {
+  "name": "Collector Merchant",
+  "type": "Merchant_Other",
+  "x": -234,
+  "z": -4984,
+  "y": 57
+ },
+ {
+  "name": "Confectionery Merchant",
+  "type": "Merchant_Other",
+  "x": -251,
+  "z": -4954,
+  "y": 57
+ },
+ {
+  "name": "Diamond Rewards Merchant",
+  "type": "Merchant_Other",
+  "x": -1074,
+  "z": -2373,
+  "y": 65
+ },
+ {
+  "name": "Diamond Rewards Merchant",
+  "type": "Merchant_Other",
+  "x": -1070,
+  "z": -2377,
+  "y": 65
+ },
+ {
+  "name": "Dungeon Merchant",
+  "type": "Merchant_Other",
+  "x": -1682,
+  "z": -2613,
+  "y": 77
+ },
+ {
+  "name": "Dungeon Merchant",
+  "type": "Merchant_Other",
+  "x": -923,
+  "z": -1874,
+  "y": 63
+ },
+ {
+  "name": "Dungeon Merchant",
+  "type": "Merchant_Other",
+  "x": -633,
+  "z": -857,
+  "y": 73
+ },
+ {
+  "name": "Dungeon Merchant",
+  "type": "Merchant_Other",
+  "x": -567,
+  "z": -3560,
+  "y": 41
+ },
+ {
+  "name": "Dungeon Merchant",
+  "type": "Merchant_Other",
+  "x": -253,
+  "z": -1045,
+  "y": 28
+ },
+ {
+  "name": "Dungeon Merchant",
+  "type": "Merchant_Other",
+  "x": -195,
+  "z": -1795,
+  "y": 58
+ },
+ {
+  "name": "Dungeon Merchant",
+  "type": "Merchant_Other",
+  "x": 136,
+  "z": -641,
+  "y": 83
+ },
+ {
+  "name": "Dungeon Merchant",
+  "type": "Merchant_Other",
+  "x": 1304,
+  "z": -748,
+  "y": 87
+ },
+ {
+  "name": "Dungeon Merchant",
+  "type": "Merchant_Other",
+  "x": 1413,
+  "z": -1823,
+  "y": 94
+ },
+ {
+  "name": "Egg merchant",
+  "type": "Merchant_Other",
+  "x": -537,
+  "z": -1829,
+  "y": 59
+ },
+ {
+  "name": "Egg Merchant",
+  "type": "Merchant_Other",
+  "x": 1304,
+  "z": -1268,
+  "y": 31
+ },
+ {
+  "name": "Exchange Merchant",
+  "type": "Merchant_Other",
+  "x": -1645,
+  "z": -2890,
+  "y": 68
+ },
+ {
+  "name": "Exchange Merchant",
+  "type": "Merchant_Other",
+  "x": -1645,
+  "z": -2868,
+  "y": 68
+ },
+ {
+  "name": "Exchange Merchant",
+  "type": "Merchant_Other",
+  "x": -1641,
+  "z": -2890,
+  "y": 68
+ },
+ {
+  "name": "Exchange Merchant",
+  "type": "Merchant_Other",
+  "x": -1641,
+  "z": -2868,
+  "y": 68
+ },
+ {
+  "name": "Exchange Merchant",
+  "type": "Merchant_Other",
+  "x": -1637,
+  "z": -2890,
+  "y": 68
+ },
+ {
+  "name": "Exchange Merchant",
+  "type": "Merchant_Other",
+  "x": -1637,
+  "z": -2868,
+  "y": 68
+ },
+ {
+  "name": "Exchange Merchant",
+  "type": "Merchant_Other",
+  "x": -1633,
+  "z": -2890,
+  "y": 68
+ },
+ {
+  "name": "Exchange Merchant",
+  "type": "Merchant_Other",
+  "x": -1633,
+  "z": -2868,
+  "y": 68
+ },
+ {
+  "name": "Exchange Merchant",
+  "type": "Merchant_Other",
+  "x": -1629,
+  "z": -2890,
+  "y": 68
+ },
+ {
+  "name": "Exchange Merchant",
+  "type": "Merchant_Other",
+  "x": -1629,
+  "z": -2868,
+  "y": 68
+ },
+ {
+  "name": "Explosives Merchant",
+  "type": "Merchant_Other",
+  "x": -200,
+  "y": 46,
+  "z": -281
+ },
+ {
+  "name": "Fabrics Merchant",
+  "type": "Merchant_Other",
+  "x": 1288,
+  "z": -1251,
+  "y": 31
+ },
+ {
+  "name": "Feather Merchant",
+  "type": "Merchant_Other",
+  "x": 1296,
+  "z": -1234,
+  "y": 31
+ },
+ {
+  "name": "Fish Merchant",
+  "type": "Merchant_Other",
+  "x": 84,
+  "z": -818,
+  "y": 73
+ },
+ {
+  "name": "Food Merchant",
+  "type": "Merchant_Other",
+  "x": -158,
+  "z": -4950,
+  "y": 131
+ },
+ {
+  "name": "Food Merchant",
+  "type": "Merchant_Other",
+  "x": -144,
+  "z": -4950,
+  "y": 131
+ },
+ {
+  "name": "Gert Merchant",
+  "type": "Merchant_Other",
+  "x": -45,
+  "z": -5552,
+  "y": 58
+ },
+ {
+  "name": "Glassblowing Merchant",
+  "type": "Merchant_Other",
+  "x": 924,
+  "z": -1978,
+  "y": 61
+ },
+ {
+  "name": "Gold Rewards Merchant",
+  "type": "Merchant_Other",
+  "x": -1066,
+  "z": -2394,
+  "y": 65
+ },
+ {
+  "name": "Golden Fish Merchant",
+  "type": "Merchant_Other",
+  "x": -688,
+  "z": -3067,
+  "y": 38
+ },
+ {
+  "name": "Healer Merchant",
+  "type": "Merchant_Other",
+  "x": 660,
+  "z": -2083,
+  "y": 6
+ },
+ {
+  "name": "Hive Air Merchant",
+  "type": "Merchant_Other",
+  "x": 344,
+  "z": -5529,
+  "y": 20
+ },
+ {
+  "name": "Hive Earth Merchant",
+  "type": "Merchant_Other",
+  "x": 343,
+  "z": -5548,
+  "y": 16
+ },
+ {
+  "name": "Hive Fire Merchant",
+  "type": "Merchant_Other",
+  "x": 343,
+  "z": -5588,
+  "y": 8
+ },
+ {
+  "name": "Hive Thunder Merchant",
+  "type": "Merchant_Other",
+  "x": 344,
+  "z": -5499,
+  "y": 28
+ },
+ {
+  "name": "Hive Water Merchant",
+  "type": "Merchant_Other",
+  "x": 343,
+  "z": -5567,
+  "y": 12
+ },
+ {
+  "name": "Hook Merchant",
+  "type": "Merchant_Other",
+  "x": -642,
+  "z": -3177,
+  "y": 40
+ },
+ {
+  "name": "Illicit Herb Merchant",
+  "type": "Merchant_Other",
+  "x": 1235,
+  "z": -1276,
+  "y": 31
+ },
+ {
+  "name": "Ingredient Merchant",
+  "type": "Merchant_Other",
+  "x": 1487,
+  "z": -5258,
+  "y": 45
+ },
+ {
+  "name": "Key Forge Merchant",
+  "type": "Merchant_Other",
+  "x": -872,
+  "z": -4913,
+  "y": 122
+ },
+ {
+  "name": "Key Forge Merchant",
+  "type": "Merchant_Other",
+  "x": -850,
+  "y": 123,
+  "z": -4903
+ },
+ {
+  "name": "King's Merchant",
+  "type": "Merchant_Other",
+  "x": -425,
+  "z": -4935,
+  "y": 48
+ },
+ {
+  "name": "Mask Merchant",
+  "type": "Merchant_Other",
+  "x": -579,
+  "z": -1425,
+  "y": 89
+ },
+ {
+  "name": "Master Trinket Merchant",
+  "type": "Merchant_Other",
+  "x": 343,
+  "z": -5612,
+  "y": 4
+ },
+ {
+  "name": "Medicinal Merchant",
+  "type": "Merchant_Other",
+  "x": -1028,
+  "z": -4991,
+  "y": 42
+ },
+ {
+  "name": "Melon? Merchant",
+  "type": "Merchant_Other",
+  "x": 181,
+  "z": -5287,
+  "y": 6
+ },
+ {
+  "name": "Miner Pass Merchant",
+  "type": "Merchant_Other",
+  "x": 1535,
+  "z": -5342,
+  "y": 61
+ },
+ {
+  "name": "Mushroom Merchant",
+  "type": "Merchant_Other",
+  "x": 1288,
+  "z": -1260,
+  "y": 31
+ },
+ {
+  "name": "Mysterious Merchant",
+  "type": "Merchant_Other",
+  "x": -289,
+  "z": -1145,
+  "y": 43
+ },
+ {
+  "name": "Mysterious Merchant",
+  "type": "Merchant_Other",
+  "x": 946,
+  "z": -660,
+  "y": 73
+ },
+ {
+  "name": "Necromancy Merchant",
+  "type": "Merchant_Other",
+  "x": 158,
+  "z": -5194,
+  "y": 6
+ },
+ {
+  "name": "Pink Wool Merchant",
+  "type": "Merchant_Other",
+  "x": 1329,
+  "z": -1272,
+  "y": 31
+ },
+ {
+  "name": "Platinum Dealer Merchant",
+  "type": "Merchant_Other",
+  "x": 158,
+  "z": -5217,
+  "y": 6
+ },
+ {
+  "name": "Potato Merchant",
+  "type": "Merchant_Other",
+  "x": 651,
+  "z": -2085,
+  "y": 62
+ },
+ {
+  "name": "Potato Merchant",
+  "type": "Merchant_Other",
+  "x": 1304,
+  "z": -1244,
+  "y": 31
+ },
+ {
+  "name": "Rymek Dealer Merchant",
+  "type": "Merchant_Other",
+  "x": 1288,
+  "z": -1315,
+  "y": 31
+ },
+ {
+  "name": "Rymek Dealer Merchant",
+  "type": "Merchant_Other",
+  "x": 1295,
+  "z": -1301,
+  "y": 31
+ },
+ {
+  "name": "Rymek Dealer Merchant",
+  "type": "Merchant_Other",
+  "x": 1297,
+  "z": -1317,
+  "y": 31
+ },
+ {
+  "name": "Rymek Dealer Merchant",
+  "type": "Merchant_Other",
+  "x": 1318,
+  "z": -1314,
+  "y": 31
+ },
+ {
+  "name": "Shifty Merchant",
+  "type": "Merchant_Other",
+  "x": 200,
+  "z": -5229,
+  "y": 6
+ },
+ {
+  "name": "Siegfried Fan Item Merchant",
+  "type": "Merchant_Other",
+  "x": -2121,
+  "z": -4570,
+  "y": 53
+ },
+ {
+  "name": "Siegfried Fan Item Merchant",
+  "type": "Merchant_Other",
+  "x": 1032,
+  "z": -4588,
+  "y": 110
+ },
+ {
+  "name": "Siegfried Fan Merchant",
+  "type": "Merchant_Other",
+  "x": -452,
+  "z": -4980,
+  "y": 47
+ },
+ {
+  "name": "Siegfried Fan Merchant",
+  "type": "Merchant_Other",
+  "x": 775,
+  "z": -5089,
+  "y": 75
+ },
+ {
+  "name": "Silver Rewards Merchant",
+  "type": "Merchant_Other",
+  "x": -1061,
+  "z": -2422,
+  "y": 65
+ },
+ {
+  "name": "Souvenir Merchant",
+  "type": "Merchant_Other",
+  "x": -334,
+  "z": -2484,
+  "y": 40
+ },
+ {
+  "name": "Souvenir T-Shirt Merchant",
+  "type": "Merchant_Other",
+  "x": -210,
+  "z": -4952,
+  "y": 57
+ },
+ {
+  "name": "Squid Merchant",
+  "type": "Merchant_Other",
+  "x": 213,
+  "z": -717,
+  "y": 20
+ },
+ {
+  "name": "Talespun Merchant",
+  "type": "Merchant_Other",
+  "x": -307,
+  "z": -4102,
+  "y": 36
+ },
+ {
+  "name": "Tea Merchant",
+  "type": "Merchant_Other",
+  "x": -2195,
+  "z": -1024,
+  "y": 8
+ },
+ {
+  "name": "Tour Pass Merchant",
+  "type": "Merchant_Other",
+  "x": -652,
+  "z": -2661,
+  "y": 27
+ },
+ {
+  "name": "Transmutation Merchant",
+  "type": "Merchant_Other",
+  "x": 332,
+  "z": -5567,
+  "y": 12
+ },
+ {
+  "name": "Transmutation Merchant",
+  "type": "Merchant_Other",
+  "x": 332,
+  "z": -5549,
+  "y": 16
+ },
+ {
+  "name": "Transmutation Merchant",
+  "type": "Merchant_Other",
+  "x": 333,
+  "z": -5587,
+  "y": 8
+ },
+ {
+  "name": "Transmutation Merchant",
+  "type": "Merchant_Other",
+  "x": 333,
+  "z": -5529,
+  "y": 20
+ },
+ {
+  "name": "Transmutation Merchant",
+  "type": "Merchant_Other",
+  "x": 333,
+  "z": -5500,
+  "y": 28
+ },
+ {
+  "name": "Transmutation Merchant",
+  "type": "Merchant_Other",
+  "x": 334,
+  "z": -5616,
+  "y": 4
+ },
+ {
+  "name": "Transmutation Merchant",
+  "type": "Merchant_Other",
+  "x": 336,
+  "z": -5622,
+  "y": 4
+ },
+ {
+  "name": "Transmutation Merchant",
+  "type": "Merchant_Other",
+  "x": 343,
+  "z": -5616,
+  "y": 4
+ },
+ {
+  "name": "Treasure Merchant",
+  "type": "Merchant_Other",
+  "x": -720,
+  "z": -1024,
+  "y": 65
+ },
+ {
+  "name": "Treasure Merchant",
+  "type": "Merchant_Other",
+  "x": 107,
+  "z": -3158,
+  "y": 66
+ },
+ {
+  "name": "Treasure Prize Merchant",
+  "type": "Merchant_Other",
+  "x": -643,
+  "z": -2660,
+  "y": 41
+ },
+ {
+  "name": "Treasure Prize Merchant",
+  "type": "Merchant_Other",
+  "x": -639,
+  "z": -2660,
+  "y": 41
+ },
+ {
+  "name": "Tribal Merchant",
+  "type": "Merchant_Other",
+  "x": -764,
+  "z": -670,
+  "y": 79
+ },
+ {
+  "name": "Trinket Merchant",
+  "type": "Merchant_Other",
+  "x": -324,
+  "z": -4422,
+  "y": 103
+ },
+ {
+  "name": "Water Merchant",
+  "type": "Merchant_Other",
+  "x": -495,
+  "z": -4441,
+  "y": 112
+ },
+ {
+  "name": "Water Merchant",
+  "type": "Merchant_Other",
+  "x": 1288,
+  "z": -1268,
+  "y": 31
+ },
+ {
+  "name": "Zhight Brew Merchant",
+  "type": "Merchant_Other",
+  "x": -575,
+  "z": -2791,
+  "y": 38
+ },
+ {
+  "name": "Zhight Exchange Merchant",
+  "type": "Merchant_Other",
+  "x": -591,
+  "z": -2779,
+  "y": 38
+ },
+ {
+  "name": "Zhight Exchange Merchant",
+  "type": "Merchant_Other",
+  "x": -587,
+  "z": -2779,
+  "y": 38
+ },
+ {
+  "name": "Dungeon Merchant",
+  "type": "Merchant_Potion",
+  "x": 284,
+  "z": -1942,
+  "y": 16
+ },
+ {
+  "name": "Potion Merchant",
+  "type": "Merchant_Potion",
+  "x": -2058,
+  "z": -1024,
+  "y": 28
+ },
+ {
+  "name": "Potion Merchant",
+  "type": "Merchant_Potion",
+  "x": -1926,
+  "z": -1633,
+  "y": 71
+ },
+ {
+  "name": "Potion Merchant",
+  "type": "Merchant_Potion",
+  "x": -1867,
+  "z": -4534,
+  "y": 59
+ },
+ {
+  "name": "Potion Merchant",
+  "type": "Merchant_Potion",
+  "x": -1734,
+  "z": -5491,
+  "y": 66
+ },
+ {
+  "name": "Potion Merchant",
+  "type": "Merchant_Potion",
+  "x": -1726,
+  "z": -582,
+  "y": 27
+ },
+ {
+  "name": "Potion Merchant",
+  "type": "Merchant_Potion",
+  "x": -1691,
+  "z": -2594,
+  "y": 75
+ },
+ {
+  "name": "Potion Merchant",
+  "type": "Merchant_Potion",
+  "x": -1636,
+  "z": -2945,
+  "y": 73
+ },
+ {
+  "name": "Potion Merchant",
+  "type": "Merchant_Potion",
+  "x": -1568,
+  "z": -778,
+  "y": 129
+ },
+ {
+  "name": "Potion Merchant",
+  "type": "Merchant_Potion",
+  "x": -1466,
+  "z": -4733,
+  "y": 42
+ },
+ {
+  "name": "Potion Merchant",
+  "type": "Merchant_Potion",
+  "x": -1394,
+  "z": -2851,
+  "y": 70
+ },
+ {
+  "name": "Potion Merchant",
+  "type": "Merchant_Potion",
+  "x": -1306,
+  "z": -1263,
+  "y": 108
+ },
+ {
+  "name": "Potion Merchant",
+  "type": "Merchant_Potion",
+  "x": -1288,
+  "z": -724,
+  "y": 89
+ },
+ {
+  "name": "Potion Merchant",
+  "type": "Merchant_Potion",
+  "x": -1169,
+  "z": -2382,
+  "y": 65
+ },
+ {
+  "name": "Potion Merchant",
+  "type": "Merchant_Potion",
+  "x": -1013,
+  "z": -5285,
+  "y": 47
+ },
+ {
+  "name": "Potion Merchant",
+  "type": "Merchant_Potion",
+  "x": -899,
+  "z": -1888,
+  "y": 60
+ },
+ {
+  "name": "Potion Merchant",
+  "type": "Merchant_Potion",
+  "x": -881,
+  "z": -942,
+  "y": 78
+ },
+ {
+  "name": "Potion Merchant",
+  "type": "Merchant_Potion",
+  "x": -820,
+  "z": -1592,
+  "y": 68
+ },
+ {
+  "name": "Potion Merchant",
+  "type": "Merchant_Potion",
+  "x": -645,
+  "z": -857,
+  "y": 73
+ },
+ {
+  "name": "Potion Merchant",
+  "type": "Merchant_Potion",
+  "x": -617,
+  "z": -1442,
+  "y": 89
+ },
+ {
+  "name": "Potion Merchant",
+  "type": "Merchant_Potion",
+  "x": -610,
+  "z": -3062,
+  "y": 53
+ },
+ {
+  "name": "Potion Merchant",
+  "type": "Merchant_Potion",
+  "x": -593,
+  "z": -3553,
+  "y": 40
+ },
+ {
+  "name": "Potion Merchant",
+  "type": "Merchant_Potion",
+  "x": -492,
+  "z": -4950,
+  "y": 47
+ },
+ {
+  "name": "Potion Merchant",
+  "type": "Merchant_Potion",
+  "x": -271,
+  "z": -1045,
+  "y": 28
+ },
+ {
+  "name": "Potion Merchant",
+  "type": "Merchant_Potion",
+  "x": -266,
+  "z": -4454,
+  "y": 103
+ },
+ {
+  "name": "Potion Merchant",
+  "type": "Merchant_Potion",
+  "x": -220,
+  "z": -1812,
+  "y": 55
+ },
+ {
+  "name": "Potion Merchant",
+  "type": "Merchant_Potion",
+  "x": -188,
+  "z": -320,
+  "y": 28
+ },
+ {
+  "name": "Potion Merchant",
+  "type": "Merchant_Potion",
+  "x": -176,
+  "z": -1617,
+  "y": 79
+ },
+ {
+  "name": "Potion Merchant",
+  "type": "Merchant_Potion",
+  "x": -11,
+  "z": -1134,
+  "y": 76
+ },
+ {
+  "name": "Potion Merchant",
+  "type": "Merchant_Potion",
+  "x": 93,
+  "z": -3166,
+  "y": 66
+ },
+ {
+  "name": "Potion Merchant",
+  "type": "Merchant_Potion",
+  "x": 120,
+  "z": -2188,
+  "y": 40
+ },
+ {
+  "name": "Potion Merchant",
+  "type": "Merchant_Potion",
+  "x": 125,
+  "z": -780,
+  "y": 73
+ },
+ {
+  "name": "Potion Merchant",
+  "type": "Merchant_Potion",
+  "x": 136,
+  "z": -661,
+  "y": 83
+ },
+ {
+  "name": "Potion Merchant",
+  "type": "Merchant_Potion",
+  "x": 215,
+  "z": -5218,
+  "y": 29
+ },
+ {
+  "name": "Potion Merchant",
+  "type": "Merchant_Potion",
+  "x": 284,
+  "z": -1960,
+  "y": 16
+ },
+ {
+  "name": "Potion Merchant",
+  "type": "Merchant_Potion",
+  "x": 452,
+  "z": -1594,
+  "y": 67
+ },
+ {
+  "name": "Potion Merchant",
+  "type": "Merchant_Potion",
+  "x": 743,
+  "z": -4446,
+  "y": 164
+ },
+ {
+  "name": "Potion Merchant",
+  "type": "Merchant_Potion",
+  "x": 807,
+  "z": -5107,
+  "y": 75
+ },
+ {
+  "name": "Potion Merchant",
+  "type": "Merchant_Potion",
+  "x": 862,
+  "z": -2873,
+  "y": 45
+ },
+ {
+  "name": "Potion Merchant",
+  "type": "Merchant_Potion",
+  "x": 922,
+  "z": -5488,
+  "y": 114
+ },
+ {
+  "name": "Potion Merchant",
+  "type": "Merchant_Potion",
+  "x": 923,
+  "z": -1954,
+  "y": 67
+ },
+ {
+  "name": "Potion Merchant",
+  "type": "Merchant_Potion",
+  "x": 992,
+  "z": -3532,
+  "y": 38
+ },
+ {
+  "name": "Potion Merchant",
+  "type": "Merchant_Potion",
+  "x": 1014,
+  "z": -681,
+  "y": 77
+ },
+ {
+  "name": "Potion Merchant",
+  "type": "Merchant_Potion",
+  "x": 1099,
+  "z": -5206,
+  "y": 13
+ },
+ {
+  "name": "Potion Merchant",
+  "type": "Merchant_Potion",
+  "x": 1121,
+  "z": -4548,
+  "y": 107
+ },
+ {
+  "name": "Potion Merchant",
+  "type": "Merchant_Potion",
+  "x": 1267,
+  "z": -1322,
+  "y": 31
+ },
+ {
+  "name": "Potion Merchant",
+  "type": "Merchant_Potion",
+  "x": 1278,
+  "z": -748,
+  "y": 87
+ },
+ {
+  "name": "Potion Merchant",
+  "type": "Merchant_Potion",
+  "x": 1377,
+  "z": -5284,
+  "y": 143
+ },
+ {
+  "name": "Potion Merchant",
+  "type": "Merchant_Potion",
+  "x": 1413,
+  "z": -1837,
+  "y": 94
+ },
+ {
+  "name": "Traveling Potion Merchant",
+  "type": "Merchant_Potion",
+  "x": -264,
+  "z": -701,
+  "y": 69
+ },
+ {
+  "name": "Dungeon Scroll Merchant",
+  "type": "Merchant_Scroll",
+  "x": -870,
+  "z": -4909,
+  "y": 122
+ },
+ {
+  "name": "Dungeon Scroll Merchant",
+  "type": "Merchant_Scroll",
+  "x": -845,
+  "z": -4903,
+  "y": 123
+ },
+ {
+  "name": "Scroll Merchant",
+  "type": "Merchant_Scroll",
+  "x": -2135,
+  "z": -4563,
+  "y": 53
+ },
+ {
+  "name": "Scroll Merchant",
+  "type": "Merchant_Scroll",
+  "x": -2044,
+  "z": -1021,
+  "y": 29
+ },
+ {
+  "name": "Scroll Merchant",
+  "type": "Merchant_Scroll",
+  "x": -1881,
+  "z": -1664,
+  "y": 76
+ },
+ {
+  "name": "Scroll Merchant",
+  "type": "Merchant_Scroll",
+  "x": -1741,
+  "z": -590,
+  "y": 30
+ },
+ {
+  "name": "Scroll Merchant",
+  "type": "Merchant_Scroll",
+  "x": -1725,
+  "z": -5529,
+  "y": 66
+ },
+ {
+  "name": "Scroll Merchant",
+  "type": "Merchant_Scroll",
+  "x": -1631,
+  "z": -2909,
+  "y": 68
+ },
+ {
+  "name": "Scroll Merchant",
+  "type": "Merchant_Scroll",
+  "x": -1577,
+  "z": -791,
+  "y": 129
+ },
+ {
+  "name": "Scroll Merchant",
+  "type": "Merchant_Scroll",
+  "x": -1430,
+  "z": -4717,
+  "y": 42
+ },
+ {
+  "name": "Scroll Merchant",
+  "type": "Merchant_Scroll",
+  "x": -1360,
+  "z": -1219,
+  "y": 108
+ },
+ {
+  "name": "Scroll Merchant",
+  "type": "Merchant_Scroll",
+  "x": -1250,
+  "z": -680,
+  "y": 88
+ },
+ {
+  "name": "Scroll Merchant",
+  "type": "Merchant_Scroll",
+  "x": -1174,
+  "z": -2418,
+  "y": 65
+ },
+ {
+  "name": "Scroll Merchant",
+  "type": "Merchant_Scroll",
+  "x": -992,
+  "z": -5288,
+  "y": 47
+ },
+ {
+  "name": "Scroll Merchant",
+  "type": "Merchant_Scroll",
+  "x": -878,
+  "z": -894,
+  "y": 77
+ },
+ {
+  "name": "Scroll Merchant",
+  "type": "Merchant_Scroll",
+  "x": -815,
+  "z": -1560,
+  "y": 67
+ },
+ {
+  "name": "Scroll Merchant",
+  "type": "Merchant_Scroll",
+  "x": -690,
+  "z": -3115,
+  "y": 38
+ },
+ {
+  "name": "Scroll Merchant",
+  "type": "Merchant_Scroll",
+  "x": -689,
+  "z": -3109,
+  "y": 53
+ },
+ {
+  "name": "Scroll Merchant",
+  "type": "Merchant_Scroll",
+  "x": -455,
+  "z": -4956,
+  "y": 47
+ },
+ {
+  "name": "Scroll Merchant",
+  "type": "Merchant_Scroll",
+  "x": -299,
+  "z": -1140,
+  "y": 43
+ },
+ {
+  "name": "Scroll Merchant",
+  "type": "Merchant_Scroll",
+  "x": -252,
+  "z": -4394,
+  "y": 103
+ },
+ {
+  "name": "Scroll Merchant",
+  "type": "Merchant_Scroll",
+  "x": 86,
+  "z": -3188,
+  "y": 66
+ },
+ {
+  "name": "Scroll Merchant",
+  "type": "Merchant_Scroll",
+  "x": 116,
+  "z": -812,
+  "y": 73
+ },
+ {
+  "name": "Scroll Merchant",
+  "type": "Merchant_Scroll",
+  "x": 123,
+  "z": -2207,
+  "y": 39
+ },
+ {
+  "name": "Scroll Merchant",
+  "type": "Merchant_Scroll",
+  "x": 226,
+  "z": -5267,
+  "y": 29
+ },
+ {
+  "name": "Scroll Merchant",
+  "type": "Merchant_Scroll",
+  "x": 469,
+  "z": -4757,
+  "y": 109
+ },
+ {
+  "name": "Scroll Merchant",
+  "type": "Merchant_Scroll",
+  "x": 478,
+  "z": -1536,
+  "y": 67
+ },
+ {
+  "name": "Scroll Merchant",
+  "type": "Merchant_Scroll",
+  "x": 737,
+  "z": -4416,
+  "y": 164
+ },
+ {
+  "name": "Scroll Merchant",
+  "type": "Merchant_Scroll",
+  "x": 797,
+  "z": -5109,
+  "y": 75
+ },
+ {
+  "name": "Scroll Merchant",
+  "type": "Merchant_Scroll",
+  "x": 852,
+  "z": -1622,
+  "y": 71
+ },
+ {
+  "name": "Scroll Merchant",
+  "type": "Merchant_Scroll",
+  "x": 876,
+  "z": -2857,
+  "y": 46
+ },
+ {
+  "name": "Scroll Merchant",
+  "type": "Merchant_Scroll",
+  "x": 931,
+  "z": -1923,
+  "y": 75
+ },
+ {
+  "name": "Scroll Merchant",
+  "type": "Merchant_Scroll",
+  "x": 953,
+  "z": -4592,
+  "y": 118
+ },
+ {
+  "name": "Scroll Merchant",
+  "type": "Merchant_Scroll",
+  "x": 969,
+  "z": -666,
+  "y": 73
+ },
+ {
+  "name": "Scroll Merchant",
+  "type": "Merchant_Scroll",
+  "x": 1004,
+  "z": -5463,
+  "y": 109
+ },
+ {
+  "name": "Scroll Merchant",
+  "type": "Merchant_Scroll",
+  "x": 1034,
+  "z": -5119,
+  "y": 18
+ },
+ {
+  "name": "Scroll Merchant",
+  "type": "Merchant_Scroll",
+  "x": 1324,
+  "z": -1345,
+  "y": 31
+ },
+ {
+  "name": "Scroll Merchant",
+  "type": "Merchant_Scroll",
+  "x": 1476,
+  "z": -5308,
+  "y": 44
+ },
+ {
+  "name": "Tool Merchant",
+  "type": "Merchant_Tool",
+  "x": -1951,
+  "z": -5410,
+  "y": 57
+ },
+ {
+  "name": "Tool Merchant",
+  "type": "Merchant_Tool",
+  "x": -1827,
+  "z": -3119,
+  "y": 117
+ },
+ {
+  "name": "Tool Merchant",
+  "type": "Merchant_Tool",
+  "x": -1820,
+  "z": -2959,
+  "y": 50
+ },
+ {
+  "name": "Tool Merchant",
+  "type": "Merchant_Tool",
+  "x": -1763,
+  "z": -5304,
+  "y": 56
+ },
+ {
+  "name": "Tool Merchant",
+  "type": "Merchant_Tool",
+  "x": -1724,
+  "z": -4777,
+  "y": 48
+ },
+ {
+  "name": "Tool Merchant",
+  "type": "Merchant_Tool",
+  "x": -1707,
+  "z": -4596,
+  "y": 53
+ },
+ {
+  "name": "Tool Merchant",
+  "type": "Merchant_Tool",
+  "x": -1682,
+  "z": -2378,
+  "y": 37
+ },
+ {
+  "name": "Tool Merchant",
+  "type": "Merchant_Tool",
+  "x": -1645,
+  "z": -4324,
+  "y": 77
+ },
+ {
+  "name": "Tool Merchant",
+  "type": "Merchant_Tool",
+  "x": -1520,
+  "z": -2433,
+  "y": 79
+ },
+ {
+  "name": "Tool Merchant",
+  "type": "Merchant_Tool",
+  "x": -1371,
+  "z": -2632,
+  "y": 92
+ },
+ {
+  "name": "Tool Merchant",
+  "type": "Merchant_Tool",
+  "x": -1312,
+  "z": -3134,
+  "y": 73
+ },
+ {
+  "name": "Tool Merchant",
+  "type": "Merchant_Tool",
+  "x": -1279,
+  "z": -3167,
+  "y": 81
+ },
+ {
+  "name": "Tool Merchant",
+  "type": "Merchant_Tool",
+  "x": -1229,
+  "z": -4673,
+  "y": 44
+ },
+ {
+  "name": "Tool Merchant",
+  "type": "Merchant_Tool",
+  "x": -1226,
+  "z": -5389,
+  "y": 43
+ },
+ {
+  "name": "Tool Merchant",
+  "type": "Merchant_Tool",
+  "x": -1048,
+  "z": -5272,
+  "y": 52
+ },
+ {
+  "name": "Tool Merchant",
+  "type": "Merchant_Tool",
+  "x": -992,
+  "z": -3750,
+  "y": 37
+ },
+ {
+  "name": "Tool Merchant",
+  "type": "Merchant_Tool",
+  "x": -818,
+  "z": -1501,
+  "y": 67
+ },
+ {
+  "name": "Tool Merchant",
+  "type": "Merchant_Tool",
+  "x": -773,
+  "z": -533,
+  "y": 23
+ },
+ {
+  "name": "Tool Merchant",
+  "type": "Merchant_Tool",
+  "x": -748,
+  "z": -1457,
+  "y": 72
+ },
+ {
+  "name": "Tool Merchant",
+  "type": "Merchant_Tool",
+  "x": -738,
+  "z": -4896,
+  "y": 44
+ },
+ {
+  "name": "Tool Merchant",
+  "type": "Merchant_Tool",
+  "x": -732,
+  "z": -837,
+  "y": 62
+ },
+ {
+  "name": "Tool Merchant",
+  "type": "Merchant_Tool",
+  "x": -706,
+  "z": -4837,
+  "y": 43
+ },
+ {
+  "name": "Tool Merchant",
+  "type": "Merchant_Tool",
+  "x": -654,
+  "z": -1243,
+  "y": 105
+ },
+ {
+  "name": "Tool Merchant",
+  "type": "Merchant_Tool",
+  "x": -601,
+  "z": -829,
+  "y": 58
+ },
+ {
+  "name": "Tool Merchant",
+  "type": "Merchant_Tool",
+  "x": -588,
+  "z": -710,
+  "y": 64
+ },
+ {
+  "name": "Tool Merchant",
+  "type": "Merchant_Tool",
+  "x": -574,
+  "z": -1299,
+  "y": 102
+ },
+ {
+  "name": "Tool Merchant",
+  "type": "Merchant_Tool",
+  "x": -547,
+  "z": -422,
+  "y": 41
+ },
+ {
+  "name": "Tool Merchant",
+  "type": "Merchant_Tool",
+  "x": -546,
+  "z": -4426,
+  "y": 112
+ },
+ {
+  "name": "Tool Merchant",
+  "type": "Merchant_Tool",
+  "x": -343,
+  "z": -2453,
+  "y": 40
+ },
+ {
+  "name": "Tool Merchant",
+  "type": "Merchant_Tool",
+  "x": -322,
+  "z": -4629,
+  "y": 37
+ },
+ {
+  "name": "Tool Merchant",
+  "type": "Merchant_Tool",
+  "x": -262,
+  "z": -5356,
+  "y": 35
+ },
+ {
+  "name": "Tool Merchant",
+  "type": "Merchant_Tool",
+  "x": -167,
+  "z": -2207,
+  "y": 39
+ },
+ {
+  "name": "Tool Merchant",
+  "type": "Merchant_Tool",
+  "x": -121,
+  "z": -1174,
+  "y": 71
+ },
+ {
+  "name": "Tool Merchant",
+  "type": "Merchant_Tool",
+  "x": -82,
+  "z": -786,
+  "y": 68
+ },
+ {
+  "name": "Tool Merchant",
+  "type": "Merchant_Tool",
+  "x": -79,
+  "z": -897,
+  "y": 69
+ },
+ {
+  "name": "Tool Merchant",
+  "type": "Merchant_Tool",
+  "x": -42,
+  "z": -1154,
+  "y": 72
+ },
+ {
+  "name": "Tool Merchant",
+  "type": "Merchant_Tool",
+  "x": 20,
+  "z": -2202,
+  "y": 38
+ },
+ {
+  "name": "Tool Merchant",
+  "type": "Merchant_Tool",
+  "x": 55,
+  "z": -694,
+  "y": 72
+ },
+ {
+  "name": "Tool Merchant",
+  "type": "Merchant_Tool",
+  "x": 76,
+  "z": -2023,
+  "y": 50
+ },
+ {
+  "name": "Tool Merchant",
+  "type": "Merchant_Tool",
+  "x": 91,
+  "z": -4668,
+  "y": 44
+ },
+ {
+  "name": "Tool Merchant",
+  "type": "Merchant_Tool",
+  "x": 108,
+  "z": -3093,
+  "y": 35
+ },
+ {
+  "name": "Tool Merchant",
+  "type": "Merchant_Tool",
+  "x": 165,
+  "z": -1534,
+  "y": 69
+ },
+ {
+  "name": "Tool Merchant",
+  "type": "Merchant_Tool",
+  "x": 171,
+  "z": -1008,
+  "y": 76
+ },
+ {
+  "name": "Tool Merchant",
+  "type": "Merchant_Tool",
+  "x": 182,
+  "z": -1607,
+  "y": 68
+ },
+ {
+  "name": "Tool Merchant",
+  "type": "Merchant_Tool",
+  "x": 217,
+  "z": -2040,
+  "y": 45
+ },
+ {
+  "name": "Tool Merchant",
+  "type": "Merchant_Tool",
+  "x": 243,
+  "z": -4574,
+  "y": 94
+ },
+ {
+  "name": "Tool Merchant",
+  "type": "Merchant_Tool",
+  "x": 296,
+  "z": -1076,
+  "y": 81
+ },
+ {
+  "name": "Tool Merchant",
+  "type": "Merchant_Tool",
+  "x": 423,
+  "z": -4928,
+  "y": 28
+ },
+ {
+  "name": "Tool Merchant",
+  "type": "Merchant_Tool",
+  "x": 523,
+  "z": -5408,
+  "y": 31
+ },
+ {
+  "name": "Tool Merchant",
+  "type": "Merchant_Tool",
+  "x": 530,
+  "z": -4990,
+  "y": 29
+ },
+ {
+  "name": "Tool Merchant",
+  "type": "Merchant_Tool",
+  "x": 543,
+  "z": -1352,
+  "y": 67
+ },
+ {
+  "name": "Tool Merchant",
+  "type": "Merchant_Tool",
+  "x": 589,
+  "z": -1950,
+  "y": 66
+ },
+ {
+  "name": "Tool Merchant",
+  "type": "Merchant_Tool",
+  "x": 725,
+  "z": -1442,
+  "y": 61
+ },
+ {
+  "name": "Tool Merchant",
+  "type": "Merchant_Tool",
+  "x": 976,
+  "z": -4882,
+  "y": 133
+ },
+ {
+  "name": "Tool Merchant",
+  "type": "Merchant_Tool",
+  "x": 985,
+  "z": -5031,
+  "y": 8
+ },
+ {
+  "name": "Tool Merchant",
+  "type": "Merchant_Tool",
+  "x": 1002,
+  "z": -3490,
+  "y": 38
+ },
+ {
+  "name": "Tool Merchant",
+  "type": "Merchant_Tool",
+  "x": 1100,
+  "z": -4438,
+  "y": 114
+ },
+ {
+  "name": "Tool Merchant",
+  "type": "Merchant_Tool",
+  "x": 1125,
+  "z": -3096,
+  "y": 34
+ },
+ {
+  "name": "Tool Merchant",
+  "type": "Merchant_Tool",
+  "x": 1143,
+  "z": -1996,
+  "y": 77
+ },
+ {
+  "name": "Tool Merchant",
+  "type": "Merchant_Tool",
+  "x": 1215,
+  "z": -1737,
+  "y": 77
+ },
+ {
+  "name": "Tool Merchant",
+  "type": "Merchant_Tool",
+  "x": 1243,
+  "z": -1370,
+  "y": 117
+ },
+ {
+  "name": "Tool Merchant",
+  "type": "Merchant_Tool",
+  "x": 1280,
+  "z": -4648,
+  "y": 148
+ },
+ {
+  "name": "Tool Merchant",
+  "type": "Merchant_Tool",
+  "x": 1343,
+  "z": -1417,
+  "y": 31
+ },
+ {
+  "name": "Tool Merchant",
+  "type": "Merchant_Tool",
+  "x": 1359,
+  "z": -5167,
+  "y": 9
+ },
+ {
+  "name": "Tool Merchant",
+  "type": "Merchant_Tool",
+  "x": 1446,
+  "z": -5271,
+  "y": 40
+ },
+ {
+  "name": "Master Weapon Merchant",
+  "type": "Merchant_Weapon",
+  "x": 340,
+  "z": -5622,
+  "y": 4
+ },
+ {
+  "name": "Tribal Weapon Merchant",
+  "type": "Merchant_Weapon",
+  "x": -518,
+  "z": -276,
+  "y": 59
+ },
+ {
+  "name": "Weapon Merchant",
+  "type": "Merchant_Weapon",
+  "x": -2034,
+  "z": -974,
+  "y": 31
+ },
+ {
+  "name": "Weapon Merchant",
+  "type": "Merchant_Weapon",
+  "x": -1949,
+  "z": -1618,
+  "y": 71
+ },
+ {
+  "name": "Weapon Merchant",
+  "type": "Merchant_Weapon",
+  "x": -1872,
+  "z": -4566,
+  "y": 53
+ },
+ {
+  "name": "Weapon Merchant",
+  "type": "Merchant_Weapon",
+  "x": -1769,
+  "z": -5528,
+  "y": 66
+ },
+ {
+  "name": "Weapon Merchant",
+  "type": "Merchant_Weapon",
+  "x": -1726,
+  "z": -525,
+  "y": 31
+ },
+ {
+  "name": "Weapon Merchant",
+  "type": "Merchant_Weapon",
+  "x": -1625,
+  "z": -2969,
+  "y": 68
+ },
+ {
+  "name": "Weapon Merchant",
+  "type": "Merchant_Weapon",
+  "x": -1566,
+  "z": -760,
+  "y": 129
+ },
+ {
+  "name": "Weapon Merchant",
+  "type": "Merchant_Weapon",
+  "x": -1324,
+  "z": -1237,
+  "y": 106
+ },
+ {
+  "name": "Weapon Merchant",
+  "type": "Merchant_Weapon",
+  "x": -1269,
+  "z": -726,
+  "y": 77
+ },
+ {
+  "name": "Weapon Merchant",
+  "type": "Merchant_Weapon",
+  "x": -1026,
+  "z": -5297,
+  "y": 47
+ },
+ {
+  "name": "Weapon Merchant",
+  "type": "Merchant_Weapon",
+  "x": -858,
+  "z": -943,
+  "y": 78
+ },
+ {
+  "name": "Weapon Merchant",
+  "type": "Merchant_Weapon",
+  "x": -807,
+  "z": -1595,
+  "y": 68
+ },
+ {
+  "name": "Weapon Merchant",
+  "type": "Merchant_Weapon",
+  "x": -727,
+  "z": -1019,
+  "y": 65
+ },
+ {
+  "name": "Weapon Merchant",
+  "type": "Merchant_Weapon",
+  "x": -622,
+  "z": -3080,
+  "y": 53
+ },
+ {
+  "name": "Weapon Merchant",
+  "type": "Merchant_Weapon",
+  "x": -617,
+  "z": -3077,
+  "y": 38
+ },
+ {
+  "name": "Weapon Merchant",
+  "type": "Merchant_Weapon",
+  "x": -461,
+  "z": -4899,
+  "y": 49
+ },
+ {
+  "name": "Weapon Merchant",
+  "type": "Merchant_Weapon",
+  "x": -190,
+  "z": -4051,
+  "y": 37
+ },
+ {
+  "name": "Weapon Merchant",
+  "type": "Merchant_Weapon",
+  "x": -187,
+  "z": -4050,
+  "y": 37
+ },
+ {
+  "name": "Weapon Merchant",
+  "type": "Merchant_Weapon",
+  "x": -181,
+  "z": -4060,
+  "y": 37
+ },
+ {
+  "name": "Weapon Merchant",
+  "type": "Merchant_Weapon",
+  "x": 115,
+  "z": -789,
+  "y": 73
+ },
+ {
+  "name": "Weapon Merchant",
+  "type": "Merchant_Weapon",
+  "x": 116,
+  "z": -2152,
+  "y": 44
+ },
+ {
+  "name": "Weapon Merchant",
+  "type": "Merchant_Weapon",
+  "x": 135,
+  "z": -3158,
+  "y": 66
+ },
+ {
+  "name": "Weapon Merchant",
+  "type": "Merchant_Weapon",
+  "x": 250,
+  "z": -5258,
+  "y": 29
+ },
+ {
+  "name": "Weapon Merchant",
+  "type": "Merchant_Weapon",
+  "x": 507,
+  "z": -1593,
+  "y": 67
+ },
+ {
+  "name": "Weapon Merchant",
+  "type": "Merchant_Weapon",
+  "x": 739,
+  "z": -2084,
+  "y": 73
+ },
+ {
+  "name": "Weapon Merchant",
+  "type": "Merchant_Weapon",
+  "x": 767,
+  "z": -5095,
+  "y": 75
+ },
+ {
+  "name": "Weapon Merchant",
+  "type": "Merchant_Weapon",
+  "x": 784,
+  "z": -3333,
+  "y": 59
+ },
+ {
+  "name": "Weapon Merchant",
+  "type": "Merchant_Weapon",
+  "x": 925,
+  "z": -4542,
+  "y": 110
+ },
+ {
+  "name": "Weapon Merchant",
+  "type": "Merchant_Weapon",
+  "x": 963,
+  "z": -1965,
+  "y": 67
+ },
+ {
+  "name": "Weapon Merchant",
+  "type": "Merchant_Weapon",
+  "x": 994,
+  "z": -3495,
+  "y": 38
+ },
+ {
+  "name": "Weapon Merchant",
+  "type": "Merchant_Weapon",
+  "x": 1130,
+  "z": -5095,
+  "y": 13
+ },
+ {
+  "name": "Weapon Merchant",
+  "type": "Merchant_Weapon",
+  "x": 1262,
+  "z": -1361,
+  "y": 31
+ },
+ {
+  "name": "Blacksmith",
+  "type": "NPC_Blacksmith",
+  "x": -2069,
+  "z": -982,
+  "y": 26
+ },
+ {
+  "name": "Blacksmith",
+  "type": "NPC_Blacksmith",
+  "x": -2054,
+  "z": -981,
+  "y": 29
+ },
+ {
+  "name": "Blacksmith",
+  "type": "NPC_Blacksmith",
+  "x": -2004,
+  "z": -4461,
+  "y": 77
+ },
+ {
+  "name": "Blacksmith",
+  "type": "NPC_Blacksmith",
+  "x": -2002,
+  "z": -4483,
+  "y": 77
+ },
+ {
+  "name": "Blacksmith",
+  "type": "NPC_Blacksmith",
+  "x": -1970,
+  "z": -4482,
+  "y": 77
+ },
+ {
+  "name": "Blacksmith",
+  "type": "NPC_Blacksmith",
+  "x": -1890,
+  "z": -1643,
+  "y": 71
+ },
+ {
+  "name": "Blacksmith",
+  "type": "NPC_Blacksmith",
+  "x": -1762,
+  "z": -5519,
+  "y": 66
+ },
+ {
+  "name": "Blacksmith",
+  "type": "NPC_Blacksmith",
+  "x": -1751,
+  "z": -588,
+  "y": 27
+ },
+ {
+  "name": "Blacksmith",
+  "type": "NPC_Blacksmith",
+  "x": -1603,
+  "z": -2914,
+  "y": 69
+ },
+ {
+  "name": "Blacksmith",
+  "type": "NPC_Blacksmith",
+  "x": -1601,
+  "z": -2368,
+  "y": 37
+ },
+ {
+  "name": "Blacksmith",
+  "type": "NPC_Blacksmith",
+  "x": -1535,
+  "z": -793,
+  "y": 129
+ },
+ {
+  "name": "Blacksmith",
+  "type": "NPC_Blacksmith",
+  "x": -1478,
+  "z": -4746,
+  "y": 42
+ },
+ {
+  "name": "Blacksmith",
+  "type": "NPC_Blacksmith",
+  "x": -1430,
+  "z": -4733,
+  "y": 42
+ },
+ {
+  "name": "Blacksmith",
+  "type": "NPC_Blacksmith",
+  "x": -1340,
+  "z": -1221,
+  "y": 106
+ },
+ {
+  "name": "Blacksmith",
+  "type": "NPC_Blacksmith",
+  "x": -1271,
+  "z": -719,
+  "y": 77
+ },
+ {
+  "name": "Blacksmith",
+  "type": "NPC_Blacksmith",
+  "x": -1145,
+  "z": -2404,
+  "y": 65
+ },
+ {
+  "name": "Blacksmith",
+  "type": "NPC_Blacksmith",
+  "x": -981,
+  "z": -5281,
+  "y": 47
+ },
+ {
+  "name": "Blacksmith",
+  "type": "NPC_Blacksmith",
+  "x": -867,
+  "z": -4920,
+  "y": 122
+ },
+ {
+  "name": "Blacksmith",
+  "type": "NPC_Blacksmith",
+  "x": -857,
+  "z": -1548,
+  "y": 67
+ },
+ {
+  "name": "Blacksmith",
+  "type": "NPC_Blacksmith",
+  "x": -849,
+  "z": -916,
+  "y": 76
+ },
+ {
+  "name": "Blacksmith",
+  "type": "NPC_Blacksmith",
+  "x": -832,
+  "z": -1585,
+  "y": 67
+ },
+ {
+  "name": "Blacksmith",
+  "type": "NPC_Blacksmith",
+  "x": -726,
+  "z": -635,
+  "y": 90
+ },
+ {
+  "name": "Blacksmith",
+  "type": "NPC_Blacksmith",
+  "x": -718,
+  "z": -1019,
+  "y": 65
+ },
+ {
+  "name": "Blacksmith",
+  "type": "NPC_Blacksmith",
+  "x": -682,
+  "z": -3162,
+  "y": 35
+ },
+ {
+  "name": "Blacksmith",
+  "type": "NPC_Blacksmith",
+  "x": -656,
+  "z": -3073,
+  "y": 37
+ },
+ {
+  "name": "Blacksmith",
+  "type": "NPC_Blacksmith",
+  "x": -656,
+  "z": -3059,
+  "y": 38
+ },
+ {
+  "name": "Blacksmith",
+  "type": "NPC_Blacksmith",
+  "x": -627,
+  "z": -3045,
+  "y": 38
+ },
+ {
+  "name": "Blacksmith",
+  "type": "NPC_Blacksmith",
+  "x": -619,
+  "z": -1415,
+  "y": 89
+ },
+ {
+  "name": "Blacksmith",
+  "type": "NPC_Blacksmith",
+  "x": -617,
+  "z": -3055,
+  "y": 53
+ },
+ {
+  "name": "Blacksmith",
+  "type": "NPC_Blacksmith",
+  "x": -574,
+  "z": -1924,
+  "y": 48
+ },
+ {
+  "name": "Blacksmith",
+  "type": "NPC_Blacksmith",
+  "x": -564,
+  "z": -1596,
+  "y": 67
+ },
+ {
+  "name": "Blacksmith",
+  "type": "NPC_Blacksmith",
+  "x": -463,
+  "z": -4925,
+  "y": 49
+ },
+ {
+  "name": "Blacksmith",
+  "type": "NPC_Blacksmith",
+  "x": -463,
+  "z": -4917,
+  "y": 49
+ },
+ {
+  "name": "Blacksmith",
+  "type": "NPC_Blacksmith",
+  "x": -458,
+  "z": -4928,
+  "y": 49
+ },
+ {
+  "name": "Blacksmith",
+  "type": "NPC_Blacksmith",
+  "x": -296,
+  "z": -4467,
+  "y": 103
+ },
+ {
+  "name": "Blacksmith",
+  "type": "NPC_Blacksmith",
+  "x": -288,
+  "z": -1156,
+  "y": 43
+ },
+ {
+  "name": "Blacksmith",
+  "type": "NPC_Blacksmith",
+  "x": -251,
+  "z": -4041,
+  "y": 40
+ },
+ {
+  "name": "Blacksmith",
+  "type": "NPC_Blacksmith",
+  "x": -218,
+  "z": -362,
+  "y": 23
+ },
+ {
+  "name": "Blacksmith",
+  "type": "NPC_Blacksmith",
+  "x": -160,
+  "z": -1615,
+  "y": 73
+ },
+ {
+  "name": "Blacksmith",
+  "type": "NPC_Blacksmith",
+  "x": -2,
+  "z": -1183,
+  "y": 75
+ },
+ {
+  "name": "Blacksmith",
+  "type": "NPC_Blacksmith",
+  "x": 91,
+  "z": -2183,
+  "y": 40
+ },
+ {
+  "name": "Blacksmith",
+  "type": "NPC_Blacksmith",
+  "x": 96,
+  "z": -2243,
+  "y": 38
+ },
+ {
+  "name": "Blacksmith",
+  "type": "NPC_Blacksmith",
+  "x": 113,
+  "z": -784,
+  "y": 73
+ },
+ {
+  "name": "Blacksmith",
+  "type": "NPC_Blacksmith",
+  "x": 117,
+  "z": -3157,
+  "y": 66
+ },
+ {
+  "name": "Blacksmith",
+  "type": "NPC_Blacksmith",
+  "x": 206,
+  "z": -5258,
+  "y": 29
+ },
+ {
+  "name": "Blacksmith",
+  "type": "NPC_Blacksmith",
+  "x": 348,
+  "z": -5480,
+  "y": 32
+ },
+ {
+  "name": "Blacksmith",
+  "type": "NPC_Blacksmith",
+  "x": 487,
+  "z": -1596,
+  "y": 67
+ },
+ {
+  "name": "Blacksmith",
+  "type": "NPC_Blacksmith",
+  "x": 755,
+  "z": -4432,
+  "y": 164
+ },
+ {
+  "name": "Blacksmith",
+  "type": "NPC_Blacksmith",
+  "x": 806,
+  "z": -5076,
+  "y": 75
+ },
+ {
+  "name": "Blacksmith",
+  "type": "NPC_Blacksmith",
+  "x": 941,
+  "z": -1956,
+  "y": 67
+ },
+ {
+  "name": "Blacksmith",
+  "type": "NPC_Blacksmith",
+  "x": 945,
+  "z": -5485,
+  "y": 114
+ },
+ {
+  "name": "Blacksmith",
+  "type": "NPC_Blacksmith",
+  "x": 988,
+  "z": -743,
+  "y": 76
+ },
+ {
+  "name": "Blacksmith",
+  "type": "NPC_Blacksmith",
+  "x": 989,
+  "z": -663,
+  "y": 73
+ },
+ {
+  "name": "Blacksmith",
+  "type": "NPC_Blacksmith",
+  "x": 1002,
+  "z": -4537,
+  "y": 112
+ },
+ {
+  "name": "Blacksmith",
+  "type": "NPC_Blacksmith",
+  "x": 1010,
+  "z": -3486,
+  "y": 38
+ },
+ {
+  "name": "Blacksmith",
+  "type": "NPC_Blacksmith",
+  "x": 1055,
+  "z": -5145,
+  "y": 18
+ },
+ {
+  "name": "Blacksmith",
+  "type": "NPC_Blacksmith",
+  "x": 1096,
+  "z": -4554,
+  "y": 107
+ },
+ {
+  "name": "Blacksmith",
+  "type": "NPC_Blacksmith",
+  "x": 1096,
+  "z": -4542,
+  "y": 107
+ },
+ {
+  "name": "Blacksmith",
+  "type": "NPC_Blacksmith",
+  "x": 1123,
+  "z": -3120,
+  "y": 41
+ },
+ {
+  "name": "Blacksmith",
+  "type": "NPC_Blacksmith",
+  "x": 1260,
+  "z": -1341,
+  "y": 31
+ },
+ {
+  "name": "Blacksmith",
+  "type": "NPC_Blacksmith",
+  "x": 1267,
+  "z": -1358,
+  "y": 31
+ },
+ {
+  "name": "Blacksmith",
+  "type": "NPC_Blacksmith",
+  "x": 1274,
+  "z": -1349,
+  "y": 31
+ },
+ {
+  "name": "Blacksmith",
+  "type": "NPC_Blacksmith",
+  "x": 1496,
+  "z": -5299,
+  "y": 44
+ },
+ {
+  "name": "Guild Master",
+  "type": "NPC_GuildMaster",
+  "x": -292,
+  "z": -4939,
+  "y": 47
+ },
+ {
+  "name": "Item Identifier",
+  "type": "NPC_ItemIdentifier",
+  "x": -2083,
+  "z": -992,
+  "y": 25
+ },
+ {
+  "name": "Item Identifier",
+  "type": "NPC_ItemIdentifier",
+  "x": -1900,
+  "z": -4498,
+  "y": 78
+ },
+ {
+  "name": "Item Identifier",
+  "type": "NPC_ItemIdentifier",
+  "x": -1900,
+  "z": -1643,
+  "y": 71
+ },
+ {
+  "name": "Item Identifier",
+  "type": "NPC_ItemIdentifier",
+  "x": -1739,
+  "z": -554,
+  "y": 27
+ },
+ {
+  "name": "Item Identifier",
+  "type": "NPC_ItemIdentifier",
+  "x": -1723,
+  "z": -5509,
+  "y": 66
+ },
+ {
+  "name": "Item Identifier",
+  "type": "NPC_ItemIdentifier",
+  "x": -1610,
+  "z": -2360,
+  "y": 38
+ },
+ {
+  "name": "Item Identifier",
+  "type": "NPC_ItemIdentifier",
+  "x": -1592,
+  "z": -2942,
+  "y": 68
+ },
+ {
+  "name": "Item Identifier",
+  "type": "NPC_ItemIdentifier",
+  "x": -1554,
+  "z": -799,
+  "y": 129
+ },
+ {
+  "name": "Item Identifier",
+  "type": "NPC_ItemIdentifier",
+  "x": -1466,
+  "z": -4717,
+  "y": 42
+ },
+ {
+  "name": "Item Identifier",
+  "type": "NPC_ItemIdentifier",
+  "x": -1343,
+  "z": -1260,
+  "y": 106
+ },
+ {
+  "name": "Item Identifier",
+  "type": "NPC_ItemIdentifier",
+  "x": -1300,
+  "z": -1595,
+  "y": 50
+ },
+ {
+  "name": "Item Identifier",
+  "type": "NPC_ItemIdentifier",
+  "x": -1275,
+  "z": -700,
+  "y": 77
+ },
+ {
+  "name": "Item Identifier",
+  "type": "NPC_ItemIdentifier",
+  "x": -1038,
+  "z": -5308,
+  "y": 47
+ },
+ {
+  "name": "Item Identifier",
+  "type": "NPC_ItemIdentifier",
+  "x": -855,
+  "z": -897,
+  "y": 76
+ },
+ {
+  "name": "Item Identifier",
+  "type": "NPC_ItemIdentifier",
+  "x": -802,
+  "z": -1568,
+  "y": 67
+ },
+ {
+  "name": "Item Identifier",
+  "type": "NPC_ItemIdentifier",
+  "x": -678,
+  "z": -3049,
+  "y": 53
+ },
+ {
+  "name": "Item Identifier",
+  "type": "NPC_ItemIdentifier",
+  "x": -674,
+  "z": -3047,
+  "y": 38
+ },
+ {
+  "name": "Item Identifier",
+  "type": "NPC_ItemIdentifier",
+  "x": -645,
+  "z": -1042,
+  "y": 65
+ },
+ {
+  "name": "Item Identifier",
+  "type": "NPC_ItemIdentifier",
+  "x": -628,
+  "z": -1400,
+  "y": 90
+ },
+ {
+  "name": "Item Identifier",
+  "type": "NPC_ItemIdentifier",
+  "x": -552,
+  "z": -1580,
+  "y": 67
+ },
+ {
+  "name": "Item Identifier",
+  "type": "NPC_ItemIdentifier",
+  "x": -546,
+  "z": -1934,
+  "y": 48
+ },
+ {
+  "name": "Item Identifier",
+  "type": "NPC_ItemIdentifier",
+  "x": -436,
+  "z": -4949,
+  "y": 47
+ },
+ {
+  "name": "Item Identifier",
+  "type": "NPC_ItemIdentifier",
+  "x": -315,
+  "z": -4495,
+  "y": 103
+ },
+ {
+  "name": "Item Identifier",
+  "type": "NPC_ItemIdentifier",
+  "x": -279,
+  "z": -1157,
+  "y": 43
+ },
+ {
+  "name": "Item Identifier",
+  "type": "NPC_ItemIdentifier",
+  "x": -218,
+  "z": -325,
+  "y": 28
+ },
+ {
+  "name": "Item Identifier",
+  "type": "NPC_ItemIdentifier",
+  "x": -166,
+  "z": -1604,
+  "y": 71
+ },
+ {
+  "name": "Item Identifier",
+  "type": "NPC_ItemIdentifier",
+  "x": 78,
+  "z": -345,
+  "y": 71
+ },
+ {
+  "name": "Item Identifier",
+  "type": "NPC_ItemIdentifier",
+  "x": 85,
+  "z": -2178,
+  "y": 40
+ },
+ {
+  "name": "Item Identifier",
+  "type": "NPC_ItemIdentifier",
+  "x": 95,
+  "z": -785,
+  "y": 73
+ },
+ {
+  "name": "Item Identifier",
+  "type": "NPC_ItemIdentifier",
+  "x": 140,
+  "z": -3172,
+  "y": 66
+ },
+ {
+  "name": "Item Identifier",
+  "type": "NPC_ItemIdentifier",
+  "x": 216,
+  "z": -5264,
+  "y": 29
+ },
+ {
+  "name": "Item Identifier",
+  "type": "NPC_ItemIdentifier",
+  "x": 468,
+  "z": -1580,
+  "y": 67
+ },
+ {
+  "name": "Item Identifier",
+  "type": "NPC_ItemIdentifier",
+  "x": 747,
+  "z": -4423,
+  "y": 164
+ },
+ {
+  "name": "Item Identifier",
+  "type": "NPC_ItemIdentifier",
+  "x": 802,
+  "z": -3388,
+  "y": 59
+ },
+ {
+  "name": "Item Identifier",
+  "type": "NPC_ItemIdentifier",
+  "x": 807,
+  "z": -5090,
+  "y": 75
+ },
+ {
+  "name": "Item Identifier",
+  "type": "NPC_ItemIdentifier",
+  "x": 914,
+  "z": -5498,
+  "y": 114
+ },
+ {
+  "name": "Item Identifier",
+  "type": "NPC_ItemIdentifier",
+  "x": 933,
+  "z": -1954,
+  "y": 67
+ },
+ {
+  "name": "Item Identifier",
+  "type": "NPC_ItemIdentifier",
+  "x": 963,
+  "z": -676,
+  "y": 76
+ },
+ {
+  "name": "Item Identifier",
+  "type": "NPC_ItemIdentifier",
+  "x": 1035,
+  "z": -5109,
+  "y": 19
+ },
+ {
+  "name": "Item Identifier",
+  "type": "NPC_ItemIdentifier",
+  "x": 1077,
+  "z": -4548,
+  "y": 108
+ },
+ {
+  "name": "Item Identifier",
+  "type": "NPC_ItemIdentifier",
+  "x": 1136,
+  "z": -3116,
+  "y": 43
+ },
+ {
+  "name": "Item Identifier",
+  "type": "NPC_ItemIdentifier",
+  "x": 1310,
+  "z": -1310,
+  "y": 31
+ },
+ {
+  "name": "Item Identifier",
+  "type": "NPC_ItemIdentifier",
+  "x": 1466,
+  "z": -5263,
+  "y": 45
+ },
+ {
+  "name": "Item Upgrader",
+  "type": "NPC_ItemUpgrader",
+  "x": -2089,
+  "z": -1028,
+  "y": 24
+ },
+ {
+  "name": "Item Upgrader",
+  "type": "NPC_ItemUpgrader",
+  "x": -1900,
+  "z": -1633,
+  "y": 71
+ },
+ {
+  "name": "Item Upgrader",
+  "type": "NPC_ItemUpgrader",
+  "x": -1846,
+  "z": -4559,
+  "y": 57
+ },
+ {
+  "name": "Item Upgrader",
+  "type": "NPC_ItemUpgrader",
+  "x": -1758,
+  "z": -5506,
+  "y": 66
+ },
+ {
+  "name": "Item Upgrader",
+  "type": "NPC_ItemUpgrader",
+  "x": -1752,
+  "z": -557,
+  "y": 27
+ },
+ {
+  "name": "Item Upgrader",
+  "type": "NPC_ItemUpgrader",
+  "x": -1598,
+  "z": -2870,
+  "y": 68
+ },
+ {
+  "name": "Item Upgrader",
+  "type": "NPC_ItemUpgrader",
+  "x": -1543,
+  "z": -774,
+  "y": 129
+ },
+ {
+  "name": "Item Upgrader",
+  "type": "NPC_ItemUpgrader",
+  "x": -1331,
+  "z": -1231,
+  "y": 106
+ },
+ {
+  "name": "Item Upgrader",
+  "type": "NPC_ItemUpgrader",
+  "x": -1281,
+  "z": -721,
+  "y": 83
+ },
+ {
+  "name": "Item Upgrader",
+  "type": "NPC_ItemUpgrader",
+  "x": -1156,
+  "z": -2381,
+  "y": 65
+ },
+ {
+  "name": "Item Upgrader",
+  "type": "NPC_ItemUpgrader",
+  "x": -999,
+  "z": -5310,
+  "y": 44
+ },
+ {
+  "name": "Item Upgrader",
+  "type": "NPC_ItemUpgrader",
+  "x": -834,
+  "z": -941,
+  "y": 78
+ },
+ {
+  "name": "Item Upgrader",
+  "type": "NPC_ItemUpgrader",
+  "x": -657,
+  "z": -3063,
+  "y": 37
+ },
+ {
+  "name": "Item Upgrader",
+  "type": "NPC_ItemUpgrader",
+  "x": -653,
+  "z": -3069,
+  "y": 53
+ },
+ {
+  "name": "Item Upgrader",
+  "type": "NPC_ItemUpgrader",
+  "x": -462,
+  "z": -4956,
+  "y": 47
+ },
+ {
+  "name": "Item Upgrader",
+  "type": "NPC_ItemUpgrader",
+  "x": -308,
+  "z": -1148,
+  "y": 43
+ },
+ {
+  "name": "Item Upgrader",
+  "type": "NPC_ItemUpgrader",
+  "x": -263,
+  "z": -4431,
+  "y": 103
+ },
+ {
+  "name": "Item Upgrader",
+  "type": "NPC_ItemUpgrader",
+  "x": -161,
+  "z": -1614,
+  "y": 81
+ },
+ {
+  "name": "Item Upgrader",
+  "type": "NPC_ItemUpgrader",
+  "x": 127,
+  "z": -773,
+  "y": 73
+ },
+ {
+  "name": "Item Upgrader",
+  "type": "NPC_ItemUpgrader",
+  "x": 134,
+  "z": -3187,
+  "y": 66
+ },
+ {
+  "name": "Item Upgrader",
+  "type": "NPC_ItemUpgrader",
+  "x": 185,
+  "z": -2172,
+  "y": 40
+ },
+ {
+  "name": "Item Upgrader",
+  "type": "NPC_ItemUpgrader",
+  "x": 208,
+  "z": -5225,
+  "y": 29
+ },
+ {
+  "name": "Item Upgrader",
+  "type": "NPC_ItemUpgrader",
+  "x": 493,
+  "z": -1620,
+  "y": 67
+ },
+ {
+  "name": "Item Upgrader",
+  "type": "NPC_ItemUpgrader",
+  "x": 752,
+  "z": -4447,
+  "y": 164
+ },
+ {
+  "name": "Item Upgrader",
+  "type": "NPC_ItemUpgrader",
+  "x": 782,
+  "z": -5068,
+  "y": 75
+ },
+ {
+  "name": "Item Upgrader",
+  "type": "NPC_ItemUpgrader",
+  "x": 948,
+  "z": -1924,
+  "y": 75
+ },
+ {
+  "name": "Item Upgrader",
+  "type": "NPC_ItemUpgrader",
+  "x": 966,
+  "z": -716,
+  "y": 79
+ },
+ {
+  "name": "Item Upgrader",
+  "type": "NPC_ItemUpgrader",
+  "x": 968,
+  "z": -4540,
+  "y": 110
+ },
+ {
+  "name": "Item Upgrader",
+  "type": "NPC_ItemUpgrader",
+  "x": 1066,
+  "z": -5153,
+  "y": 18
+ },
+ {
+  "name": "Trade Market",
+  "type": "NPC_TradeMarket",
+  "x": -2099,
+  "z": -1019,
+  "y": 25
+ },
+ {
+  "name": "Trade Market",
+  "type": "NPC_TradeMarket",
+  "x": -2023,
+  "z": -4478,
+  "y": 77
+ },
+ {
+  "name": "Trade Market",
+  "type": "NPC_TradeMarket",
+  "x": -1762,
+  "z": -5547,
+  "y": 66
+ },
+ {
+  "name": "Trade Market",
+  "type": "NPC_TradeMarket",
+  "x": -1717,
+  "z": -574,
+  "y": 26
+ },
+ {
+  "name": "Trade Market",
+  "type": "NPC_TradeMarket",
+  "x": -1623,
+  "z": -2932,
+  "y": 69
+ },
+ {
+  "name": "Trade Market",
+  "type": "NPC_TradeMarket",
+  "x": -1537,
+  "z": -785,
+  "y": 130
+ },
+ {
+  "name": "Trade Market",
+  "type": "NPC_TradeMarket",
+  "x": -1325,
+  "z": -1248,
+  "y": 107
+ },
+ {
+  "name": "Trade Market",
+  "type": "NPC_TradeMarket",
+  "x": -1285,
+  "z": -670,
+  "y": 79
+ },
+ {
+  "name": "Trade Market",
+  "type": "NPC_TradeMarket",
+  "x": -873,
+  "z": -963,
+  "y": 80
+ },
+ {
+  "name": "Trade Market",
+  "type": "NPC_TradeMarket",
+  "x": -455,
+  "z": -4978,
+  "y": 48
+ },
+ {
+  "name": "Trade Market",
+  "type": "NPC_TradeMarket",
+  "x": -455,
+  "z": -4948,
+  "y": 48
+ },
+ {
+  "name": "Trade Market",
+  "type": "NPC_TradeMarket",
+  "x": 105,
+  "z": -3193,
+  "y": 66
+ },
+ {
+  "name": "Trade Market",
+  "type": "NPC_TradeMarket",
+  "x": 502,
+  "z": -1569,
+  "y": 68
+ },
+ {
+  "name": "Trade Market",
+  "type": "NPC_TradeMarket",
+  "x": 737,
+  "z": -4408,
+  "y": 164
+ },
+ {
+  "name": "Trade Market",
+  "type": "NPC_TradeMarket",
+  "x": 816,
+  "z": -5078,
+  "y": 76
+ },
+ {
+  "name": "Trade Market",
+  "type": "NPC_TradeMarket",
+  "x": 997,
+  "z": -712,
+  "y": 75
+ },
+ {
+  "name": "Trade Market",
+  "type": "NPC_TradeMarket",
+  "x": 1001,
+  "z": -4565,
+  "y": 113
+ },
+ {
+  "name": "Trade Market",
+  "type": "NPC_TradeMarket",
+  "x": 1057,
+  "z": -5120,
+  "y": 18
+ },
+ {
+  "name": "Trade Market",
+  "type": "NPC_TradeMarket",
+  "x": 1058,
+  "z": -5120,
+  "y": 18
+ },
+ {
+  "name": "Trade Market",
+  "type": "NPC_TradeMarket",
+  "x": 1058,
+  "z": -5119,
+  "y": 18
+ },
+ {
+  "name": "Alchemism Station",
+  "type": "Profession_Alchemism",
+  "x": -2065,
+  "z": -1018,
+  "y": 26
+ },
+ {
+  "name": "Alchemism Station",
+  "type": "Profession_Alchemism",
+  "x": -2011,
+  "z": -4450,
+  "y": 76
+ },
+ {
+  "name": "Alchemism Station",
+  "type": "Profession_Alchemism",
+  "x": -1921,
+  "z": -1636,
+  "y": 70
+ },
+ {
+  "name": "Alchemism Station",
+  "type": "Profession_Alchemism",
+  "x": -1868,
+  "z": -4531,
+  "y": 58
+ },
+ {
+  "name": "Alchemism Station",
+  "type": "Profession_Alchemism",
+  "x": -1752,
+  "z": -5506,
+  "y": 65
+ },
+ {
+  "name": "Alchemism Station",
+  "type": "Profession_Alchemism",
+  "x": -1726,
+  "z": -581,
+  "y": 26
+ },
+ {
+  "name": "Alchemism Station",
+  "type": "Profession_Alchemism",
+  "x": -1574,
+  "z": -2960,
+  "y": 67
+ },
+ {
+  "name": "Alchemism Station",
+  "type": "Profession_Alchemism",
+  "x": -1562,
+  "z": -785,
+  "y": 128
+ },
+ {
+  "name": "Alchemism Station",
+  "type": "Profession_Alchemism",
+  "x": -1417,
+  "z": -4709,
+  "y": 42
+ },
+ {
+  "name": "Alchemism Station",
+  "type": "Profession_Alchemism",
+  "x": -1336,
+  "z": -1252,
+  "y": 105
+ },
+ {
+  "name": "Alchemism Station",
+  "type": "Profession_Alchemism",
+  "x": -1280,
+  "z": -718,
+  "y": 82
+ },
+ {
+  "name": "Alchemism Station",
+  "type": "Profession_Alchemism",
+  "x": -1030,
+  "z": -4989,
+  "y": 41
+ },
+ {
+  "name": "Alchemism Station",
+  "type": "Profession_Alchemism",
+  "x": -1017,
+  "z": -5318,
+  "y": 45
+ },
+ {
+  "name": "Alchemism Station",
+  "type": "Profession_Alchemism",
+  "x": -880,
+  "z": -949,
+  "y": 77
+ },
+ {
+  "name": "Alchemism Station",
+  "type": "Profession_Alchemism",
+  "x": -827,
+  "z": -1497,
+  "y": 66
+ },
+ {
+  "name": "Alchemism Station",
+  "type": "Profession_Alchemism",
+  "x": -756,
+  "z": -656,
+  "y": 81
+ },
+ {
+  "name": "Alchemism Station",
+  "type": "Profession_Alchemism",
+  "x": -556,
+  "z": -1933,
+  "y": 47
+ },
+ {
+  "name": "Alchemism Station",
+  "type": "Profession_Alchemism",
+  "x": -483,
+  "z": -4947,
+  "y": 46
+ },
+ {
+  "name": "Alchemism Station",
+  "type": "Profession_Alchemism",
+  "x": -276,
+  "z": -4432,
+  "y": 102
+ },
+ {
+  "name": "Alchemism Station",
+  "type": "Profession_Alchemism",
+  "x": -195,
+  "z": -323,
+  "y": 27
+ },
+ {
+  "name": "Alchemism Station",
+  "type": "Profession_Alchemism",
+  "x": -21,
+  "z": -1133,
+  "y": 74
+ },
+ {
+  "name": "Alchemism Station",
+  "type": "Profession_Alchemism",
+  "x": 100,
+  "z": -3155,
+  "y": 65
+ },
+ {
+  "name": "Alchemism Station",
+  "type": "Profession_Alchemism",
+  "x": 104,
+  "z": -2191,
+  "y": 38
+ },
+ {
+  "name": "Alchemism Station",
+  "type": "Profession_Alchemism",
+  "x": 122,
+  "z": -783,
+  "y": 72
+ },
+ {
+  "name": "Alchemism Station",
+  "type": "Profession_Alchemism",
+  "x": 208,
+  "z": -5223,
+  "y": 28
+ },
+ {
+  "name": "Alchemism Station",
+  "type": "Profession_Alchemism",
+  "x": 456,
+  "z": -1592,
+  "y": 66
+ },
+ {
+  "name": "Alchemism Station",
+  "type": "Profession_Alchemism",
+  "x": 698,
+  "z": -2086,
+  "y": 70
+ },
+ {
+  "name": "Alchemism Station",
+  "type": "Profession_Alchemism",
+  "x": 744,
+  "z": -4443,
+  "y": 163
+ },
+ {
+  "name": "Alchemism Station",
+  "type": "Profession_Alchemism",
+  "x": 785,
+  "z": -1612,
+  "y": 70
+ },
+ {
+  "name": "Alchemism Station",
+  "type": "Profession_Alchemism",
+  "x": 813,
+  "z": -5108,
+  "y": 73
+ },
+ {
+  "name": "Alchemism Station",
+  "type": "Profession_Alchemism",
+  "x": 897,
+  "z": -5581,
+  "y": 121
+ },
+ {
+  "name": "Alchemism Station",
+  "type": "Profession_Alchemism",
+  "x": 900,
+  "z": -1948,
+  "y": 66
+ },
+ {
+  "name": "Alchemism Station",
+  "type": "Profession_Alchemism",
+  "x": 1008,
+  "z": -682,
+  "y": 74
+ },
+ {
+  "name": "Alchemism Station",
+  "type": "Profession_Alchemism",
+  "x": 1011,
+  "z": -4533,
+  "y": 111
+ },
+ {
+  "name": "Alchemism Station",
+  "type": "Profession_Alchemism",
+  "x": 1077,
+  "z": -5130,
+  "y": 17
+ },
+ {
+  "name": "Alchemism Station",
+  "type": "Profession_Alchemism",
+  "x": 1294,
+  "z": -1241,
+  "y": 30
+ },
+ {
+  "name": "Alchemism Station",
+  "type": "Profession_Alchemism",
+  "x": 1460,
+  "z": -5269,
+  "y": 41
+ },
+ {
+  "name": "Armouring Station",
+  "type": "Profession_Armouring",
+  "x": -2053,
+  "z": -984,
+  "y": 27
+ },
+ {
+  "name": "Armouring Station",
+  "type": "Profession_Armouring",
+  "x": -2014,
+  "z": -4493,
+  "y": 75
+ },
+ {
+  "name": "Armouring Station",
+  "type": "Profession_Armouring",
+  "x": -1947,
+  "z": -1629,
+  "y": 69
+ },
+ {
+  "name": "Armouring Station",
+  "type": "Profession_Armouring",
+  "x": -1765,
+  "z": -5526,
+  "y": 64
+ },
+ {
+  "name": "Armouring Station",
+  "type": "Profession_Armouring",
+  "x": -1755,
+  "z": -583,
+  "y": 25
+ },
+ {
+  "name": "Armouring Station",
+  "type": "Profession_Armouring",
+  "x": -1608,
+  "z": -2959,
+  "y": 66
+ },
+ {
+  "name": "Armouring Station",
+  "type": "Profession_Armouring",
+  "x": -1565,
+  "z": -769,
+  "y": 127
+ },
+ {
+  "name": "Armouring Station",
+  "type": "Profession_Armouring",
+  "x": -1407,
+  "z": -4715,
+  "y": 41
+ },
+ {
+  "name": "Armouring Station",
+  "type": "Profession_Armouring",
+  "x": -1331,
+  "z": -1246,
+  "y": 104
+ },
+ {
+  "name": "Armouring Station",
+  "type": "Profession_Armouring",
+  "x": -1267,
+  "z": -721,
+  "y": 75
+ },
+ {
+  "name": "Armouring Station",
+  "type": "Profession_Armouring",
+  "x": -1266,
+  "z": -725,
+  "y": 46
+ },
+ {
+  "name": "Armouring Station",
+  "type": "Profession_Armouring",
+  "x": -1051,
+  "z": -4986,
+  "y": 40
+ },
+ {
+  "name": "Armouring Station",
+  "type": "Profession_Armouring",
+  "x": -1011,
+  "z": -5322,
+  "y": 44
+ },
+ {
+  "name": "Armouring Station",
+  "type": "Profession_Armouring",
+  "x": -851,
+  "z": -921,
+  "y": 74
+ },
+ {
+  "name": "Armouring Station",
+  "type": "Profession_Armouring",
+  "x": -841,
+  "z": -1487,
+  "y": 65
+ },
+ {
+  "name": "Armouring Station",
+  "type": "Profession_Armouring",
+  "x": -732,
+  "z": -632,
+  "y": 88
+ },
+ {
+  "name": "Armouring Station",
+  "type": "Profession_Armouring",
+  "x": -547,
+  "z": -1918,
+  "y": 46
+ },
+ {
+  "name": "Armouring Station",
+  "type": "Profession_Armouring",
+  "x": -461,
+  "z": -4932,
+  "y": 47
+ },
+ {
+  "name": "Armouring Station",
+  "type": "Profession_Armouring",
+  "x": -304,
+  "z": -4474,
+  "y": 101
+ },
+ {
+  "name": "Armouring Station",
+  "type": "Profession_Armouring",
+  "x": -7,
+  "z": -1191,
+  "y": 73
+ },
+ {
+  "name": "Armouring Station",
+  "type": "Profession_Armouring",
+  "x": 90,
+  "z": -802,
+  "y": 71
+ },
+ {
+  "name": "Armouring Station",
+  "type": "Profession_Armouring",
+  "x": 126,
+  "z": -2138,
+  "y": 42
+ },
+ {
+  "name": "Armouring Station",
+  "type": "Profession_Armouring",
+  "x": 132,
+  "z": -3167,
+  "y": 64
+ },
+ {
+  "name": "Armouring Station",
+  "type": "Profession_Armouring",
+  "x": 237,
+  "z": -5234,
+  "y": 27
+ },
+ {
+  "name": "Armouring Station",
+  "type": "Profession_Armouring",
+  "x": 475,
+  "z": -1600,
+  "y": 65
+ },
+ {
+  "name": "Armouring Station",
+  "type": "Profession_Armouring",
+  "x": 732,
+  "z": -2103,
+  "y": 68
+ },
+ {
+  "name": "Armouring Station",
+  "type": "Profession_Armouring",
+  "x": 741,
+  "z": -1478,
+  "y": 59
+ },
+ {
+  "name": "Armouring Station",
+  "type": "Profession_Armouring",
+  "x": 758,
+  "z": -4435,
+  "y": 162
+ },
+ {
+  "name": "Armouring Station",
+  "type": "Profession_Armouring",
+  "x": 807,
+  "z": -5082,
+  "y": 73
+ },
+ {
+  "name": "Armouring Station",
+  "type": "Profession_Armouring",
+  "x": 883,
+  "z": -5576,
+  "y": 120
+ },
+ {
+  "name": "Armouring Station",
+  "type": "Profession_Armouring",
+  "x": 938,
+  "z": -1959,
+  "y": 65
+ },
+ {
+  "name": "Armouring Station",
+  "type": "Profession_Armouring",
+  "x": 992,
+  "z": -662,
+  "y": 71
+ },
+ {
+  "name": "Armouring Station",
+  "type": "Profession_Armouring",
+  "x": 1006,
+  "z": -4537,
+  "y": 110
+ },
+ {
+  "name": "Armouring Station",
+  "type": "Profession_Armouring",
+  "x": 1053,
+  "z": -5147,
+  "y": 16
+ },
+ {
+  "name": "Armouring Station",
+  "type": "Profession_Armouring",
+  "x": 1254,
+  "z": -1346,
+  "y": 29
+ },
+ {
+  "name": "Armouring Station",
+  "type": "Profession_Armouring",
+  "x": 1417,
+  "z": -5264,
+  "y": 62
+ },
+ {
+  "name": "Cooking Station",
+  "type": "Profession_Cooking",
+  "x": -2028,
+  "z": -1014,
+  "y": 31
+ },
+ {
+  "name": "Cooking Station",
+  "type": "Profession_Cooking",
+  "x": -2021,
+  "z": -4464,
+  "y": 75
+ },
+ {
+  "name": "Cooking Station",
+  "type": "Profession_Cooking",
+  "x": -1935,
+  "z": -1662,
+  "y": 69
+ },
+ {
+  "name": "Cooking Station",
+  "type": "Profession_Cooking",
+  "x": -1880,
+  "z": -4485,
+  "y": 76
+ },
+ {
+  "name": "Cooking Station",
+  "type": "Profession_Cooking",
+  "x": -1873,
+  "z": -4487,
+  "y": 76
+ },
+ {
+  "name": "Cooking Station",
+  "type": "Profession_Cooking",
+  "x": -1742,
+  "z": -584,
+  "y": 25
+ },
+ {
+  "name": "Cooking Station",
+  "type": "Profession_Cooking",
+  "x": -1730,
+  "z": -5515,
+  "y": 64
+ },
+ {
+  "name": "Cooking Station",
+  "type": "Profession_Cooking",
+  "x": -1582,
+  "z": -2953,
+  "y": 66
+ },
+ {
+  "name": "Cooking Station",
+  "type": "Profession_Cooking",
+  "x": -1551,
+  "z": -779,
+  "y": 127
+ },
+ {
+  "name": "Cooking Station",
+  "type": "Profession_Cooking",
+  "x": -1411,
+  "z": -4709,
+  "y": 41
+ },
+ {
+  "name": "Cooking Station",
+  "type": "Profession_Cooking",
+  "x": -1354,
+  "z": -1248,
+  "y": 104
+ },
+ {
+  "name": "Cooking Station",
+  "type": "Profession_Cooking",
+  "x": -1317,
+  "z": -687,
+  "y": 75
+ },
+ {
+  "name": "Cooking Station",
+  "type": "Profession_Cooking",
+  "x": -1076,
+  "z": -4977,
+  "y": 40
+ },
+ {
+  "name": "Cooking Station",
+  "type": "Profession_Cooking",
+  "x": -861,
+  "z": -1500,
+  "y": 65
+ },
+ {
+  "name": "Cooking Station",
+  "type": "Profession_Cooking",
+  "x": -786,
+  "z": -935,
+  "y": 68
+ },
+ {
+  "name": "Cooking Station",
+  "type": "Profession_Cooking",
+  "x": -569,
+  "z": -1942,
+  "y": 46
+ },
+ {
+  "name": "Cooking Station",
+  "type": "Profession_Cooking",
+  "x": -454,
+  "z": -4954,
+  "y": 46
+ },
+ {
+  "name": "Cooking Station",
+  "type": "Profession_Cooking",
+  "x": -287,
+  "z": -4435,
+  "y": 101
+ },
+ {
+  "name": "Cooking Station",
+  "type": "Profession_Cooking",
+  "x": -7,
+  "z": -1137,
+  "y": 74
+ },
+ {
+  "name": "Cooking Station",
+  "type": "Profession_Cooking",
+  "x": 79,
+  "z": -2190,
+  "y": 37
+ },
+ {
+  "name": "Cooking Station",
+  "type": "Profession_Cooking",
+  "x": 106,
+  "z": -763,
+  "y": 71
+ },
+ {
+  "name": "Cooking Station",
+  "type": "Profession_Cooking",
+  "x": 110,
+  "z": -3108,
+  "y": 34
+ },
+ {
+  "name": "Cooking Station",
+  "type": "Profession_Cooking",
+  "x": 208,
+  "z": -5232,
+  "y": 27
+ },
+ {
+  "name": "Cooking Station",
+  "type": "Profession_Cooking",
+  "x": 441,
+  "z": -1574,
+  "y": 65
+ },
+ {
+  "name": "Cooking Station",
+  "type": "Profession_Cooking",
+  "x": 717,
+  "z": -2119,
+  "y": 68
+ },
+ {
+  "name": "Cooking Station",
+  "type": "Profession_Cooking",
+  "x": 755,
+  "z": -4451,
+  "y": 162
+ },
+ {
+  "name": "Cooking Station",
+  "type": "Profession_Cooking",
+  "x": 772,
+  "z": -5436,
+  "y": 43
+ },
+ {
+  "name": "Cooking Station",
+  "type": "Profession_Cooking",
+  "x": 803,
+  "z": -1621,
+  "y": 69
+ },
+ {
+  "name": "Cooking Station",
+  "type": "Profession_Cooking",
+  "x": 810,
+  "z": -5080,
+  "y": 73
+ },
+ {
+  "name": "Cooking Station",
+  "type": "Profession_Cooking",
+  "x": 905,
+  "z": -1956,
+  "y": 65
+ },
+ {
+  "name": "Cooking Station",
+  "type": "Profession_Cooking",
+  "x": 962,
+  "z": -4474,
+  "y": 123
+ },
+ {
+  "name": "Cooking Station",
+  "type": "Profession_Cooking",
+  "x": 985,
+  "z": -742,
+  "y": 74
+ },
+ {
+  "name": "Cooking Station",
+  "type": "Profession_Cooking",
+  "x": 1053,
+  "z": -5159,
+  "y": 16
+ },
+ {
+  "name": "Cooking Station",
+  "type": "Profession_Cooking",
+  "x": 1338,
+  "z": -1284,
+  "y": 29
+ },
+ {
+  "name": "Jeweling Station",
+  "type": "Profession_Jeweling",
+  "x": -2127,
+  "z": -4570,
+  "y": 51
+ },
+ {
+  "name": "Jeweling Station",
+  "type": "Profession_Jeweling",
+  "x": -2038,
+  "z": -983,
+  "y": 29
+ },
+ {
+  "name": "Jeweling Station",
+  "type": "Profession_Jeweling",
+  "x": -1975,
+  "z": -4464,
+  "y": 75
+ },
+ {
+  "name": "Jeweling Station",
+  "type": "Profession_Jeweling",
+  "x": -1893,
+  "z": -1652,
+  "y": 69
+ },
+ {
+  "name": "Jeweling Station",
+  "type": "Profession_Jeweling",
+  "x": -1781,
+  "z": -5536,
+  "y": 64
+ },
+ {
+  "name": "Jeweling Station",
+  "type": "Profession_Jeweling",
+  "x": -1757,
+  "z": -580,
+  "y": 25
+ },
+ {
+  "name": "Jeweling Station",
+  "type": "Profession_Jeweling",
+  "x": -1586,
+  "z": -2985,
+  "y": 66
+ },
+ {
+  "name": "Jeweling Station",
+  "type": "Profession_Jeweling",
+  "x": -1569,
+  "z": -798,
+  "y": 127
+ },
+ {
+  "name": "Jeweling Station",
+  "type": "Profession_Jeweling",
+  "x": -1405,
+  "z": -4707,
+  "y": 41
+ },
+ {
+  "name": "Jeweling Station",
+  "type": "Profession_Jeweling",
+  "x": -1334,
+  "z": -1226,
+  "y": 104
+ },
+ {
+  "name": "Jeweling Station",
+  "type": "Profession_Jeweling",
+  "x": -1296,
+  "z": -710,
+  "y": 76
+ },
+ {
+  "name": "Jeweling Station",
+  "type": "Profession_Jeweling",
+  "x": -1037,
+  "z": -5317,
+  "y": 44
+ },
+ {
+  "name": "Jeweling Station",
+  "type": "Profession_Jeweling",
+  "x": -873,
+  "z": -937,
+  "y": 75
+ },
+ {
+  "name": "Jeweling Station",
+  "type": "Profession_Jeweling",
+  "x": -556,
+  "z": -1938,
+  "y": 46
+ },
+ {
+  "name": "Jeweling Station",
+  "type": "Profession_Jeweling",
+  "x": -437,
+  "z": -4947,
+  "y": 45
+ },
+ {
+  "name": "Jeweling Station",
+  "type": "Profession_Jeweling",
+  "x": -307,
+  "z": -4419,
+  "y": 101
+ },
+ {
+  "name": "Jeweling Station",
+  "type": "Profession_Jeweling",
+  "x": -202,
+  "z": -314,
+  "y": 26
+ },
+ {
+  "name": "Jeweling Station",
+  "type": "Profession_Jeweling",
+  "x": -46,
+  "z": -1146,
+  "y": 70
+ },
+ {
+  "name": "Jeweling Station",
+  "type": "Profession_Jeweling",
+  "x": 111,
+  "z": -2220,
+  "y": 37
+ },
+ {
+  "name": "Jeweling Station",
+  "type": "Profession_Jeweling",
+  "x": 113,
+  "z": -3118,
+  "y": 34
+ },
+ {
+  "name": "Jeweling Station",
+  "type": "Profession_Jeweling",
+  "x": 115,
+  "z": -766,
+  "y": 71
+ },
+ {
+  "name": "Jeweling Station",
+  "type": "Profession_Jeweling",
+  "x": 226,
+  "z": -5254,
+  "y": 27
+ },
+ {
+  "name": "Jeweling Station",
+  "type": "Profession_Jeweling",
+  "x": 461,
+  "z": -1604,
+  "y": 65
+ },
+ {
+  "name": "Jeweling Station",
+  "type": "Profession_Jeweling",
+  "x": 701,
+  "z": -2082,
+  "y": 69
+ },
+ {
+  "name": "Jeweling Station",
+  "type": "Profession_Jeweling",
+  "x": 737,
+  "z": -1442,
+  "y": 59
+ },
+ {
+  "name": "Jeweling Station",
+  "type": "Profession_Jeweling",
+  "x": 747,
+  "z": -4416,
+  "y": 162
+ },
+ {
+  "name": "Jeweling Station",
+  "type": "Profession_Jeweling",
+  "x": 821,
+  "z": -5090,
+  "y": 73
+ },
+ {
+  "name": "Jeweling Station",
+  "type": "Profession_Jeweling",
+  "x": 928,
+  "z": -1965,
+  "y": 65
+ },
+ {
+  "name": "Jeweling Station",
+  "type": "Profession_Jeweling",
+  "x": 939,
+  "z": -5513,
+  "y": 114
+ },
+ {
+  "name": "Jeweling Station",
+  "type": "Profession_Jeweling",
+  "x": 1009,
+  "z": -722,
+  "y": 77
+ },
+ {
+  "name": "Jeweling Station",
+  "type": "Profession_Jeweling",
+  "x": 1071,
+  "z": -5127,
+  "y": 16
+ },
+ {
+  "name": "Jeweling Station",
+  "type": "Profession_Jeweling",
+  "x": 1100,
+  "z": -4567,
+  "y": 99
+ },
+ {
+  "name": "Jeweling Station",
+  "type": "Profession_Jeweling",
+  "x": 1259,
+  "z": -1283,
+  "y": 29
+ },
+ {
+  "name": "Jeweling Station",
+  "type": "Profession_Jeweling",
+  "x": 1419,
+  "z": -5256,
+  "y": 62
+ },
+ {
+  "name": "Scribing Station",
+  "type": "Profession_Scribing",
+  "x": -2144,
+  "z": -4563,
+  "y": 51
+ },
+ {
+  "name": "Scribing Station",
+  "type": "Profession_Scribing",
+  "x": -2043,
+  "z": -1018,
+  "y": 27
+ },
+ {
+  "name": "Scribing Station",
+  "type": "Profession_Scribing",
+  "x": -1985,
+  "z": -4450,
+  "y": 75
+ },
+ {
+  "name": "Scribing Station",
+  "type": "Profession_Scribing",
+  "x": -1893,
+  "z": -1663,
+  "y": 69
+ },
+ {
+  "name": "Scribing Station",
+  "type": "Profession_Scribing",
+  "x": -1738,
+  "z": -592,
+  "y": 28
+ },
+ {
+  "name": "Scribing Station",
+  "type": "Profession_Scribing",
+  "x": -1726,
+  "z": -5502,
+  "y": 64
+ },
+ {
+  "name": "Scribing Station",
+  "type": "Profession_Scribing",
+  "x": -1577,
+  "z": -2979,
+  "y": 66
+ },
+ {
+  "name": "Scribing Station",
+  "type": "Profession_Scribing",
+  "x": -1568,
+  "z": -795,
+  "y": 127
+ },
+ {
+  "name": "Scribing Station",
+  "type": "Profession_Scribing",
+  "x": -1416,
+  "z": -4718,
+  "y": 41
+ },
+ {
+  "name": "Scribing Station",
+  "type": "Profession_Scribing",
+  "x": -1356,
+  "z": -1220,
+  "y": 104
+ },
+ {
+  "name": "Scribing Station",
+  "type": "Profession_Scribing",
+  "x": -1257,
+  "z": -685,
+  "y": 86
+ },
+ {
+  "name": "Scribing Station",
+  "type": "Profession_Scribing",
+  "x": -1032,
+  "z": -4999,
+  "y": 40
+ },
+ {
+  "name": "Scribing Station",
+  "type": "Profession_Scribing",
+  "x": -852,
+  "z": -904,
+  "y": 74
+ },
+ {
+  "name": "Scribing Station",
+  "type": "Profession_Scribing",
+  "x": -830,
+  "z": -1495,
+  "y": 65
+ },
+ {
+  "name": "Scribing Station",
+  "type": "Profession_Scribing",
+  "x": -823,
+  "z": -1497,
+  "y": 66
+ },
+ {
+  "name": "Scribing Station",
+  "type": "Profession_Scribing",
+  "x": -758,
+  "z": -666,
+  "y": 77
+ },
+ {
+  "name": "Scribing Station",
+  "type": "Profession_Scribing",
+  "x": -451,
+  "z": -4955,
+  "y": 45
+ },
+ {
+  "name": "Scribing Station",
+  "type": "Profession_Scribing",
+  "x": -257,
+  "z": -4397,
+  "y": 101
+ },
+ {
+  "name": "Scribing Station",
+  "type": "Profession_Scribing",
+  "x": -210,
+  "z": -323,
+  "y": 26
+ },
+ {
+  "name": "Scribing Station",
+  "type": "Profession_Scribing",
+  "x": 18,
+  "z": -1181,
+  "y": 73
+ },
+ {
+  "name": "Scribing Station",
+  "type": "Profession_Scribing",
+  "x": 32,
+  "z": -2184,
+  "y": 38
+ },
+ {
+  "name": "Scribing Station",
+  "type": "Profession_Scribing",
+  "x": 107,
+  "z": -791,
+  "y": 71
+ },
+ {
+  "name": "Scribing Station",
+  "type": "Profession_Scribing",
+  "x": 116,
+  "z": -3196,
+  "y": 64
+ },
+ {
+  "name": "Scribing Station",
+  "type": "Profession_Scribing",
+  "x": 226,
+  "z": -5265,
+  "y": 27
+ },
+ {
+  "name": "Scribing Station",
+  "type": "Profession_Scribing",
+  "x": 460,
+  "z": -1598,
+  "y": 65
+ },
+ {
+  "name": "Scribing Station",
+  "type": "Profession_Scribing",
+  "x": 700,
+  "z": -2095,
+  "y": 71
+ },
+ {
+  "name": "Scribing Station",
+  "type": "Profession_Scribing",
+  "x": 737,
+  "z": -4414,
+  "y": 162
+ },
+ {
+  "name": "Scribing Station",
+  "type": "Profession_Scribing",
+  "x": 792,
+  "z": -1587,
+  "y": 69
+ },
+ {
+  "name": "Scribing Station",
+  "type": "Profession_Scribing",
+  "x": 802,
+  "z": -5104,
+  "y": 73
+ },
+ {
+  "name": "Scribing Station",
+  "type": "Profession_Scribing",
+  "x": 881,
+  "z": -1944,
+  "y": 65
+ },
+ {
+  "name": "Scribing Station",
+  "type": "Profession_Scribing",
+  "x": 997,
+  "z": -738,
+  "y": 78
+ },
+ {
+  "name": "Scribing Station",
+  "type": "Profession_Scribing",
+  "x": 1021,
+  "z": -4539,
+  "y": 110
+ },
+ {
+  "name": "Scribing Station",
+  "type": "Profession_Scribing",
+  "x": 1078,
+  "z": -5142,
+  "y": 16
+ },
+ {
+  "name": "Scribing Station",
+  "type": "Profession_Scribing",
+  "x": 1320,
+  "z": -1339,
+  "y": 29
+ },
+ {
+  "name": "Scribing Station",
+  "type": "Profession_Scribing",
+  "x": 1426,
+  "z": -5249,
+  "y": 62
+ },
+ {
+  "name": "Tailoring Station",
+  "type": "Profession_Tailoring",
+  "x": -2060,
+  "z": -986,
+  "y": 28
+ },
+ {
+  "name": "Tailoring Station",
+  "type": "Profession_Tailoring",
+  "x": -2003,
+  "z": -4496,
+  "y": 75
+ },
+ {
+  "name": "Tailoring Station",
+  "type": "Profession_Tailoring",
+  "x": -1929,
+  "z": -4483,
+  "y": 75
+ },
+ {
+  "name": "Tailoring Station",
+  "type": "Profession_Tailoring",
+  "x": -1924,
+  "z": -1663,
+  "y": 69
+ },
+ {
+  "name": "Tailoring Station",
+  "type": "Profession_Tailoring",
+  "x": -1757,
+  "z": -574,
+  "y": 25
+ },
+ {
+  "name": "Tailoring Station",
+  "type": "Profession_Tailoring",
+  "x": -1751,
+  "z": -5493,
+  "y": 64
+ },
+ {
+  "name": "Tailoring Station",
+  "type": "Profession_Tailoring",
+  "x": -1640,
+  "z": -2913,
+  "y": 66
+ },
+ {
+  "name": "Tailoring Station",
+  "type": "Profession_Tailoring",
+  "x": -1608,
+  "z": -2978,
+  "y": 66
+ },
+ {
+  "name": "Tailoring Station",
+  "type": "Profession_Tailoring",
+  "x": -1563,
+  "z": -767,
+  "y": 127
+ },
+ {
+  "name": "Tailoring Station",
+  "type": "Profession_Tailoring",
+  "x": -1402,
+  "z": -4704,
+  "y": 41
+ },
+ {
+  "name": "Tailoring Station",
+  "type": "Profession_Tailoring",
+  "x": -1343,
+  "z": -1226,
+  "y": 104
+ },
+ {
+  "name": "Tailoring Station",
+  "type": "Profession_Tailoring",
+  "x": -1274,
+  "z": -715,
+  "y": 75
+ },
+ {
+  "name": "Tailoring Station",
+  "type": "Profession_Tailoring",
+  "x": -1010,
+  "z": -5287,
+  "y": 45
+ },
+ {
+  "name": "Tailoring Station",
+  "type": "Profession_Tailoring",
+  "x": -877,
+  "z": -912,
+  "y": 74
+ },
+ {
+  "name": "Tailoring Station",
+  "type": "Profession_Tailoring",
+  "x": -848,
+  "z": -1495,
+  "y": 65
+ },
+ {
+  "name": "Tailoring Station",
+  "type": "Profession_Tailoring",
+  "x": -553,
+  "z": -1920,
+  "y": 47
+ },
+ {
+  "name": "Tailoring Station",
+  "type": "Profession_Tailoring",
+  "x": -455,
+  "z": -4929,
+  "y": 47
+ },
+ {
+  "name": "Tailoring Station",
+  "type": "Profession_Tailoring",
+  "x": -305,
+  "z": -4415,
+  "y": 101
+ },
+ {
+  "name": "Tailoring Station",
+  "type": "Profession_Tailoring",
+  "x": -23,
+  "z": -1165,
+  "y": 72
+ },
+ {
+  "name": "Tailoring Station",
+  "type": "Profession_Tailoring",
+  "x": 104,
+  "z": -772,
+  "y": 71
+ },
+ {
+  "name": "Tailoring Station",
+  "type": "Profession_Tailoring",
+  "x": 109,
+  "z": -3166,
+  "y": 64
+ },
+ {
+  "name": "Tailoring Station",
+  "type": "Profession_Tailoring",
+  "x": 142,
+  "z": -2181,
+  "y": 38
+ },
+ {
+  "name": "Tailoring Station",
+  "type": "Profession_Tailoring",
+  "x": 208,
+  "z": -5253,
+  "y": 27
+ },
+ {
+  "name": "Tailoring Station",
+  "type": "Profession_Tailoring",
+  "x": 466,
+  "z": -1607,
+  "y": 65
+ },
+ {
+  "name": "Tailoring Station",
+  "type": "Profession_Tailoring",
+  "x": 694,
+  "z": -2069,
+  "y": 68
+ },
+ {
+  "name": "Tailoring Station",
+  "type": "Profession_Tailoring",
+  "x": 737,
+  "z": -4431,
+  "y": 162
+ },
+ {
+  "name": "Tailoring Station",
+  "type": "Profession_Tailoring",
+  "x": 793,
+  "z": -1611,
+  "y": 70
+ },
+ {
+  "name": "Tailoring Station",
+  "type": "Profession_Tailoring",
+  "x": 819,
+  "z": -5087,
+  "y": 73
+ },
+ {
+  "name": "Tailoring Station",
+  "type": "Profession_Tailoring",
+  "x": 882,
+  "z": -1935,
+  "y": 65
+ },
+ {
+  "name": "Tailoring Station",
+  "type": "Profession_Tailoring",
+  "x": 965,
+  "z": -663,
+  "y": 71
+ },
+ {
+  "name": "Tailoring Station",
+  "type": "Profession_Tailoring",
+  "x": 1057,
+  "z": -5152,
+  "y": 18
+ },
+ {
+  "name": "Tailoring Station",
+  "type": "Profession_Tailoring",
+  "x": 1108,
+  "z": -4558,
+  "y": 100
+ },
+ {
+  "name": "Tailoring Station",
+  "type": "Profession_Tailoring",
+  "x": 1298,
+  "z": -1241,
+  "y": 30
+ },
+ {
+  "name": "Tailoring Station",
+  "type": "Profession_Tailoring",
+  "x": 1432,
+  "z": -5248,
+  "y": 62
+ },
+ {
+  "name": "Weaponsmithing Station",
+  "type": "Profession_Weaponsmithing",
+  "x": -2044,
+  "z": -982,
+  "y": 27
+ },
+ {
+  "name": "Weaponsmithing Station",
+  "type": "Profession_Weaponsmithing",
+  "x": -1982,
+  "z": -4493,
+  "y": 75
+ },
+ {
+  "name": "Weaponsmithing Station",
+  "type": "Profession_Weaponsmithing",
+  "x": -1943,
+  "z": -1615,
+  "y": 69
+ },
+ {
+  "name": "Weaponsmithing Station",
+  "type": "Profession_Weaponsmithing",
+  "x": -1869,
+  "z": -4574,
+  "y": 51
+ },
+ {
+  "name": "Weaponsmithing Station",
+  "type": "Profession_Weaponsmithing",
+  "x": -1753,
+  "z": -5499,
+  "y": 64
+ },
+ {
+  "name": "Weaponsmithing Station",
+  "type": "Profession_Weaponsmithing",
+  "x": -1752,
+  "z": -584,
+  "y": 25
+ },
+ {
+  "name": "Weaponsmithing Station",
+  "type": "Profession_Weaponsmithing",
+  "x": -1602,
+  "z": -2955,
+  "y": 66
+ },
+ {
+  "name": "Weaponsmithing Station",
+  "type": "Profession_Weaponsmithing",
+  "x": -1542,
+  "z": -797,
+  "y": 127
+ },
+ {
+  "name": "Weaponsmithing Station",
+  "type": "Profession_Weaponsmithing",
+  "x": -1406,
+  "z": -4711,
+  "y": 41
+ },
+ {
+  "name": "Weaponsmithing Station",
+  "type": "Profession_Weaponsmithing",
+  "x": -1329,
+  "z": -1234,
+  "y": 104
+ },
+ {
+  "name": "Weaponsmithing Station",
+  "type": "Profession_Weaponsmithing",
+  "x": -1272,
+  "z": -722,
+  "y": 75
+ },
+ {
+  "name": "Weaponsmithing Station",
+  "type": "Profession_Weaponsmithing",
+  "x": -1271,
+  "z": -679,
+  "y": 45
+ },
+ {
+  "name": "Weaponsmithing Station",
+  "type": "Profession_Weaponsmithing",
+  "x": -1048,
+  "z": -4982,
+  "y": 40
+ },
+ {
+  "name": "Weaponsmithing Station",
+  "type": "Profession_Weaponsmithing",
+  "x": -863,
+  "z": -904,
+  "y": 74
+ },
+ {
+  "name": "Weaponsmithing Station",
+  "type": "Profession_Weaponsmithing",
+  "x": -854,
+  "z": -940,
+  "y": 76
+ },
+ {
+  "name": "Weaponsmithing Station",
+  "type": "Profession_Weaponsmithing",
+  "x": -846,
+  "z": -1488,
+  "y": 65
+ },
+ {
+  "name": "Weaponsmithing Station",
+  "type": "Profession_Weaponsmithing",
+  "x": -724,
+  "z": -635,
+  "y": 88
+ },
+ {
+  "name": "Weaponsmithing Station",
+  "type": "Profession_Weaponsmithing",
+  "x": -573,
+  "z": -1933,
+  "y": 46
+ },
+ {
+  "name": "Weaponsmithing Station",
+  "type": "Profession_Weaponsmithing",
+  "x": -456,
+  "z": -4936,
+  "y": 45
+ },
+ {
+  "name": "Weaponsmithing Station",
+  "type": "Profession_Weaponsmithing",
+  "x": -302,
+  "z": -4463,
+  "y": 101
+ },
+ {
+  "name": "Weaponsmithing Station",
+  "type": "Profession_Weaponsmithing",
+  "x": -1,
+  "z": -1195,
+  "y": 73
+ },
+ {
+  "name": "Weaponsmithing Station",
+  "type": "Profession_Weaponsmithing",
+  "x": 108,
+  "z": -785,
+  "y": 71
+ },
+ {
+  "name": "Weaponsmithing Station",
+  "type": "Profession_Weaponsmithing",
+  "x": 120,
+  "z": -2138,
+  "y": 42
+ },
+ {
+  "name": "Weaponsmithing Station",
+  "type": "Profession_Weaponsmithing",
+  "x": 130,
+  "z": -3156,
+  "y": 64
+ },
+ {
+  "name": "Weaponsmithing Station",
+  "type": "Profession_Weaponsmithing",
+  "x": 238,
+  "z": -5254,
+  "y": 27
+ },
+ {
+  "name": "Weaponsmithing Station",
+  "type": "Profession_Weaponsmithing",
+  "x": 481,
+  "z": -1591,
+  "y": 65
+ },
+ {
+  "name": "Weaponsmithing Station",
+  "type": "Profession_Weaponsmithing",
+  "x": 726,
+  "z": -1447,
+  "y": 59
+ },
+ {
+  "name": "Weaponsmithing Station",
+  "type": "Profession_Weaponsmithing",
+  "x": 731,
+  "z": -2089,
+  "y": 68
+ },
+ {
+  "name": "Weaponsmithing Station",
+  "type": "Profession_Weaponsmithing",
+  "x": 760,
+  "z": -4440,
+  "y": 162
+ },
+ {
+  "name": "Weaponsmithing Station",
+  "type": "Profession_Weaponsmithing",
+  "x": 802,
+  "z": -5081,
+  "y": 73
+ },
+ {
+  "name": "Weaponsmithing Station",
+  "type": "Profession_Weaponsmithing",
+  "x": 905,
+  "z": -5570,
+  "y": 120
+ },
+ {
+  "name": "Weaponsmithing Station",
+  "type": "Profession_Weaponsmithing",
+  "x": 953,
+  "z": -1960,
+  "y": 65
+ },
+ {
+  "name": "Weaponsmithing Station",
+  "type": "Profession_Weaponsmithing",
+  "x": 986,
+  "z": -663,
+  "y": 71
+ },
+ {
+  "name": "Weaponsmithing Station",
+  "type": "Profession_Weaponsmithing",
+  "x": 1000,
+  "z": -4542,
+  "y": 110
+ },
+ {
+  "name": "Weaponsmithing Station",
+  "type": "Profession_Weaponsmithing",
+  "x": 1070,
+  "z": -5147,
+  "y": 16
+ },
+ {
+  "name": "Weaponsmithing Station",
+  "type": "Profession_Weaponsmithing",
+  "x": 1267,
+  "z": -1353,
+  "y": 29
+ },
+ {
+  "name": "Weaponsmithing Station",
+  "type": "Profession_Weaponsmithing",
+  "x": 1319,
+  "z": -4100,
+  "y": 33
+ },
+ {
+  "name": "Weaponsmithing Station",
+  "type": "Profession_Weaponsmithing",
+  "x": 1466,
+  "z": -5251,
+  "y": 56
+ },
+ {
+  "name": "Woodworking Station",
+  "type": "Profession_Woodworking",
+  "x": -2038,
+  "z": -977,
+  "y": 29
+ },
+ {
+  "name": "Woodworking Station",
+  "type": "Profession_Woodworking",
+  "x": -1993,
+  "z": -4496,
+  "y": 75
+ },
+ {
+  "name": "Woodworking Station",
+  "type": "Profession_Woodworking",
+  "x": -1898,
+  "z": -1654,
+  "y": 69
+ },
+ {
+  "name": "Woodworking Station",
+  "type": "Profession_Woodworking",
+  "x": -1726,
+  "z": -577,
+  "y": 25
+ },
+ {
+  "name": "Woodworking Station",
+  "type": "Profession_Woodworking",
+  "x": -1717,
+  "z": -5541,
+  "y": 64
+ },
+ {
+  "name": "Woodworking Station",
+  "type": "Profession_Woodworking",
+  "x": -1600,
+  "z": -2983,
+  "y": 66
+ },
+ {
+  "name": "Woodworking Station",
+  "type": "Profession_Woodworking",
+  "x": -1568,
+  "z": -790,
+  "y": 127
+ },
+ {
+  "name": "Woodworking Station",
+  "type": "Profession_Woodworking",
+  "x": -1408,
+  "z": -4704,
+  "y": 41
+ },
+ {
+  "name": "Woodworking Station",
+  "type": "Profession_Woodworking",
+  "x": -1332,
+  "z": -1239,
+  "y": 104
+ },
+ {
+  "name": "Woodworking Station",
+  "type": "Profession_Woodworking",
+  "x": -1305,
+  "z": -703,
+  "y": 76
+ },
+ {
+  "name": "Woodworking Station",
+  "type": "Profession_Woodworking",
+  "x": -1086,
+  "z": -4975,
+  "y": 40
+ },
+ {
+  "name": "Woodworking Station",
+  "type": "Profession_Woodworking",
+  "x": -995,
+  "z": -5277,
+  "y": 45
+ },
+ {
+  "name": "Woodworking Station",
+  "type": "Profession_Woodworking",
+  "x": -879,
+  "z": -915,
+  "y": 74
+ },
+ {
+  "name": "Woodworking Station",
+  "type": "Profession_Woodworking",
+  "x": -840,
+  "z": -1495,
+  "y": 65
+ },
+ {
+  "name": "Woodworking Station",
+  "type": "Profession_Woodworking",
+  "x": -747,
+  "z": -655,
+  "y": 80
+ },
+ {
+  "name": "Woodworking Station",
+  "type": "Profession_Woodworking",
+  "x": -573,
+  "z": -1920,
+  "y": 46
+ },
+ {
+  "name": "Woodworking Station",
+  "type": "Profession_Woodworking",
+  "x": -436,
+  "z": -4937,
+  "y": 45
+ },
+ {
+  "name": "Woodworking Station",
+  "type": "Profession_Woodworking",
+  "x": -287,
+  "z": -4448,
+  "y": 101
+ },
+ {
+  "name": "Woodworking Station",
+  "type": "Profession_Woodworking",
+  "x": 3,
+  "z": -1199,
+  "y": 73
+ },
+ {
+  "name": "Woodworking Station",
+  "type": "Profession_Woodworking",
+  "x": 65,
+  "z": -2213,
+  "y": 36
+ },
+ {
+  "name": "Woodworking Station",
+  "type": "Profession_Woodworking",
+  "x": 102,
+  "z": -781,
+  "y": 71
+ },
+ {
+  "name": "Woodworking Station",
+  "type": "Profession_Woodworking",
+  "x": 116,
+  "z": -3116,
+  "y": 34
+ },
+ {
+  "name": "Woodworking Station",
+  "type": "Profession_Woodworking",
+  "x": 226,
+  "z": -5228,
+  "y": 27
+ },
+ {
+  "name": "Woodworking Station",
+  "type": "Profession_Woodworking",
+  "x": 478,
+  "z": -1572,
+  "y": 65
+ },
+ {
+  "name": "Woodworking Station",
+  "type": "Profession_Woodworking",
+  "x": 702,
+  "z": -2066,
+  "y": 68
+ },
+ {
+  "name": "Woodworking Station",
+  "type": "Profession_Woodworking",
+  "x": 737,
+  "z": -1424,
+  "y": 59
+ },
+ {
+  "name": "Woodworking Station",
+  "type": "Profession_Woodworking",
+  "x": 753,
+  "z": -4427,
+  "y": 162
+ },
+ {
+  "name": "Woodworking Station",
+  "type": "Profession_Woodworking",
+  "x": 778,
+  "z": -5080,
+  "y": 73
+ },
+ {
+  "name": "Woodworking Station",
+  "type": "Profession_Woodworking",
+  "x": 892,
+  "z": -1935,
+  "y": 65
+ },
+ {
+  "name": "Woodworking Station",
+  "type": "Profession_Woodworking",
+  "x": 944,
+  "z": -5509,
+  "y": 114
+ },
+ {
+  "name": "Woodworking Station",
+  "type": "Profession_Woodworking",
+  "x": 960,
+  "z": -668,
+  "y": 71
+ },
+ {
+  "name": "Woodworking Station",
+  "type": "Profession_Woodworking",
+  "x": 1064,
+  "z": -5127,
+  "y": 16
+ },
+ {
+  "name": "Woodworking Station",
+  "type": "Profession_Woodworking",
+  "x": 1112,
+  "z": -4562,
+  "y": 99
+ },
+ {
+  "name": "Woodworking Station",
+  "type": "Profession_Woodworking",
+  "x": 1260,
+  "z": -1350,
+  "y": 29
+ },
+ {
+  "name": "Woodworking Station",
+  "type": "Profession_Woodworking",
+  "x": 1326,
+  "z": -1305,
+  "y": 29
+ },
+ {
+  "name": "Woodworking Station",
+  "type": "Profession_Woodworking",
+  "x": 1443,
+  "z": -5261,
+  "y": 62
+ },
+ {
+  "name": "Fast Travel",
+  "type": "Special_FastTravel",
+  "x": -1930,
+  "z": -4473,
+  "y": 77
+ },
+ {
+  "name": "Fast Travel",
+  "type": "Special_FastTravel",
+  "x": -1575,
+  "z": -2913,
+  "y": 104
+ },
+ {
+  "name": "Fast Travel",
+  "type": "Special_FastTravel",
+  "x": -1364,
+  "z": -2937,
+  "y": 40
+ },
+ {
+  "name": "Fast Travel",
+  "type": "Special_FastTravel",
+  "x": -818,
+  "z": -1148,
+  "y": 95
+ },
+ {
+  "name": "Fast Travel",
+  "type": "Special_FastTravel",
+  "x": -818,
+  "z": -1051,
+  "y": 95
+ },
+ {
+  "name": "Fast Travel",
+  "type": "Special_FastTravel",
+  "x": -719,
+  "z": -1585,
+  "y": 60
+ },
+ {
+  "name": "Fast Travel",
+  "type": "Special_FastTravel",
+  "x": -673,
+  "z": -3136,
+  "y": 35
+ },
+ {
+  "name": "Fast Travel",
+  "type": "Special_FastTravel",
+  "x": -481,
+  "z": -4910,
+  "y": 47
+ },
+ {
+  "name": "Fast Travel",
+  "type": "Special_FastTravel",
+  "x": -281,
+  "z": -1174,
+  "y": 54
+ },
+ {
+  "name": "Fast Travel",
+  "type": "Special_FastTravel",
+  "x": -208,
+  "z": -4979,
+  "y": 105
+ },
+ {
+  "name": "Fast Travel",
+  "type": "Special_FastTravel",
+  "x": -121,
+  "z": -1638,
+  "y": 70
+ },
+ {
+  "name": "Fast Travel",
+  "type": "Special_FastTravel",
+  "x": 71,
+  "z": -3110,
+  "y": 36
+ },
+ {
+  "name": "Fast Travel",
+  "type": "Special_FastTravel",
+  "x": 98,
+  "z": -2161,
+  "y": 43
+ },
+ {
+  "name": "Fast Travel",
+  "type": "Special_FastTravel",
+  "x": 152,
+  "z": -3109,
+  "y": 38
+ },
+ {
+  "name": "Fast Travel",
+  "type": "Special_FastTravel",
+  "x": 160,
+  "z": -2211,
+  "y": 36
+ },
+ {
+  "name": "Fast Travel",
+  "type": "Special_FastTravel",
+  "x": 377,
+  "z": -1632,
+  "y": 71
+ },
+ {
+  "name": "Fast Travel",
+  "type": "Special_FastTravel",
+  "x": 377,
+  "z": -1551,
+  "y": 62
+ },
+ {
+  "name": "Fast Travel",
+  "type": "Special_FastTravel",
+  "x": 414,
+  "z": -1501,
+  "y": 83
+ },
+ {
+  "name": "Fast Travel",
+  "type": "Special_FastTravel",
+  "x": 754,
+  "z": -4397,
+  "y": 178
+ },
+ {
+  "name": "Fast Travel",
+  "type": "Special_FastTravel",
+  "x": 833,
+  "z": -4987,
+  "y": 113
+ },
+ {
+  "name": "Fast Travel",
+  "type": "Special_FastTravel",
+  "x": 895,
+  "z": -2887,
+  "y": 49
+ },
+ {
+  "name": "Fast Travel",
+  "type": "Special_FastTravel",
+  "x": 932,
+  "z": -5539,
+  "y": 119
+ },
+ {
+  "name": "Housing Air Balloon",
+  "type": "Special_HousingAirBalloon",
+  "x": -2009,
+  "z": -4367,
+  "y": 34
+ },
+ {
+  "name": "Housing Air Balloon",
+  "type": "Special_HousingAirBalloon",
+  "x": -1714,
+  "z": -5530,
+  "y": 66
+ },
+ {
+  "name": "Housing Air Balloon",
+  "type": "Special_HousingAirBalloon",
+  "x": -1174,
+  "z": -2434,
+  "y": 64
+ },
+ {
+  "name": "Housing Air Balloon",
+  "type": "Special_HousingAirBalloon",
+  "x": -1039,
+  "z": -5340,
+  "y": 43
+ },
+ {
+  "name": "Housing Air Balloon",
+  "type": "Special_HousingAirBalloon",
+  "x": -837,
+  "z": -918,
+  "y": 76
+ },
+ {
+  "name": "Housing Air Balloon",
+  "type": "Special_HousingAirBalloon",
+  "x": -835,
+  "z": -1539,
+  "y": 66
+ },
+ {
+  "name": "Housing Air Balloon",
+  "type": "Special_HousingAirBalloon",
+  "x": -471,
+  "z": -4974,
+  "y": 46
+ },
+ {
+  "name": "Housing Air Balloon",
+  "type": "Special_HousingAirBalloon",
+  "x": 79,
+  "z": -3092,
+  "y": 35
+ },
+ {
+  "name": "Housing Air Balloon",
+  "type": "Special_HousingAirBalloon",
+  "x": 106,
+  "z": -799,
+  "y": 72
+ },
+ {
+  "name": "Housing Air Balloon",
+  "type": "Special_HousingAirBalloon",
+  "x": 152,
+  "z": -2194,
+  "y": 40
+ },
+ {
+  "name": "Housing Air Balloon",
+  "type": "Special_HousingAirBalloon",
+  "x": 452,
+  "z": -1571,
+  "y": 66
+ },
+ {
+  "name": "Housing Air Balloon",
+  "type": "Special_HousingAirBalloon",
+  "x": 914,
+  "z": -1943,
+  "y": 66
+ },
+ {
+  "name": "Housing Air Balloon",
+  "type": "Special_HousingAirBalloon",
+  "x": 987,
+  "z": -5491,
+  "y": 106
+ },
+ {
+  "name": "Housing Air Balloon",
+  "type": "Special_HousingAirBalloon",
+  "x": 1019,
+  "z": -700,
+  "y": 76
+ },
+ {
+  "name": "Housing Air Balloon",
+  "type": "Special_HousingAirBalloon",
+  "x": 1031,
+  "z": -4603,
+  "y": 109
+ },
+ {
+  "name": "Housing Air Balloon",
+  "type": "Special_HousingAirBalloon",
+  "x": 1126,
+  "z": -5175,
+  "y": 12
+ },
+ {
+  "name": "Nether Portal",
+  "type": "Special_RootsOfCorruption",
+  "x": 340,
+  "z": -1300,
+  "y": 50
+ },
+ {
+  "name": "Tol Altar",
+  "type": "Special_Rune",
+  "x": 529,
+  "z": -457,
+  "y": 70
+ },
+ {
+  "name": "Tol Altar",
+  "type": "Special_Rune",
+  "x": 1431,
+  "z": -4634,
+  "y": 120
+ },
+ {
+  "name": "Uth Shrine",
+  "type": "Special_Rune",
+  "x": -1911,
+  "z": -3235,
+  "y": 113
+ },
+ {
+  "name": "Uth Shrine",
+  "type": "Special_Rune",
+  "x": -215,
+  "z": -4460,
+  "y": 137
+ },
+ {
+  "name": "Seaskipper Fast Travel",
+  "type": "Special_SeaskipperFastTravel",
+  "x": -1942,
+  "z": -4219,
+  "y": 36
+ },
+ {
+  "name": "Seaskipper Fast Travel",
+  "type": "Special_SeaskipperFastTravel",
+  "x": -1915,
+  "z": -2017,
+  "y": 36
+ },
+ {
+  "name": "Seaskipper Fast Travel",
+  "type": "Special_SeaskipperFastTravel",
+  "x": -1075,
+  "z": -3786,
+  "y": 36
+ },
+ {
+  "name": "Seaskipper Fast Travel",
+  "type": "Special_SeaskipperFastTravel",
+  "x": -688,
+  "z": -3153,
+  "y": 36
+ },
+ {
+  "name": "Seaskipper Fast Travel",
+  "type": "Special_SeaskipperFastTravel",
+  "x": -588,
+  "z": -3599,
+  "y": 36
+ },
+ {
+  "name": "Seaskipper Fast Travel",
+  "type": "Special_SeaskipperFastTravel",
+  "x": -520,
+  "z": -2673,
+  "y": 36
+ },
+ {
+  "name": "Seaskipper Fast Travel",
+  "type": "Special_SeaskipperFastTravel",
+  "x": -292,
+  "z": -2503,
+  "y": 36
+ },
+ {
+  "name": "Seaskipper Fast Travel",
+  "type": "Special_SeaskipperFastTravel",
+  "x": -45,
+  "z": -2518,
+  "y": 36
+ },
+ {
+  "name": "Seaskipper Fast Travel",
+  "type": "Special_SeaskipperFastTravel",
+  "x": 70,
+  "z": -922,
+  "y": 67
+ },
+ {
+  "name": "Seaskipper Fast Travel",
+  "type": "Special_SeaskipperFastTravel",
+  "x": 97,
+  "z": -3062,
+  "y": 36
+ },
+ {
+  "name": "Seaskipper Fast Travel",
+  "type": "Special_SeaskipperFastTravel",
+  "x": 147,
+  "z": -3805,
+  "y": 36
+ },
+ {
+  "name": "Seaskipper Fast Travel",
+  "type": "Special_SeaskipperFastTravel",
+  "x": 188,
+  "z": -2272,
+  "y": 36
+ },
+ {
+  "name": "Seaskipper Fast Travel",
+  "type": "Special_SeaskipperFastTravel",
+  "x": 437,
+  "z": -2956,
+  "y": 36
+ },
+ {
+  "name": "Seaskipper Fast Travel",
+  "type": "Special_SeaskipperFastTravel",
+  "x": 569,
+  "z": -3720,
+  "y": 36
+ },
+ {
+  "name": "Seaskipper Fast Travel",
+  "type": "Special_SeaskipperFastTravel",
+  "x": 714,
+  "z": -3382,
+  "y": 36
+ },
+ {
+  "name": "Seaskipper Fast Travel",
+  "type": "Special_SeaskipperFastTravel",
+  "x": 770,
+  "z": -3858,
+  "y": 36
+ },
+ {
+  "name": "Seaskipper Fast Travel",
+  "type": "Special_SeaskipperFastTravel",
+  "x": 857,
+  "z": -2823,
+  "y": 36
+ },
+ {
+  "name": "Seaskipper Fast Travel",
+  "type": "Special_SeaskipperFastTravel",
+  "x": 1081,
+  "z": -2535,
+  "y": 36
+ },
+ {
+  "name": "Seaskipper Fast Travel",
+  "type": "Special_SeaskipperFastTravel",
+  "x": 1261,
+  "z": -4086,
+  "y": 36
+ }
+]
