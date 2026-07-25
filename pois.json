@@ -133893,6 +133893,13 @@
  {
   "name": "Housing Air Balloon",
   "type": "Special_HousingAirBalloon",
+  "x": -1253,
+  "y": 50,
+  "z": -733
+ },
+ {
+  "name": "Housing Air Balloon",
+  "type": "Special_HousingAirBalloon",
   "x": -1174,
   "z": -2434,
   "y": 64
