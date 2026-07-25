@@ -127262,6 +127262,55 @@
   "y": 121
  },
  {
+  "name": "Canyon of the Lost Excursion (South)",
+  "type": "loot_camp",
+  "x": 587,
+  "z": -5022,
+  "y": 80
+ },
+ {
+  "name": "Molten Heights Hike",
+  "type": "loot_camp",
+  "x": 1270,
+  "z": -5127,
+  "y": 11
+ },
+ {
+  "name": "Silent Expanse Expedition",
+  "type": "loot_camp",
+  "x": 997,
+  "z": -789,
+  "y": 78
+ },
+ {
+  "name": "Sky Islands Exploration",
+  "type": "loot_camp",
+  "x": 1034,
+  "z": -4414,
+  "y": 135
+ },
+ {
+  "name": "The Corkus Traversal",
+  "type": "loot_camp",
+  "x": -1553,
+  "z": -2674,
+  "y": 98
+ },
+ {
+  "name": "The Fruma Foray (East)",
+  "type": "loot_camp",
+  "x": -1279,
+  "z": -1155,
+  "y": 76
+ },
+ {
+  "name": "The Fruma Foray (West)",
+  "type": "loot_camp",
+  "x": -2026,
+  "z": -770,
+  "y": 5
+ },
+ {
   "name": "Accessory Merchant",
   "type": "Merchant_Accessory",
   "x": -2029,
@@ -133879,6 +133928,13 @@
  {
   "name": "Housing Air Balloon",
   "type": "Special_HousingAirBalloon",
+  "x": -2063,
+  "y": 25,
+  "z": -1047
+ },
+ {
+  "name": "Housing Air Balloon",
+  "type": "Special_HousingAirBalloon",
   "x": -2009,
   "z": -4367,
   "y": 34
@@ -133889,6 +133945,13 @@
   "x": -1714,
   "z": -5530,
   "y": 66
+ },
+ {
+  "name": "Housing Air Balloon",
+  "type": "Special_HousingAirBalloon",
+  "x": -1701,
+  "y": 38,
+  "z": -618
  },
  {
   "name": "Housing Air Balloon",
